@@ -1,0 +1,1827 @@
+AC,AF,AR,AS,AST,AY,AwayTeam,Date,HC,HF,HR,HS,HST,HTAG,HTHG,HY,HomeTeam,league
+5,17,0,19,4,2,Leverkusen,2017-08-18,4,13,0,13,8,0,2,1,Bayern Munich,bundesliga
+7,16,0,13,1,3,Augsburg,2017-08-19,3,18,0,11,5,0,1,4,Hamburg,bundesliga
+1,12,0,9,2,1,Stuttgart,2017-08-19,5,18,0,10,3,0,0,2,Hertha,bundesliga
+4,15,0,11,2,3,Werder Bremen,2017-08-19,6,17,0,14,3,0,0,1,Hoffenheim,bundesliga
+1,14,0,6,2,5,Hannover,2017-08-19,13,18,0,14,6,0,0,3,Mainz,bundesliga
+5,18,0,12,3,2,RB Leipzig,2017-08-19,4,22,0,11,5,0,1,2,Schalke 04,bundesliga
+5,15,0,13,5,0,Dortmund,2017-08-19,3,7,0,9,0,2,0,0,Wolfsburg,bundesliga
+7,17,0,15,2,2,Ein Frankfurt,2017-08-20,3,8,0,7,1,0,0,1,Freiburg,bundesliga
+3,11,0,13,2,2,FC Koln,2017-08-20,5,12,0,22,8,0,0,3,M'gladbach,bundesliga
+7,9,1,12,4,2,Hamburg,2017-08-25,6,9,0,20,6,2,0,2,FC Koln,bundesliga
+0,12,0,15,3,2,M'gladbach,2017-08-26,10,13,0,24,9,2,1,2,Augsburg,bundesliga
+4,9,0,7,4,1,Hertha,2017-08-26,4,12,0,18,8,0,1,1,Dortmund,bundesliga
+2,19,0,7,3,1,Wolfsburg,2017-08-26,7,18,0,12,6,1,0,3,Ein Frankfurt,bundesliga
+1,11,0,6,4,2,Hoffenheim,2017-08-26,6,16,0,16,3,0,1,2,Leverkusen,bundesliga
+6,18,0,13,6,1,Mainz,2017-08-26,5,12,0,17,4,0,0,2,Stuttgart,bundesliga
+8,10,0,19,8,1,Bayern Munich,2017-08-26,2,9,0,4,1,0,0,1,Werder Bremen,bundesliga
+6,17,0,8,1,2,Schalke 04,2017-08-27,2,17,0,11,3,0,0,1,Hannover,bundesliga
+2,13,1,7,2,0,Freiburg,2017-08-27,8,11,0,29,11,1,0,2,RB Leipzig,bundesliga
+14,11,0,19,4,1,RB Leipzig,2017-09-08,4,14,0,9,2,0,0,1,Hamburg,bundesliga
+9,13,0,13,3,0,FC Koln,2017-09-09,6,15,0,10,4,0,2,0,Augsburg,bundesliga
+7,11,0,27,3,0,Dortmund,2017-09-09,0,10,1,5,2,0,0,0,Freiburg,bundesliga
+4,9,0,23,6,1,Bayern Munich,2017-09-09,2,15,0,6,3,0,1,3,Hoffenheim,bundesliga
+3,15,0,13,2,2,Leverkusen,2017-09-09,1,16,0,14,5,1,1,2,Mainz,bundesliga
+5,17,0,12,6,2,Ein Frankfurt,2017-09-09,13,17,0,15,3,1,0,3,M'gladbach,bundesliga
+1,20,0,7,2,1,Hannover,2017-09-09,3,13,0,17,6,0,0,0,Wolfsburg,bundesliga
+7,12,0,10,5,0,Werder Bremen,2017-09-10,5,9,0,8,4,0,1,1,Hertha,bundesliga
+1,19,0,11,2,1,Stuttgart,2017-09-10,2,15,0,12,4,1,1,1,Schalke 04,bundesliga
+7,16,0,12,3,0,Hamburg,2017-09-15,4,17,0,17,4,0,0,1,Hannover,bundesliga
+5,5,0,11,4,2,Mainz,2017-09-16,10,9,0,28,14,0,2,2,Bayern Munich,bundesliga
+4,13,0,11,3,3,Augsburg,2017-09-16,4,13,0,23,8,1,0,2,Ein Frankfurt,bundesliga
+2,12,0,10,3,1,M'gladbach,2017-09-16,3,13,1,10,3,1,2,1,RB Leipzig,bundesliga
+3,19,0,8,1,3,Wolfsburg,2017-09-16,2,14,0,8,4,0,1,2,Stuttgart,bundesliga
+5,17,0,11,4,2,Schalke 04,2017-09-16,6,15,0,16,2,1,1,2,Werder Bremen,bundesliga
+5,12,0,6,2,3,FC Koln,2017-09-17,8,11,0,22,8,0,2,0,Dortmund,bundesliga
+2,20,0,9,4,2,Hertha,2017-09-17,5,15,0,8,2,0,1,2,Hoffenheim,bundesliga
+4,13,0,4,1,2,Freiburg,2017-09-17,5,4,0,22,9,0,3,0,Leverkusen,bundesliga
+2,17,0,14,3,2,RB Leipzig,2017-09-19,3,15,0,11,4,0,1,2,Augsburg,bundesliga
+1,8,0,11,4,1,Stuttgart,2017-09-19,4,9,0,9,3,0,0,0,M'gladbach,bundesliga
+6,11,0,12,8,1,Bayern Munich,2017-09-19,2,13,0,11,4,2,0,1,Schalke 04,bundesliga
+4,18,0,11,4,2,Werder Bremen,2017-09-19,3,10,0,13,4,0,1,1,Wolfsburg,bundesliga
+5,20,0,8,4,1,Ein Frankfurt,2017-09-20,4,20,0,17,8,1,0,2,FC Koln,bundesliga
+3,19,0,14,3,4,Hannover,2017-09-20,5,17,0,23,5,0,0,2,Freiburg,bundesliga
+3,14,0,17,7,0,Dortmund,2017-09-20,4,15,0,6,2,1,0,3,Hamburg,bundesliga
+6,25,0,12,5,2,Leverkusen,2017-09-20,3,12,0,5,3,0,2,1,Hertha,bundesliga
+11,13,0,18,6,3,Hoffenheim,2017-09-20,5,9,0,20,6,2,2,3,Mainz,bundesliga
+3,11,0,8,3,2,Wolfsburg,2017-09-22,7,9,0,19,3,0,2,1,Bayern Munich,bundesliga
+0,6,0,8,5,1,M'gladbach,2017-09-23,7,2,0,18,9,0,3,0,Dortmund,bundesliga
+5,15,0,17,3,2,Schalke 04,2017-09-23,0,16,0,12,6,0,1,3,Hoffenheim,bundesliga
+1,22,1,4,1,3,Hertha,2017-09-23,4,22,0,8,3,0,0,3,Mainz,bundesliga
+4,16,0,9,3,2,Ein Frankfurt,2017-09-23,2,9,0,17,5,0,1,1,RB Leipzig,bundesliga
+3,14,0,9,2,2,Augsburg,2017-09-23,5,7,0,15,2,0,0,1,Stuttgart,bundesliga
+5,9,0,13,6,1,Freiburg,2017-09-23,4,15,0,17,6,0,0,2,Werder Bremen,bundesliga
+7,17,0,6,1,2,FC Koln,2017-09-24,6,17,0,14,1,0,0,4,Hannover,bundesliga
+3,18,0,12,2,2,Hamburg,2017-09-24,6,17,0,17,6,0,2,2,Leverkusen,bundesliga
+4,16,0,10,6,3,Leverkusen,2017-09-29,7,19,0,14,5,0,1,2,Schalke 04,bundesliga
+5,12,0,14,8,1,Dortmund,2017-09-30,5,23,0,10,5,2,1,4,Augsburg,bundesliga
+6,17,0,13,5,1,Stuttgart,2017-09-30,3,10,1,10,6,0,1,1,Ein Frankfurt,bundesliga
+7,27,0,8,3,3,Werder Bremen,2017-09-30,6,13,0,17,6,0,0,1,Hamburg,bundesliga
+7,13,0,15,2,1,Hannover,2017-09-30,8,12,0,23,8,0,0,1,M'gladbach,bundesliga
+6,13,0,10,3,4,Mainz,2017-09-30,5,7,1,6,2,0,0,4,Wolfsburg,bundesliga
+7,13,0,23,10,2,RB Leipzig,2017-10-01,9,9,0,16,6,1,0,0,FC Koln,bundesliga
+7,17,0,15,6,3,Hoffenheim,2017-10-01,9,13,0,15,6,1,2,2,Freiburg,bundesliga
+9,11,0,15,5,2,Bayern Munich,2017-10-01,1,14,0,10,5,1,0,0,Hertha,bundesliga
+4,13,0,17,3,3,FC Koln,2017-10-13,5,12,0,22,7,0,1,2,Stuttgart,bundesliga
+1,7,0,6,2,0,Freiburg,2017-10-14,9,5,0,22,10,0,2,0,Bayern Munich,bundesliga
+2,19,1,7,6,5,RB Leipzig,2017-10-14,3,16,1,15,8,2,1,2,Dortmund,bundesliga
+5,16,0,12,4,3,Ein Frankfurt,2017-10-14,6,15,0,10,2,1,1,3,Hannover,bundesliga
+5,20,0,10,6,2,Schalke 04,2017-10-14,1,12,1,2,0,0,0,1,Hertha,bundesliga
+3,11,0,13,5,0,Augsburg,2017-10-14,6,5,0,22,7,0,0,1,Hoffenheim,bundesliga
+2,17,0,9,2,1,Hamburg,2017-10-14,4,14,0,14,4,1,1,1,Mainz,bundesliga
+2,13,0,11,4,2,Wolfsburg,2017-10-15,11,16,0,17,10,1,1,2,Leverkusen,bundesliga
+5,10,0,16,8,0,M'gladbach,2017-10-15,5,11,0,18,5,2,0,1,Werder Bremen,bundesliga
+1,15,0,4,2,0,Mainz,2017-10-20,5,17,0,14,5,0,1,3,Schalke 04,bundesliga
+2,9,0,11,6,2,Hannover,2017-10-21,11,11,0,15,5,0,1,1,Augsburg,bundesliga
+4,10,0,20,7,3,Dortmund,2017-10-21,4,14,0,14,7,1,0,2,Ein Frankfurt,bundesliga
+7,9,0,21,4,2,Bayern Munich,2017-10-21,7,9,1,7,3,0,0,1,Hamburg,bundesliga
+4,11,0,13,6,0,Leverkusen,2017-10-21,4,12,0,19,3,0,1,3,M'gladbach,bundesliga
+5,18,0,11,2,1,Stuttgart,2017-10-21,3,10,0,15,3,0,1,0,RB Leipzig,bundesliga
+6,20,0,13,2,3,Werder Bremen,2017-10-22,3,16,0,18,8,0,0,3,FC Koln,bundesliga
+1,15,0,11,3,3,Hertha,2017-10-22,6,20,0,20,8,0,0,4,Freiburg,bundesliga
+4,24,0,14,5,3,Hoffenheim,2017-10-22,8,12,0,14,6,0,0,1,Wolfsburg,bundesliga
+5,21,0,8,3,2,Ein Frankfurt,2017-10-27,5,15,0,7,3,1,0,0,Mainz,bundesliga
+1,9,1,3,1,0,RB Leipzig,2017-10-28,11,7,0,23,7,0,2,1,Bayern Munich,bundesliga
+6,9,1,10,4,0,Dortmund,2017-10-28,5,17,0,13,7,1,2,2,Hannover,bundesliga
+11,13,0,12,4,0,Hamburg,2017-10-28,9,14,0,8,3,0,1,0,Hertha,bundesliga
+5,13,0,16,6,1,M'gladbach,2017-10-28,5,14,0,16,5,0,1,2,Hoffenheim,bundesliga
+10,13,0,9,2,2,FC Koln,2017-10-28,8,14,0,17,5,1,0,3,Leverkusen,bundesliga
+2,12,0,7,2,0,Wolfsburg,2017-10-28,4,18,0,14,7,0,1,0,Schalke 04,bundesliga
+0,10,1,6,0,0,Freiburg,2017-10-29,6,13,0,18,6,0,2,3,Stuttgart,bundesliga
+3,11,0,18,6,0,Augsburg,2017-10-29,7,15,0,16,3,2,0,2,Werder Bremen,bundesliga
+8,13,0,13,7,0,Werder Bremen,2017-11-03,7,11,0,16,5,1,1,0,Ein Frankfurt,bundesliga
+3,15,0,11,3,2,Leverkusen,2017-11-04,6,13,0,14,4,0,0,3,Augsburg,bundesliga
+3,16,0,10,5,2,Bayern Munich,2017-11-04,4,12,0,15,4,2,0,2,Dortmund,bundesliga
+1,12,0,8,3,1,Schalke 04,2017-11-04,6,14,0,13,2,0,0,1,Freiburg,bundesliga
+3,10,1,3,2,2,Stuttgart,2017-11-04,11,14,0,21,12,0,1,2,Hamburg,bundesliga
+9,14,0,20,7,0,Mainz,2017-11-04,9,5,0,10,3,1,0,1,M'gladbach,bundesliga
+3,16,0,12,4,4,Hannover,2017-11-04,2,11,0,18,6,0,0,1,RB Leipzig,bundesliga
+6,14,0,22,8,0,Hoffenheim,2017-11-05,7,17,0,12,4,1,0,0,FC Koln,bundesliga
+2,19,0,10,6,1,Hertha,2017-11-05,4,14,0,20,8,1,2,1,Wolfsburg,bundesliga
+4,12,0,13,7,0,Dortmund,2017-11-17,5,16,0,9,4,1,1,2,Stuttgart,bundesliga
+3,16,0,8,3,3,Augsburg,2017-11-18,6,13,0,16,6,0,2,0,Bayern Munich,bundesliga
+2,12,0,8,5,1,M'gladbach,2017-11-18,8,15,0,16,8,3,1,2,Hertha,bundesliga
+3,19,0,5,3,2,Ein Frankfurt,2017-11-18,4,14,0,13,6,1,0,0,Hoffenheim,bundesliga
+1,13,0,12,3,2,RB Leipzig,2017-11-18,2,14,1,13,3,1,1,5,Leverkusen,bundesliga
+3,15,0,11,0,2,FC Koln,2017-11-18,0,12,1,12,3,0,1,0,Mainz,bundesliga
+3,8,0,12,7,2,Freiburg,2017-11-18,1,8,0,15,7,0,2,1,Wolfsburg,bundesliga
+6,19,0,7,1,3,Hamburg,2017-11-19,7,16,0,12,4,0,1,3,Schalke 04,bundesliga
+2,16,0,13,7,1,Hannover,2017-11-19,3,14,0,16,7,0,1,0,Werder Bremen,bundesliga
+5,16,0,13,4,5,Stuttgart,2017-11-24,4,14,0,15,4,1,0,1,Hannover,bundesliga
+1,12,1,4,3,2,Wolfsburg,2017-11-25,6,7,0,23,8,1,0,1,Augsburg,bundesliga
+5,19,0,12,7,5,Schalke 04,2017-11-25,3,17,1,11,6,0,4,5,Dortmund,bundesliga
+2,14,0,13,4,3,Leverkusen,2017-11-25,9,18,0,12,3,0,0,4,Ein Frankfurt,bundesliga
+5,15,0,17,5,2,Mainz,2017-11-25,2,16,0,15,5,0,0,3,Freiburg,bundesliga
+5,9,0,21,7,1,Bayern Munich,2017-11-25,2,12,0,6,2,0,2,1,M'gladbach,bundesliga
+8,10,0,9,3,1,Werder Bremen,2017-11-25,8,9,0,14,6,0,1,0,RB Leipzig,bundesliga
+4,8,0,10,7,0,Hertha,2017-11-26,3,15,0,15,2,1,0,2,FC Koln,bundesliga
+8,23,0,13,2,3,Hoffenheim,2017-11-26,7,16,0,18,7,0,1,0,Hamburg,bundesliga
+5,19,0,10,3,3,Hamburg,2017-12-01,7,13,0,20,2,0,0,2,Freiburg,bundesliga
+3,8,0,8,4,2,Hannover,2017-12-02,9,12,0,29,12,1,1,2,Bayern Munich,bundesliga
+7,10,0,11,5,0,RB Leipzig,2017-12-02,0,14,0,10,8,0,1,2,Hoffenheim,bundesliga
+4,19,0,9,3,3,Dortmund,2017-12-02,7,8,1,15,9,0,1,1,Leverkusen,bundesliga
+3,13,0,10,4,1,Augsburg,2017-12-02,4,17,0,16,5,2,0,4,Mainz,bundesliga
+4,18,1,7,4,2,FC Koln,2017-12-02,7,14,0,23,10,0,1,0,Schalke 04,bundesliga
+8,17,0,12,4,1,Stuttgart,2017-12-02,5,13,0,15,6,0,1,2,Werder Bremen,bundesliga
+2,13,0,7,5,3,Ein Frankfurt,2017-12-03,4,15,0,15,5,1,1,1,Hertha,bundesliga
+5,15,0,16,9,2,M'gladbach,2017-12-03,6,7,0,13,6,0,2,0,Wolfsburg,bundesliga
+5,12,0,18,4,1,Leverkusen,2017-12-08,8,12,0,9,5,1,0,1,Stuttgart,bundesliga
+2,6,0,9,4,0,Werder Bremen,2017-12-09,4,8,0,11,5,1,0,0,Dortmund,bundesliga
+5,12,0,6,1,3,Bayern Munich,2017-12-09,5,16,0,12,3,1,0,2,Ein Frankfurt,bundesliga
+2,12,0,3,0,2,Wolfsburg,2017-12-09,6,15,0,12,3,0,0,2,Hamburg,bundesliga
+10,7,0,13,6,2,Schalke 04,2017-12-09,8,12,0,13,5,0,1,1,M'gladbach,bundesliga
+4,17,0,13,9,3,Mainz,2017-12-09,6,16,0,12,7,1,2,2,RB Leipzig,bundesliga
+3,9,0,8,4,2,Hertha,2017-12-10,11,11,0,15,3,0,0,2,Augsburg,bundesliga
+9,14,0,25,11,3,Freiburg,2017-12-10,4,20,0,6,3,1,3,3,FC Koln,bundesliga
+1,15,0,9,5,5,Hoffenheim,2017-12-10,2,12,0,12,3,0,0,2,Hannover,bundesliga
+3,12,0,5,3,2,M'gladbach,2017-12-12,5,7,0,24,5,0,1,0,Freiburg,bundesliga
+3,26,0,10,6,4,Ein Frankfurt,2017-12-12,9,6,0,21,6,2,1,0,Hamburg,bundesliga
+6,6,0,15,6,0,Dortmund,2017-12-12,2,14,0,13,0,0,0,0,Mainz,bundesliga
+9,16,1,14,5,4,RB Leipzig,2017-12-12,6,8,0,13,5,0,1,2,Wolfsburg,bundesliga
+1,12,0,7,1,0,FC Koln,2017-12-13,13,7,0,26,8,0,0,0,Bayern Munich,bundesliga
+8,12,0,20,6,3,Hannover,2017-12-13,5,10,0,15,9,0,2,2,Hertha,bundesliga
+3,15,0,9,3,1,Stuttgart,2017-12-13,0,12,0,11,3,0,0,1,Hoffenheim,bundesliga
+1,24,0,6,2,3,Werder Bremen,2017-12-13,5,10,0,15,7,0,1,0,Leverkusen,bundesliga
+3,17,0,15,7,2,Augsburg,2017-12-13,2,11,0,8,5,0,1,3,Schalke 04,bundesliga
+4,16,0,8,3,3,Hamburg,2017-12-15,9,7,0,13,5,0,1,0,M'gladbach,bundesliga
+4,14,0,9,6,3,Freiburg,2017-12-16,11,6,0,17,8,1,1,1,Augsburg,bundesliga
+4,13,0,12,5,0,Hoffenheim,2017-12-16,6,7,0,18,3,1,0,0,Dortmund,bundesliga
+6,20,0,15,5,2,Schalke 04,2017-12-16,4,21,0,6,2,0,1,4,Ein Frankfurt,bundesliga
+4,13,0,8,5,1,Wolfsburg,2017-12-16,5,8,0,18,7,0,0,2,FC Koln,bundesliga
+7,14,0,17,7,2,Bayern Munich,2017-12-16,9,18,0,10,4,0,0,2,Stuttgart,bundesliga
+5,22,0,9,3,3,Mainz,2017-12-16,8,13,0,14,7,0,2,2,Werder Bremen,bundesliga
+5,16,0,20,10,1,Leverkusen,2017-12-17,6,9,0,18,7,2,3,0,Hannover,bundesliga
+1,11,1,7,5,3,Hertha,2017-12-17,6,13,0,22,7,2,0,1,RB Leipzig,bundesliga
+6,11,0,16,6,2,Bayern Munich,2018-01-12,6,11,0,12,1,1,0,2,Leverkusen,bundesliga
+4,12,0,9,6,1,Hamburg,2018-01-13,6,5,0,15,5,0,1,1,Augsburg,bundesliga
+2,18,0,2,1,0,Freiburg,2018-01-13,9,14,0,15,4,0,1,0,Ein Frankfurt,bundesliga
+8,16,0,11,5,2,Mainz,2018-01-13,8,13,0,25,9,2,2,0,Hannover,bundesliga
+4,19,0,10,6,2,Schalke 04,2018-01-13,4,16,0,15,9,0,1,2,RB Leipzig,bundesliga
+4,9,0,10,1,0,Hertha,2018-01-13,4,8,0,7,2,0,0,1,Stuttgart,bundesliga
+8,18,0,11,2,3,Hoffenheim,2018-01-13,6,14,0,16,3,1,0,1,Werder Bremen,bundesliga
+7,11,0,10,4,1,Wolfsburg,2018-01-14,6,10,0,19,1,0,0,1,Dortmund,bundesliga
+3,14,0,16,6,3,M'gladbach,2018-01-14,3,17,0,11,3,0,1,2,FC Koln,bundesliga
+5,11,0,11,4,1,Dortmund,2018-01-19,3,15,0,9,2,0,0,3,Hertha,bundesliga
+6,12,0,12,3,0,RB Leipzig,2018-01-20,6,12,0,9,4,0,0,0,Freiburg,bundesliga
+3,13,0,9,2,3,FC Koln,2018-01-20,9,21,0,13,3,1,0,3,Hamburg,bundesliga
+1,16,0,13,6,1,Leverkusen,2018-01-20,4,18,0,13,3,1,0,2,Hoffenheim,bundesliga
+3,8,0,8,5,4,Stuttgart,2018-01-20,7,9,0,21,12,1,1,2,Mainz,bundesliga
+5,11,0,16,3,1,Augsburg,2018-01-20,8,9,0,16,6,0,1,0,M'gladbach,bundesliga
+3,19,0,18,6,2,Ein Frankfurt,2018-01-20,4,12,1,13,4,2,0,4,Wolfsburg,bundesliga
+7,20,0,10,4,2,Werder Bremen,2018-01-21,4,7,0,15,7,1,1,0,Bayern Munich,bundesliga
+2,13,0,11,4,1,Hannover,2018-01-21,1,19,0,5,2,0,1,2,Schalke 04,bundesliga
+4,14,0,14,2,2,M'gladbach,2018-01-26,4,14,0,9,2,0,1,5,Ein Frankfurt,bundesliga
+4,19,0,6,4,2,Hoffenheim,2018-01-27,3,8,0,22,11,2,2,0,Bayern Munich,bundesliga
+2,12,0,4,3,0,Freiburg,2018-01-27,5,11,0,12,4,1,1,1,Dortmund,bundesliga
+6,16,0,11,3,3,Augsburg,2018-01-27,6,12,0,12,5,0,1,3,FC Koln,bundesliga
+3,19,0,8,2,2,Hamburg,2018-01-27,3,14,0,14,5,1,1,0,RB Leipzig,bundesliga
+6,11,0,18,7,1,Schalke 04,2018-01-27,4,15,0,11,2,2,0,2,Stuttgart,bundesliga
+2,20,0,5,2,2,Hertha,2018-01-27,2,13,0,18,7,0,0,3,Werder Bremen,bundesliga
+0,15,0,7,2,3,Wolfsburg,2018-01-28,7,15,0,15,3,0,0,2,Hannover,bundesliga
+0,14,0,4,1,2,Mainz,2018-01-28,13,10,0,12,3,0,0,1,Leverkusen,bundesliga
+2,16,0,17,7,1,Dortmund,2018-02-02,5,13,0,16,5,1,0,2,FC Koln,bundesliga
+4,11,0,15,3,1,Leverkusen,2018-02-03,2,19,0,11,5,0,0,7,Freiburg,bundesliga
+5,13,0,17,4,2,Hoffenheim,2018-02-03,0,13,0,6,3,1,0,0,Hertha,bundesliga
+5,15,0,13,6,3,Bayern Munich,2018-02-03,3,10,0,16,4,2,0,0,Mainz,bundesliga
+7,10,0,16,6,2,RB Leipzig,2018-02-03,1,13,0,10,3,0,0,2,M'gladbach,bundesliga
+2,16,0,12,7,1,Werder Bremen,2018-02-03,3,15,1,15,6,0,1,3,Schalke 04,bundesliga
+6,10,0,13,2,2,Stuttgart,2018-02-03,3,12,0,15,5,0,1,0,Wolfsburg,bundesliga
+2,11,0,8,2,1,Ein Frankfurt,2018-02-04,1,12,0,15,7,0,1,1,Augsburg,bundesliga
+3,18,0,14,7,1,Hannover,2018-02-04,8,14,1,16,3,1,0,2,Hamburg,bundesliga
+7,17,0,12,2,2,Augsburg,2018-02-09,6,12,0,23,9,0,1,0,RB Leipzig,bundesliga
+3,15,0,9,3,2,Schalke 04,2018-02-10,4,15,0,13,5,1,2,2,Bayern Munich,bundesliga
+4,12,0,8,2,1,Hamburg,2018-02-10,2,13,0,10,3,0,0,0,Dortmund,bundesliga
+1,18,0,8,4,1,FC Koln,2018-02-10,4,19,0,13,8,0,1,2,Ein Frankfurt,bundesliga
+4,7,0,12,4,2,Freiburg,2018-02-10,3,13,0,13,6,0,1,0,Hannover,bundesliga
+2,19,0,6,2,3,Mainz,2018-02-10,5,13,0,24,9,1,1,4,Hoffenheim,bundesliga
+4,16,0,9,4,2,Hertha,2018-02-10,9,18,0,15,6,1,0,2,Leverkusen,bundesliga
+8,11,0,12,4,0,M'gladbach,2018-02-11,1,11,0,7,2,0,1,1,Stuttgart,bundesliga
+8,11,0,13,5,5,Wolfsburg,2018-02-11,6,16,0,12,5,0,2,1,Werder Bremen,bundesliga
+4,16,0,13,7,3,Mainz,2018-02-16,6,15,0,9,1,1,0,0,Hertha,bundesliga
+4,18,0,15,7,3,Hannover,2018-02-17,5,15,0,5,1,1,1,2,FC Koln,bundesliga
+5,16,0,9,3,2,Werder Bremen,2018-02-17,0,13,0,7,3,0,1,2,Freiburg,bundesliga
+3,9,0,16,5,2,Leverkusen,2018-02-17,4,15,0,11,3,1,0,2,Hamburg,bundesliga
+3,18,0,12,4,6,Hoffenheim,2018-02-17,4,18,0,9,6,0,2,2,Schalke 04,bundesliga
+8,15,0,18,5,3,Bayern Munich,2018-02-17,4,14,0,3,1,0,1,4,Wolfsburg,bundesliga
+7,16,0,16,6,1,Stuttgart,2018-02-18,4,16,0,8,2,1,0,4,Augsburg,bundesliga
+5,16,0,8,2,3,Dortmund,2018-02-18,6,15,0,28,11,1,0,3,M'gladbach,bundesliga
+5,13,0,10,2,2,RB Leipzig,2018-02-19,7,18,0,12,3,1,2,6,Ein Frankfurt,bundesliga
+3,13,0,8,2,0,Wolfsburg,2018-02-23,2,12,0,13,4,1,1,0,Mainz,bundesliga
+2,12,0,5,3,0,Hertha,2018-02-24,9,11,0,19,6,0,0,0,Bayern Munich,bundesliga
+6,11,0,15,4,1,M'gladbach,2018-02-24,10,14,0,20,5,0,0,2,Hannover,bundesliga
+2,19,0,7,3,1,Freiburg,2018-02-24,4,12,0,12,4,0,0,1,Hoffenheim,bundesliga
+3,15,0,7,0,2,Ein Frankfurt,2018-02-24,4,16,0,13,5,0,1,2,Stuttgart,bundesliga
+2,15,0,6,1,1,Hamburg,2018-02-24,11,16,0,14,3,0,0,1,Werder Bremen,bundesliga
+3,18,0,10,6,4,Schalke 04,2018-02-25,7,15,1,9,5,1,0,4,Leverkusen,bundesliga
+7,10,0,14,5,1,FC Koln,2018-02-25,3,12,0,15,3,0,1,1,RB Leipzig,bundesliga
+3,15,0,13,6,3,Augsburg,2018-02-26,3,8,0,9,2,0,1,0,Dortmund,bundesliga
+6,20,0,17,6,3,Werder Bremen,2018-03-02,5,13,0,10,5,0,2,2,M'gladbach,bundesliga
+5,18,0,17,6,2,Hoffenheim,2018-03-03,8,11,0,8,2,1,0,0,Augsburg,bundesliga
+1,16,0,7,2,2,Hannover,2018-03-03,5,21,0,13,7,0,1,3,Ein Frankfurt,bundesliga
+1,14,1,5,2,5,Mainz,2018-03-03,11,15,0,18,6,0,0,4,Hamburg,bundesliga
+3,12,0,4,2,4,Dortmund,2018-03-03,2,15,0,11,3,1,1,0,RB Leipzig,bundesliga
+6,16,0,11,3,1,Hertha,2018-03-03,2,16,0,7,4,0,1,0,Schalke 04,bundesliga
+2,9,0,17,4,1,Leverkusen,2018-03-03,3,28,1,7,2,1,0,7,Wolfsburg,bundesliga
+3,13,0,9,4,3,Stuttgart,2018-03-04,3,13,0,12,4,2,1,1,FC Koln,bundesliga
+5,8,0,17,4,0,Bayern Munich,2018-03-04,4,8,0,5,1,2,0,1,Freiburg,bundesliga
+6,17,0,6,2,2,Schalke 04,2018-03-09,5,12,0,16,4,0,0,2,Mainz,bundesliga
+1,9,0,1,0,2,Hamburg,2018-03-10,11,4,0,18,7,0,3,1,Bayern Munich,bundesliga
+6,16,0,17,8,2,Augsburg,2018-03-10,3,13,0,17,5,2,1,2,Hannover,bundesliga
+4,14,0,5,0,0,Freiburg,2018-03-10,5,7,0,12,4,0,0,1,Hertha,bundesliga
+4,7,0,6,1,1,Wolfsburg,2018-03-10,11,7,0,17,6,0,1,1,Hoffenheim,bundesliga
+5,15,0,9,2,3,M'gladbach,2018-03-10,3,12,0,17,7,0,1,0,Leverkusen,bundesliga
+8,10,0,10,3,3,Ein Frankfurt,2018-03-11,5,17,0,13,4,0,1,3,Dortmund,bundesliga
+5,12,0,8,3,2,RB Leipzig,2018-03-11,3,16,0,12,2,0,0,0,Stuttgart,bundesliga
+3,12,0,8,2,3,FC Koln,2018-03-12,7,14,0,13,6,0,1,0,Werder Bremen,bundesliga
+3,9,0,10,5,1,Stuttgart,2018-03-16,1,10,0,7,2,1,0,2,Freiburg,bundesliga
+7,15,0,20,12,1,Werder Bremen,2018-03-17,8,13,0,15,6,2,0,2,Augsburg,bundesliga
+6,9,0,13,1,1,Mainz,2018-03-17,4,9,0,15,6,0,3,0,Ein Frankfurt,bundesliga
+6,14,0,16,9,3,Hertha,2018-03-17,1,12,0,9,3,0,1,1,Hamburg,bundesliga
+3,15,0,13,6,1,Hoffenheim,2018-03-17,9,11,0,23,7,1,1,0,M'gladbach,bundesliga
+2,18,0,10,2,1,Schalke 04,2018-03-17,5,12,0,17,3,0,0,0,Wolfsburg,bundesliga
+2,10,0,8,4,1,Hannover,2018-03-18,12,14,0,25,9,0,1,2,Dortmund,bundesliga
+2,7,1,10,3,1,Leverkusen,2018-03-18,2,15,0,7,3,0,1,3,FC Koln,bundesliga
+6,14,0,9,2,4,Bayern Munich,2018-03-18,3,16,0,16,6,1,1,3,RB Leipzig,bundesliga
+1,7,0,9,3,1,Dortmund,2018-03-31,2,4,0,17,9,0,5,1,Bayern Munich,bundesliga
+3,16,0,15,5,4,RB Leipzig,2018-03-31,6,16,0,13,3,1,0,3,Hannover,bundesliga
+5,12,1,9,1,3,Wolfsburg,2018-03-31,4,15,0,9,2,0,0,1,Hertha,bundesliga
+8,10,0,4,1,0,FC Koln,2018-03-31,4,13,0,18,11,0,1,1,Hoffenheim,bundesliga
+1,10,0,7,2,2,Augsburg,2018-03-31,5,4,0,18,2,0,0,0,Leverkusen,bundesliga
+2,16,1,6,0,2,Freiburg,2018-03-31,2,19,0,16,7,0,0,2,Schalke 04,bundesliga
+7,12,0,8,6,1,Hamburg,2018-03-31,3,15,0,11,4,1,1,1,Stuttgart,bundesliga
+6,8,0,11,2,1,M'gladbach,2018-04-01,7,14,0,14,5,0,0,0,Mainz,bundesliga
+3,9,0,11,6,0,Ein Frankfurt,2018-04-01,6,16,0,11,6,0,1,2,Werder Bremen,bundesliga
+2,20,0,14,4,2,Werder Bremen,2018-04-06,4,16,0,10,6,0,2,1,Hannover,bundesliga
+6,8,0,12,7,1,Bayern Munich,2018-04-07,1,19,0,7,1,2,1,3,Augsburg,bundesliga
+3,19,1,12,4,5,Mainz,2018-04-07,8,13,0,15,8,0,1,4,FC Koln,bundesliga
+3,14,0,11,2,1,Wolfsburg,2018-04-07,9,16,0,13,1,1,0,0,Freiburg,bundesliga
+1,15,0,7,4,2,Schalke 04,2018-04-07,8,16,0,18,7,1,1,2,Hamburg,bundesliga
+5,20,0,13,6,2,Hertha,2018-04-07,4,13,0,10,3,1,0,1,M'gladbach,bundesliga
+7,15,0,12,6,4,Stuttgart,2018-04-08,5,12,0,18,12,0,1,1,Dortmund,bundesliga
+3,8,0,10,3,2,Hoffenheim,2018-04-08,8,13,0,15,5,0,0,0,Ein Frankfurt,bundesliga
+9,7,0,13,7,0,Leverkusen,2018-04-09,8,8,0,19,4,1,1,0,RB Leipzig,bundesliga
+5,17,1,9,2,4,Augsburg,2018-04-13,7,18,1,17,4,0,0,2,Wolfsburg,bundesliga
+0,9,0,4,1,1,M'gladbach,2018-04-14,6,9,0,20,11,1,2,2,Bayern Munich,bundesliga
+8,11,0,13,2,3,FC Koln,2018-04-14,6,13,0,13,6,1,0,1,Hertha,bundesliga
+8,10,0,13,5,2,Hamburg,2018-04-14,7,8,0,21,6,0,2,1,Hoffenheim,bundesliga
+2,8,0,7,1,4,Ein Frankfurt,2018-04-14,2,15,0,11,6,1,1,3,Leverkusen,bundesliga
+4,11,0,9,3,2,Hannover,2018-04-14,10,12,0,12,5,0,0,1,Stuttgart,bundesliga
+6,9,0,12,5,1,Dortmund,2018-04-15,4,8,0,12,3,0,0,1,Schalke 04,bundesliga
+2,13,0,10,4,1,RB Leipzig,2018-04-15,5,17,0,16,6,0,1,2,Werder Bremen,bundesliga
+4,10,0,11,0,2,Freiburg,2018-04-16,4,16,0,14,3,0,1,1,Mainz,bundesliga
+5,16,0,7,2,2,Wolfsburg,2018-04-20,8,18,0,16,6,0,3,0,M'gladbach,bundesliga
+6,14,0,10,2,0,Leverkusen,2018-04-21,7,11,0,17,9,0,1,0,Dortmund,bundesliga
+0,16,0,4,3,1,Hertha,2018-04-21,5,9,1,13,3,0,0,1,Ein Frankfurt,bundesliga
+4,15,1,11,4,3,Freiburg,2018-04-21,10,12,0,11,5,0,0,3,Hamburg,bundesliga
+7,19,0,14,8,0,Bayern Munich,2018-04-21,2,11,0,6,2,0,0,1,Hannover,bundesliga
+4,20,0,12,7,2,Hoffenheim,2018-04-21,8,7,1,14,8,3,0,0,RB Leipzig,bundesliga
+5,18,0,9,3,2,Werder Bremen,2018-04-21,3,8,0,11,5,0,1,1,Stuttgart,bundesliga
+5,18,0,7,3,1,Mainz,2018-04-22,4,16,0,15,6,0,1,4,Augsburg,bundesliga
+7,22,0,21,7,0,Schalke 04,2018-04-22,5,9,0,11,3,2,1,0,FC Koln,bundesliga
+4,11,0,13,4,1,Hannover,2018-04-27,7,21,0,16,6,1,1,3,Hoffenheim,bundesliga
+2,9,0,12,3,0,Ein Frankfurt,2018-04-28,1,6,0,12,6,0,1,0,Bayern Munich,bundesliga
+5,13,0,13,3,4,FC Koln,2018-04-28,2,16,0,12,6,0,1,2,Freiburg,bundesliga
+3,14,1,12,3,2,Augsburg,2018-04-28,6,9,0,8,5,1,0,0,Hertha,bundesliga
+2,12,0,4,1,0,Stuttgart,2018-04-28,6,13,0,24,7,0,0,2,Leverkusen,bundesliga
+1,11,0,10,4,4,M'gladbach,2018-04-28,1,11,1,10,4,1,1,2,Schalke 04,bundesliga
+6,17,0,14,5,2,Hamburg,2018-04-28,2,14,0,10,1,2,0,3,Wolfsburg,bundesliga
+8,9,1,6,1,4,RB Leipzig,2018-04-29,7,24,0,16,9,0,1,2,Mainz,bundesliga
+5,9,0,17,6,2,Dortmund,2018-04-29,7,8,0,19,6,1,1,1,Werder Bremen,bundesliga
+4,9,0,15,7,3,Schalke 04,2018-05-05,4,13,0,12,5,2,1,2,Augsburg,bundesliga
+2,17,0,7,5,3,Mainz,2018-05-05,4,16,0,12,4,2,1,3,Dortmund,bundesliga
+7,5,0,14,4,0,Hamburg,2018-05-05,3,14,0,14,10,0,1,2,Ein Frankfurt,bundesliga
+7,8,0,16,9,0,Bayern Munich,2018-05-05,4,11,0,10,3,0,1,1,FC Koln,bundesliga
+6,15,0,16,2,4,Hertha,2018-05-05,4,11,0,11,5,0,3,2,Hannover,bundesliga
+3,8,0,18,6,3,Freiburg,2018-05-05,7,6,0,18,5,0,1,0,M'gladbach,bundesliga
+5,10,0,10,5,1,Wolfsburg,2018-05-05,2,11,0,13,7,0,2,0,RB Leipzig,bundesliga
+9,10,0,21,7,1,Hoffenheim,2018-05-05,1,15,1,5,2,0,1,6,Stuttgart,bundesliga
+1,18,0,9,1,5,Leverkusen,2018-05-05,3,14,0,3,0,0,0,3,Werder Bremen,bundesliga
+0,8,0,7,7,0,Stuttgart,2018-05-12,10,10,0,18,8,2,1,1,Bayern Munich,bundesliga
+4,17,0,5,2,2,Augsburg,2018-05-12,5,13,0,12,3,0,0,1,Freiburg,bundesliga
+3,7,0,8,3,1,M'gladbach,2018-05-12,8,10,1,17,8,1,1,3,Hamburg,bundesliga
+6,11,0,17,10,1,RB Leipzig,2018-05-12,3,12,0,8,4,3,1,1,Hertha,bundesliga
+3,7,0,10,4,0,Dortmund,2018-05-12,2,4,0,12,8,0,1,0,Hoffenheim,bundesliga
+2,11,0,11,4,2,Hannover,2018-05-12,5,9,0,27,8,0,2,2,Leverkusen,bundesliga
+7,6,0,14,3,1,Werder Bremen,2018-05-12,3,10,0,13,1,1,1,0,Mainz,bundesliga
+3,12,0,6,2,2,Ein Frankfurt,2018-05-12,4,10,0,11,5,0,1,0,Schalke 04,bundesliga
+10,17,0,6,1,3,FC Koln,2018-05-12,5,12,0,16,8,1,1,2,Wolfsburg,bundesliga
+2,18,0,6,3,1,Alaves,2017-08-18,4,14,0,16,9,0,1,0,Leganes,la-liga
+2,13,1,5,4,3,Las Palmas,2017-08-18,5,25,0,22,6,0,1,3,Valencia,la-liga
+4,11,0,13,6,1,Sociedad,2017-08-19,5,12,0,16,5,1,1,3,Celta,la-liga
+0,15,1,9,3,4,Ath Madrid,2017-08-19,6,15,0,13,6,0,2,2,Girona,la-liga
+3,12,0,9,6,4,Espanol,2017-08-19,7,14,1,9,4,1,1,2,Sevilla,la-liga
+6,15,1,8,2,3,Getafe,2017-08-20,7,16,0,12,2,0,0,1,Ath Bilbao,la-liga
+0,15,0,3,0,1,Betis,2017-08-20,8,16,0,15,2,0,2,2,Barcelona,la-liga
+4,12,1,16,8,1,Real Madrid,2017-08-20,4,16,0,12,6,2,0,5,La Coruna,la-liga
+6,14,0,9,1,3,Villarreal,2017-08-21,11,18,0,14,3,0,0,1,Levante,la-liga
+7,15,0,13,6,3,Eibar,2017-08-21,3,16,0,10,4,0,0,2,Malaga,la-liga
+6,9,0,9,2,2,Celta,2017-08-25,4,13,0,10,3,1,1,2,Betis,la-liga
+4,22,0,6,1,2,Villarreal,2017-08-25,10,12,0,15,9,0,3,2,Sociedad,la-liga
+14,10,0,23,11,3,Barcelona,2017-08-26,1,12,0,11,2,0,0,2,Alaves,la-liga
+3,15,0,7,2,4,Malaga,2017-08-26,2,11,0,15,4,0,1,3,Girona,la-liga
+2,9,0,8,6,1,Ath Madrid,2017-08-26,4,10,0,10,4,2,0,4,Las Palmas,la-liga
+5,12,0,11,4,2,La Coruna,2017-08-26,6,11,1,24,5,2,1,0,Levante,la-liga
+3,11,0,10,4,1,Ath Bilbao,2017-08-27,4,14,1,14,5,1,0,1,Eibar,la-liga
+1,14,0,12,8,3,Leganes,2017-08-27,9,10,0,17,2,1,0,3,Espanol,la-liga
+5,10,0,6,3,1,Sevilla,2017-08-27,7,20,0,15,3,0,0,0,Getafe,la-liga
+4,12,0,7,3,5,Valencia,2017-08-27,13,12,0,22,6,1,1,3,Real Madrid,la-liga
+4,20,0,11,3,2,Getafe,2017-09-08,2,14,0,11,7,1,0,1,Leganes,la-liga
+7,18,0,9,1,5,Espanol,2017-09-09,8,11,0,20,9,0,2,1,Barcelona,la-liga
+3,16,0,5,2,3,Levante,2017-09-09,13,9,1,18,10,1,1,2,Real Madrid,la-liga
+5,18,0,7,2,1,Eibar,2017-09-09,6,14,0,12,6,0,0,1,Sevilla,la-liga
+3,14,0,13,4,0,Ath Madrid,2017-09-09,4,16,0,11,0,0,0,1,Valencia,la-liga
+4,18,0,11,7,6,Girona,2017-09-10,6,19,0,7,4,0,1,4,Ath Bilbao,la-liga
+4,17,0,5,3,4,Alaves,2017-09-10,9,17,0,20,3,0,1,4,Celta,la-liga
+7,14,0,15,4,3,Sociedad,2017-09-10,5,18,0,11,4,2,1,1,La Coruna,la-liga
+3,9,0,8,3,0,Betis,2017-09-10,4,9,0,14,7,1,1,3,Villarreal,la-liga
+2,11,0,10,8,2,Las Palmas,2017-09-11,3,22,0,14,6,1,0,4,Malaga,la-liga
+1,20,0,5,2,5,Leganes,2017-09-15,8,15,0,10,4,0,0,2,Eibar,la-liga
+4,15,0,9,4,2,Malaga,2017-09-16,8,9,0,17,4,0,0,2,Ath Madrid,la-liga
+4,19,0,11,3,3,La Coruna,2017-09-16,6,13,0,17,7,1,1,2,Betis,la-liga
+4,14,0,7,5,4,Barcelona,2017-09-16,3,15,0,13,4,0,1,2,Getafe,la-liga
+3,11,0,13,5,1,Valencia,2017-09-16,1,21,0,9,2,1,1,2,Levante,la-liga
+3,25,0,16,6,2,Villarreal,2017-09-17,2,12,0,16,2,1,0,2,Alaves,la-liga
+1,19,0,13,8,5,Sevilla,2017-09-17,8,14,0,13,0,0,0,2,Girona,la-liga
+6,19,0,11,5,3,Ath Bilbao,2017-09-17,7,12,0,12,3,0,0,2,Las Palmas,la-liga
+6,15,0,18,6,2,Real Madrid,2017-09-17,4,12,0,10,5,2,1,3,Sociedad,la-liga
+5,14,0,11,1,4,Celta,2017-09-18,3,12,0,9,3,0,2,1,Espanol,la-liga
+7,9,0,13,4,2,Eibar,2017-09-19,7,4,0,11,10,0,2,0,Barcelona,la-liga
+9,10,0,11,2,1,Malaga,2017-09-19,4,9,0,16,11,0,1,0,Valencia,la-liga
+0,12,0,16,9,2,Ath Madrid,2017-09-20,6,12,0,12,7,0,0,0,Ath Bilbao,la-liga
+2,19,0,8,3,2,Alaves,2017-09-20,5,16,0,15,3,0,1,0,La Coruna,la-liga
+3,20,0,10,0,3,Girona,2017-09-20,6,19,0,12,1,0,0,2,Leganes,la-liga
+3,11,0,12,4,3,Betis,2017-09-20,12,13,0,27,7,0,0,0,Real Madrid,la-liga
+0,8,0,6,0,2,Las Palmas,2017-09-20,12,21,0,14,9,0,0,2,Sevilla,la-liga
+2,21,0,10,3,4,Getafe,2017-09-21,3,9,0,8,4,0,1,2,Celta,la-liga
+6,11,1,13,3,0,Sociedad,2017-09-21,3,13,0,13,9,0,1,2,Levante,la-liga
+5,10,0,10,3,2,Espanol,2017-09-21,5,17,0,14,5,0,0,5,Villarreal,la-liga
+13,19,0,21,7,2,Real Madrid,2017-09-23,5,19,0,8,3,2,1,5,Alaves,la-liga
+6,17,0,11,0,3,Sevilla,2017-09-23,7,11,0,13,4,0,0,4,Ath Madrid,la-liga
+3,5,0,9,5,0,Barcelona,2017-09-23,9,21,0,13,2,1,0,3,Girona,la-liga
+1,8,0,8,7,2,Ath Bilbao,2017-09-23,5,16,1,15,7,1,1,7,Malaga,la-liga
+4,5,0,10,6,1,Celta,2017-09-24,4,14,0,9,0,3,0,2,Eibar,la-liga
+6,7,0,21,6,2,La Coruna,2017-09-24,4,16,0,17,5,0,2,1,Espanol,la-liga
+4,16,0,6,1,4,Villarreal,2017-09-24,7,11,0,17,8,0,0,1,Getafe,la-liga
+2,15,0,9,3,3,Leganes,2017-09-24,3,10,0,8,3,0,0,1,Las Palmas,la-liga
+6,13,1,13,4,7,Valencia,2017-09-24,7,11,1,18,6,1,1,3,Sociedad,la-liga
+3,5,0,8,1,0,Levante,2017-09-25,6,9,0,14,6,0,0,1,Betis,la-liga
+6,17,0,10,6,5,Girona,2017-09-29,5,9,0,16,9,2,2,2,Celta,la-liga
+5,22,0,10,3,3,Getafe,2017-09-30,8,16,0,15,9,0,0,6,La Coruna,la-liga
+6,13,0,11,2,1,Ath Madrid,2017-09-30,2,13,0,7,3,0,0,2,Leganes,la-liga
+4,18,0,8,3,4,Alaves,2017-09-30,8,11,0,13,0,1,0,2,Levante,la-liga
+6,12,0,11,4,1,Malaga,2017-09-30,4,11,0,12,5,0,0,2,Sevilla,la-liga
+3,11,0,10,1,1,Las Palmas,2017-10-01,8,10,0,22,10,0,0,5,Barcelona,la-liga
+3,10,0,8,3,2,Espanol,2017-10-01,10,8,0,22,8,0,1,2,Real Madrid,la-liga
+5,18,0,10,6,3,Betis,2017-10-01,12,9,0,17,6,2,2,3,Sociedad,la-liga
+8,16,0,16,6,4,Ath Bilbao,2017-10-01,2,18,0,10,6,0,2,3,Valencia,la-liga
+3,9,0,8,1,1,Eibar,2017-10-01,6,15,0,12,6,0,1,2,Villarreal,la-liga
+4,13,0,13,3,3,Levante,2017-10-13,9,9,0,20,6,0,0,2,Espanol,la-liga
+9,7,0,13,6,1,Sociedad,2017-10-14,4,11,0,8,0,0,0,1,Alaves,la-liga
+6,9,0,14,6,5,Sevilla,2017-10-14,6,18,0,15,2,0,1,5,Ath Bilbao,la-liga
+1,10,0,15,7,2,Barcelona,2017-10-14,2,12,0,5,4,0,1,3,Ath Madrid,la-liga
+7,8,0,16,6,3,Real Madrid,2017-10-14,4,23,0,8,3,1,0,2,Getafe,la-liga
+5,11,0,13,9,4,Valencia,2017-10-15,7,11,0,13,6,2,0,1,Betis,la-liga
+1,10,0,11,3,2,La Coruna,2017-10-15,10,9,0,15,6,0,0,2,Eibar,la-liga
+1,20,0,5,2,4,Villarreal,2017-10-15,8,12,0,14,3,2,1,3,Girona,la-liga
+2,21,0,19,9,3,Leganes,2017-10-15,4,21,1,13,5,0,0,4,Malaga,la-liga
+3,12,1,14,7,1,Celta,2017-10-16,14,13,0,24,11,2,0,2,Las Palmas,la-liga
+3,11,0,13,5,4,Malaga,2017-10-21,4,10,0,12,4,0,1,1,Barcelona,la-liga
+5,9,0,7,3,2,Alaves,2017-10-21,6,18,0,12,5,0,1,2,Betis,la-liga
+2,16,0,9,5,3,Getafe,2017-10-21,3,18,0,5,1,0,0,1,Levante,la-liga
+10,21,0,18,5,4,Sevilla,2017-10-21,7,15,0,18,8,0,1,2,Valencia,la-liga
+4,19,0,4,2,5,Ath Madrid,2017-10-22,4,13,0,19,8,1,0,3,Celta,la-liga
+3,15,0,7,1,4,Ath Bilbao,2017-10-22,4,16,0,15,4,0,0,3,Leganes,la-liga
+2,7,0,9,2,1,Eibar,2017-10-22,5,9,0,15,7,0,2,1,Real Madrid,la-liga
+6,9,0,16,5,5,Las Palmas,2017-10-22,9,14,0,25,9,0,0,1,Villarreal,la-liga
+7,16,0,13,6,8,Girona,2017-10-23,9,9,0,15,6,1,0,3,La Coruna,la-liga
+1,15,0,4,1,4,Espanol,2017-10-23,10,12,1,19,5,1,0,4,Sociedad,la-liga
+4,18,0,7,2,1,Valencia,2017-10-28,6,19,0,16,6,1,0,5,Alaves,la-liga
+4,12,0,17,5,4,Barcelona,2017-10-28,6,15,0,17,5,1,0,1,Ath Bilbao,la-liga
+6,20,0,12,4,4,Villarreal,2017-10-28,11,13,0,18,6,0,0,0,Ath Madrid,la-liga
+6,19,0,10,1,3,Leganes,2017-10-28,5,16,0,9,5,0,1,0,Sevilla,la-liga
+2,16,0,3,2,3,Levante,2017-10-29,6,8,0,16,6,2,0,1,Eibar,la-liga
+7,16,0,15,4,2,Sociedad,2017-10-29,8,19,0,10,5,1,0,3,Getafe,la-liga
+7,11,0,15,6,1,Real Madrid,2017-10-29,2,21,0,15,4,1,0,2,Girona,la-liga
+1,12,0,10,2,3,Celta,2017-10-29,4,20,0,15,4,0,1,2,Malaga,la-liga
+3,17,0,9,4,5,Betis,2017-10-30,5,10,0,10,4,0,0,2,Espanol,la-liga
+5,15,0,15,5,1,La Coruna,2017-10-30,8,11,0,13,5,1,1,1,Las Palmas,la-liga
+6,14,0,9,2,6,Getafe,2017-11-03,4,10,0,15,4,2,0,2,Betis,la-liga
+8,9,1,9,3,2,Espanol,2017-11-04,3,29,0,17,6,0,1,7,Alaves,la-liga
+3,12,0,8,3,0,Sevilla,2017-11-04,3,10,0,18,6,0,1,1,Barcelona,la-liga
+4,10,0,11,3,2,Ath Madrid,2017-11-04,4,17,0,14,1,0,0,4,La Coruna,la-liga
+7,13,0,13,6,2,Leganes,2017-11-04,4,11,0,13,7,0,1,1,Valencia,la-liga
+6,17,0,14,5,3,Ath Bilbao,2017-11-05,3,13,0,11,5,1,3,2,Celta,la-liga
+2,16,0,10,5,4,Girona,2017-11-05,7,10,0,7,4,0,0,3,Levante,la-liga
+2,9,0,2,1,1,Las Palmas,2017-11-05,9,9,0,27,9,0,1,2,Real Madrid,la-liga
+6,17,0,9,5,3,Eibar,2017-11-05,3,10,0,10,6,0,2,0,Sociedad,la-liga
+4,12,0,10,2,4,Malaga,2017-11-05,6,18,0,14,3,0,0,2,Villarreal,la-liga
+6,10,0,14,5,2,Sociedad,2017-11-17,3,28,0,14,4,1,0,4,Girona,la-liga
+9,6,0,14,3,2,Real Madrid,2017-11-18,7,21,0,7,1,0,0,6,Ath Madrid,la-liga
+5,14,0,11,5,3,Alaves,2017-11-18,4,18,0,13,8,0,2,3,Getafe,la-liga
+3,10,0,11,7,2,Barcelona,2017-11-18,6,25,0,18,7,1,0,1,Leganes,la-liga
+2,17,0,11,5,2,Celta,2017-11-18,1,20,0,12,5,1,1,3,Sevilla,la-liga
+7,16,0,7,4,3,Villarreal,2017-11-19,9,10,0,15,3,1,0,1,Ath Bilbao,la-liga
+4,17,0,7,3,4,Valencia,2017-11-19,3,11,0,12,4,0,0,0,Espanol,la-liga
+5,22,0,11,6,4,Levante,2017-11-19,3,9,0,10,5,0,0,1,Las Palmas,la-liga
+4,15,0,12,4,5,La Coruna,2017-11-19,5,16,0,14,5,1,1,4,Malaga,la-liga
+2,9,1,4,0,2,Betis,2017-11-20,5,10,0,17,7,0,2,2,Eibar,la-liga
+4,16,0,9,2,3,Leganes,2017-11-24,3,13,0,14,7,0,1,2,Celta,la-liga
+5,19,1,11,6,3,Eibar,2017-11-25,2,18,1,6,2,1,0,7,Alaves,la-liga
+5,16,0,13,7,1,Girona,2017-11-25,3,9,0,12,6,1,0,2,Betis,la-liga
+3,14,0,16,11,1,Ath Madrid,2017-11-25,2,11,0,17,2,2,0,2,Levante,la-liga
+0,13,0,9,3,2,Malaga,2017-11-25,6,15,0,16,9,1,2,1,Real Madrid,la-liga
+2,14,0,10,3,1,Ath Bilbao,2017-11-26,5,11,0,14,4,1,1,4,La Coruna,la-liga
+3,14,0,8,7,3,Las Palmas,2017-11-26,11,22,1,16,3,1,1,4,Sociedad,la-liga
+9,11,0,12,8,0,Barcelona,2017-11-26,3,12,0,8,1,0,0,4,Valencia,la-liga
+6,17,0,15,4,3,Sevilla,2017-11-26,6,9,1,19,4,0,1,4,Villarreal,la-liga
+4,18,0,7,4,6,Getafe,2017-11-27,6,12,0,10,5,0,0,3,Espanol,la-liga
+2,15,0,3,3,3,Levante,2017-12-01,7,12,0,18,2,0,0,1,Malaga,la-liga
+5,13,1,19,4,5,Real Madrid,2017-12-02,3,20,0,11,4,0,0,2,Ath Bilbao,la-liga
+6,10,0,10,2,2,Sociedad,2017-12-02,5,12,0,16,10,1,0,1,Ath Madrid,la-liga
+1,12,0,10,5,6,Celta,2017-12-02,4,11,0,21,7,1,1,3,Barcelona,la-liga
+7,16,0,11,3,3,La Coruna,2017-12-02,6,12,0,10,6,0,1,1,Sevilla,la-liga
+2,16,0,6,3,3,Espanol,2017-12-03,3,13,0,10,5,0,2,3,Eibar,la-liga
+12,11,0,13,6,4,Valencia,2017-12-03,5,18,1,11,3,0,0,8,Getafe,la-liga
+4,21,1,8,2,7,Betis,2017-12-03,6,12,0,21,7,0,1,1,Las Palmas,la-liga
+6,17,0,12,4,4,Villarreal,2017-12-03,5,11,0,12,5,0,0,2,Leganes,la-liga
+5,13,0,9,4,2,Alaves,2017-12-04,6,8,0,11,3,0,0,1,Girona,la-liga
+3,12,0,6,1,0,Las Palmas,2017-12-08,8,23,0,22,9,0,1,2,Alaves,la-liga
+7,13,0,7,2,4,Eibar,2017-12-09,9,14,0,6,3,0,0,1,Getafe,la-liga
+1,21,0,3,0,4,Leganes,2017-12-09,6,16,0,15,4,0,1,4,La Coruna,la-liga
+3,11,0,11,3,2,Sevilla,2017-12-09,9,12,0,20,8,0,5,0,Real Madrid,la-liga
+2,12,0,13,5,5,Celta,2017-12-09,10,16,0,13,7,0,1,2,Valencia,la-liga
+2,19,0,4,2,3,Ath Madrid,2017-12-10,3,15,0,9,4,1,0,4,Betis,la-liga
+6,13,0,14,3,3,Ath Bilbao,2017-12-10,8,11,0,12,3,1,0,3,Levante,la-liga
+0,12,0,9,5,1,Malaga,2017-12-10,5,10,0,18,2,1,0,1,Sociedad,la-liga
+4,13,0,16,6,1,Barcelona,2017-12-10,2,18,1,9,5,0,0,2,Villarreal,la-liga
+6,17,0,12,5,3,Girona,2017-12-11,8,9,0,8,3,1,0,1,Espanol,la-liga
+5,14,0,10,2,3,Levante,2017-12-15,8,22,0,16,6,0,0,2,Sevilla,la-liga
+6,9,0,10,2,0,Sociedad,2017-12-16,6,14,0,7,1,0,0,3,Ath Bilbao,la-liga
+4,16,0,11,0,4,Alaves,2017-12-16,4,14,0,10,4,0,0,3,Ath Madrid,la-liga
+6,13,0,7,3,4,Valencia,2017-12-16,5,13,0,15,3,0,0,1,Eibar,la-liga
+3,10,0,10,3,1,La Coruna,2017-12-17,6,12,0,23,11,0,2,0,Barcelona,la-liga
+2,19,0,8,5,3,Villarreal,2017-12-17,2,11,0,10,3,1,0,1,Celta,la-liga
+7,25,0,7,0,6,Getafe,2017-12-17,1,20,0,9,2,0,1,2,Girona,la-liga
+2,25,0,8,3,3,Espanol,2017-12-17,9,6,0,14,5,2,0,3,Las Palmas,la-liga
+4,15,0,10,4,2,Betis,2017-12-18,3,15,1,18,2,1,0,2,Malaga,la-liga
+5,17,1,10,2,6,Leganes,2017-12-19,6,21,1,10,3,0,0,6,Levante,la-liga
+1,11,0,17,6,1,Las Palmas,2017-12-20,3,23,0,13,7,0,2,3,Getafe,la-liga
+5,18,0,9,4,5,Sevilla,2017-12-20,4,9,0,14,5,1,1,1,Sociedad,la-liga
+4,18,0,10,3,4,Malaga,2017-12-21,4,14,0,10,5,0,0,3,Alaves,la-liga
+2,18,0,6,1,2,Girona,2017-12-21,3,14,0,16,6,1,2,1,Eibar,la-liga
+9,6,0,19,7,2,Ath Bilbao,2017-12-22,6,7,1,16,6,1,0,1,Betis,la-liga
+3,22,0,9,1,5,Ath Madrid,2017-12-22,2,18,0,7,4,0,0,2,Espanol,la-liga
+1,16,0,7,3,2,Celta,2017-12-23,3,20,0,15,4,2,0,2,La Coruna,la-liga
+7,10,0,18,11,2,Barcelona,2017-12-23,7,14,1,14,5,0,0,2,Real Madrid,la-liga
+1,21,1,9,2,5,Villarreal,2017-12-23,14,11,1,22,3,1,0,7,Valencia,la-liga
+0,16,0,10,5,3,Getafe,2018-01-06,5,11,1,9,5,0,1,7,Ath Madrid,la-liga
+3,17,0,14,5,3,Eibar,2018-01-06,4,13,0,4,2,0,1,3,Las Palmas,la-liga
+0,18,0,9,5,6,Betis,2018-01-06,12,16,0,14,3,2,2,3,Sevilla,la-liga
+7,14,0,11,5,5,Girona,2018-01-06,9,16,0,17,7,1,1,5,Valencia,la-liga
+1,20,0,8,1,4,Alaves,2018-01-07,4,23,0,14,8,0,1,2,Ath Bilbao,la-liga
+6,22,0,9,2,4,Levante,2018-01-07,3,10,0,16,8,0,2,0,Barcelona,la-liga
+7,15,0,19,8,2,Real Madrid,2018-01-07,3,10,0,10,5,2,1,2,Celta,la-liga
+6,11,0,9,5,1,Sociedad,2018-01-07,5,14,0,8,4,0,0,0,Leganes,la-liga
+5,12,0,13,3,3,La Coruna,2018-01-07,7,19,0,11,5,0,1,4,Villarreal,la-liga
+5,11,0,6,3,3,Espanol,2018-01-08,6,18,0,17,2,1,0,2,Malaga,la-liga
+2,16,0,9,2,1,Malaga,2018-01-12,5,19,0,7,3,0,0,3,Getafe,la-liga
+1,9,0,7,3,1,Ath Madrid,2018-01-13,9,12,0,11,4,1,0,2,Eibar,la-liga
+2,20,0,3,1,5,Las Palmas,2018-01-13,5,25,0,15,8,0,1,2,Girona,la-liga
+10,8,0,12,5,1,Valencia,2018-01-13,8,13,0,12,2,1,0,2,La Coruna,la-liga
+0,12,0,10,4,1,Villarreal,2018-01-13,11,11,0,28,7,0,0,2,Real Madrid,la-liga
+4,12,0,14,1,2,Sevilla,2018-01-14,5,18,1,12,3,0,0,5,Alaves,la-liga
+2,16,0,8,3,4,Ath Bilbao,2018-01-14,4,14,0,11,3,1,1,2,Espanol,la-liga
+2,7,0,3,2,3,Celta,2018-01-14,6,19,0,15,5,1,0,4,Levante,la-liga
+3,13,0,11,5,2,Barcelona,2018-01-14,7,15,0,15,6,1,2,2,Sociedad,la-liga
+1,15,0,10,6,3,Leganes,2018-01-15,1,12,0,16,9,1,2,2,Betis,la-liga
+2,12,0,7,6,1,Ath Bilbao,2018-01-19,6,17,0,17,6,1,1,5,Getafe,la-liga
+1,15,0,6,3,3,Girona,2018-01-20,2,13,0,9,4,0,1,4,Ath Madrid,la-liga
+2,14,0,12,7,2,Sevilla,2018-01-20,8,18,0,9,0,2,0,4,Espanol,la-liga
+6,16,2,14,8,9,Valencia,2018-01-20,3,18,0,20,6,1,1,2,Las Palmas,la-liga
+4,16,0,16,4,2,Levante,2018-01-20,6,14,0,18,6,0,1,2,Villarreal,la-liga
+6,14,0,8,4,3,Leganes,2018-01-21,4,13,1,14,6,0,0,3,Alaves,la-liga
+2,9,0,14,10,2,Barcelona,2018-01-21,4,12,0,7,2,0,0,2,Betis,la-liga
+1,11,0,5,2,2,La Coruna,2018-01-21,6,7,0,24,13,1,2,0,Real Madrid,la-liga
+3,7,0,10,3,2,Celta,2018-01-21,8,10,0,16,2,1,1,1,Sociedad,la-liga
+3,11,1,10,4,3,Malaga,2018-01-22,8,11,0,15,4,1,0,1,Eibar,la-liga
+7,14,0,14,2,0,Eibar,2018-01-26,3,15,0,7,1,0,0,0,Ath Bilbao,la-liga
+7,14,0,15,4,5,Levante,2018-01-27,4,13,1,8,2,0,2,7,La Coruna,la-liga
+4,7,0,11,2,1,Girona,2018-01-27,5,18,1,7,1,0,0,2,Malaga,la-liga
+4,22,0,13,7,3,Real Madrid,2018-01-27,4,20,0,11,4,2,0,2,Valencia,la-liga
+9,6,0,24,6,1,Sociedad,2018-01-27,2,16,0,11,7,1,4,1,Villarreal,la-liga
+1,11,0,9,1,2,Las Palmas,2018-01-28,4,17,0,18,7,0,0,1,Ath Madrid,la-liga
+1,18,0,7,4,2,Alaves,2018-01-28,8,6,0,18,12,1,0,0,Barcelona,la-liga
+7,19,0,12,4,4,Espanol,2018-01-28,1,20,0,11,6,0,1,2,Leganes,la-liga
+4,15,0,7,2,3,Getafe,2018-01-28,3,12,0,15,1,0,0,3,Sevilla,la-liga
+2,8,0,7,3,5,Betis,2018-01-29,7,13,0,13,5,0,1,1,Celta,la-liga
+5,11,0,4,1,1,La Coruna,2018-02-02,9,11,0,19,8,0,1,0,Sociedad,la-liga
+1,11,0,16,4,2,Celta,2018-02-03,2,13,0,9,3,0,2,3,Alaves,la-liga
+6,12,1,12,3,2,Villarreal,2018-02-03,2,11,0,13,4,0,1,1,Betis,la-liga
+3,20,0,11,3,3,Sevilla,2018-02-03,5,11,0,17,7,1,3,0,Eibar,la-liga
+6,7,0,23,9,3,Real Madrid,2018-02-03,4,14,0,12,4,1,1,3,Levante,la-liga
+1,4,0,9,0,1,Valencia,2018-02-04,9,18,0,14,4,0,0,1,Ath Madrid,la-liga
+7,12,0,12,2,3,Barcelona,2018-02-04,0,15,0,7,2,0,0,5,Espanol,la-liga
+2,20,0,2,1,6,Leganes,2018-02-04,5,17,0,11,1,0,0,2,Getafe,la-liga
+4,14,0,9,0,1,Ath Bilbao,2018-02-04,2,13,0,8,3,0,1,1,Girona,la-liga
+2,17,0,9,3,3,Malaga,2018-02-05,4,11,0,11,4,0,0,2,Las Palmas,la-liga
+2,29,0,8,2,4,Las Palmas,2018-02-09,5,20,0,11,5,0,0,4,Ath Bilbao,la-liga
+10,6,0,19,6,2,Eibar,2018-02-10,1,14,1,2,0,0,0,4,Leganes,la-liga
+3,19,0,5,1,2,Ath Madrid,2018-02-10,3,22,0,13,3,1,0,3,Malaga,la-liga
+3,10,0,8,3,1,Sociedad,2018-02-10,5,11,0,18,9,0,4,2,Real Madrid,la-liga
+2,15,0,5,4,4,Alaves,2018-02-10,13,15,0,27,6,1,0,4,Villarreal,la-liga
+3,13,0,10,1,3,Getafe,2018-02-11,9,7,0,12,6,0,0,2,Barcelona,la-liga
+1,16,0,3,2,4,Espanol,2018-02-11,9,9,0,18,7,1,1,3,Celta,la-liga
+2,19,0,14,6,2,Girona,2018-02-11,7,13,0,13,4,0,0,2,Sevilla,la-liga
+9,19,0,5,1,4,Levante,2018-02-11,7,10,0,18,8,1,1,3,Valencia,la-liga
+1,7,0,10,4,0,Betis,2018-02-12,8,19,0,16,2,0,0,2,La Coruna,la-liga
+4,10,0,10,5,5,Leganes,2018-02-16,4,12,0,10,5,0,2,3,Girona,la-liga
+3,14,0,5,0,3,La Coruna,2018-02-17,9,17,0,14,3,0,0,2,Alaves,la-liga
+0,6,0,10,6,1,Barcelona,2018-02-17,6,13,1,13,3,1,0,3,Eibar,la-liga
+5,18,0,12,6,5,Sevilla,2018-02-17,7,15,0,11,3,1,0,2,Las Palmas,la-liga
+2,18,0,10,3,4,Valencia,2018-02-17,7,19,1,9,3,0,1,2,Malaga,la-liga
+2,12,0,4,0,2,Ath Bilbao,2018-02-18,5,6,0,14,4,0,0,3,Ath Madrid,la-liga
+5,15,0,12,9,5,Real Madrid,2018-02-18,7,7,0,20,5,1,2,3,Betis,la-liga
+5,19,0,8,3,7,Villarreal,2018-02-18,2,7,0,15,3,1,0,1,Espanol,la-liga
+4,13,0,9,1,2,Levante,2018-02-18,2,12,0,13,3,0,2,0,Sociedad,la-liga
+5,15,0,4,1,3,Celta,2018-02-19,5,21,0,9,5,0,1,4,Getafe,la-liga
+5,7,0,13,7,1,Real Madrid,2018-02-21,6,18,0,7,3,2,1,3,Leganes,la-liga
+2,10,0,9,1,1,Espanol,2018-02-23,4,9,0,17,4,0,0,5,La Coruna,la-liga
+3,11,0,10,4,1,Girona,2018-02-24,5,11,0,21,14,1,4,1,Barcelona,la-liga
+9,16,0,15,2,3,Eibar,2018-02-24,3,11,0,8,3,0,0,2,Celta,la-liga
+5,17,0,4,1,5,Las Palmas,2018-02-24,6,22,0,11,2,0,0,4,Leganes,la-liga
+5,14,0,11,5,2,Alaves,2018-02-24,9,9,0,25,10,0,1,1,Real Madrid,la-liga
+4,18,1,8,4,3,Malaga,2018-02-25,6,12,0,8,6,1,2,3,Ath Bilbao,la-liga
+4,24,0,13,8,3,Ath Madrid,2018-02-25,5,10,0,10,5,2,0,3,Sevilla,la-liga
+4,9,0,9,3,3,Sociedad,2018-02-25,4,12,0,7,4,0,1,2,Valencia,la-liga
+8,21,0,3,2,3,Getafe,2018-02-25,2,14,0,10,4,0,1,5,Villarreal,la-liga
+5,8,0,15,6,2,Betis,2018-02-26,5,17,0,12,2,0,0,5,Levante,la-liga
+8,10,0,12,5,1,Real Madrid,2018-02-27,3,15,0,16,7,0,0,1,Espanol,la-liga
+4,10,0,10,2,2,Celta,2018-02-27,6,9,0,11,2,0,1,3,Girona,la-liga
+1,16,0,6,4,2,Valencia,2018-02-28,6,16,0,11,4,1,0,1,Ath Bilbao,la-liga
+1,10,0,9,3,3,Leganes,2018-02-28,5,10,0,15,8,0,2,1,Ath Madrid,la-liga
+4,8,0,11,3,2,Villarreal,2018-02-28,6,18,0,13,1,0,1,4,Eibar,la-liga
+6,9,0,9,1,4,La Coruna,2018-02-28,10,6,0,14,5,0,2,2,Getafe,la-liga
+4,14,0,6,4,2,Sevilla,2018-02-28,9,19,0,8,0,1,0,2,Malaga,la-liga
+3,17,1,6,1,4,Levante,2018-03-01,5,14,1,15,5,0,0,4,Alaves,la-liga
+10,7,0,13,5,0,Sociedad,2018-03-01,4,11,0,8,4,0,0,2,Betis,la-liga
+6,13,0,10,4,3,Barcelona,2018-03-01,6,18,0,12,1,1,0,6,Las Palmas,la-liga
+9,8,0,16,3,2,Eibar,2018-03-03,2,6,1,7,2,1,1,1,La Coruna,la-liga
+1,14,0,4,1,1,Malaga,2018-03-03,6,11,0,10,3,0,0,1,Leganes,la-liga
+0,18,1,4,4,3,Getafe,2018-03-03,8,13,0,14,6,0,2,1,Real Madrid,la-liga
+4,13,0,10,3,3,Ath Bilbao,2018-03-03,8,14,0,18,8,0,2,2,Sevilla,la-liga
+2,18,0,4,3,1,Girona,2018-03-03,7,14,0,14,5,1,0,4,Villarreal,la-liga
+1,20,0,6,1,2,Ath Madrid,2018-03-04,12,16,0,16,5,0,1,2,Barcelona,la-liga
+1,13,0,15,3,3,Espanol,2018-03-04,2,14,0,13,4,0,0,0,Levante,la-liga
+4,13,0,3,1,1,Alaves,2018-03-04,8,10,0,14,5,1,2,0,Sociedad,la-liga
+0,11,0,9,4,4,Betis,2018-03-04,7,14,0,12,6,0,1,1,Valencia,la-liga
+7,15,0,10,3,2,Las Palmas,2018-03-05,10,13,0,14,6,0,0,1,Celta,la-liga
+2,16,0,8,4,4,La Coruna,2018-03-09,2,17,0,9,6,0,1,1,Girona,la-liga
+6,7,0,12,6,1,Real Madrid,2018-03-10,8,12,0,12,3,1,0,1,Eibar,la-liga
+7,16,1,12,4,7,Levante,2018-03-10,4,14,0,11,4,0,0,5,Getafe,la-liga
+5,9,0,20,9,1,Barcelona,2018-03-10,2,15,1,6,2,2,0,1,Malaga,la-liga
+3,15,0,10,5,2,Valencia,2018-03-10,7,15,0,21,5,1,0,4,Sevilla,la-liga
+6,14,0,12,1,5,Leganes,2018-03-11,3,12,0,13,5,0,2,2,Ath Bilbao,la-liga
+4,10,0,8,2,2,Celta,2018-03-11,6,14,0,7,3,0,1,1,Ath Madrid,la-liga
+4,14,0,11,5,2,Sociedad,2018-03-11,6,18,0,18,7,1,0,0,Espanol,la-liga
+3,17,0,11,4,1,Villarreal,2018-03-11,7,15,1,9,3,0,0,1,Las Palmas,la-liga
+2,17,0,10,4,3,Betis,2018-03-12,6,18,0,9,1,2,0,2,Alaves,la-liga
+5,11,0,13,4,3,Eibar,2018-03-16,4,11,0,6,3,0,1,4,Levante,la-liga
+5,11,0,4,1,3,Espanol,2018-03-17,3,15,0,9,4,0,1,1,Betis,la-liga
+2,12,0,8,1,3,Las Palmas,2018-03-17,9,24,0,13,3,1,1,3,La Coruna,la-liga
+1,21,0,9,5,7,Getafe,2018-03-17,7,13,0,8,2,1,1,3,Sociedad,la-liga
+2,14,0,16,4,1,Alaves,2018-03-17,9,8,0,24,10,0,2,1,Valencia,la-liga
+5,14,0,10,3,2,Ath Bilbao,2018-03-18,6,7,0,18,9,0,2,2,Barcelona,la-liga
+5,24,0,5,0,2,Malaga,2018-03-18,4,16,0,9,3,0,0,3,Celta,la-liga
+4,11,1,10,4,4,Sevilla,2018-03-18,5,13,0,12,6,0,1,2,Leganes,la-liga
+7,13,0,10,6,2,Girona,2018-03-18,6,13,0,20,14,1,1,1,Real Madrid,la-liga
+4,16,1,8,2,3,Ath Madrid,2018-03-18,5,13,0,17,5,1,0,5,Villarreal,la-liga
+5,10,0,13,3,1,Celta,2018-03-31,4,10,0,11,2,0,0,3,Ath Bilbao,la-liga
+7,12,0,15,6,3,Levante,2018-03-31,5,13,0,12,5,0,0,1,Girona,la-liga
+3,17,0,17,7,0,Real Madrid,2018-03-31,3,11,0,17,3,2,0,3,Las Palmas,la-liga
+9,7,0,20,9,0,Barcelona,2018-03-31,5,11,0,21,6,0,1,2,Sevilla,la-liga
+7,15,0,10,2,3,La Coruna,2018-04-01,9,14,0,15,3,0,1,2,Ath Madrid,la-liga
+1,10,0,7,0,2,Sociedad,2018-04-01,8,14,0,15,3,0,0,4,Eibar,la-liga
+5,12,0,13,4,2,Alaves,2018-04-01,6,18,0,12,3,0,0,3,Espanol,la-liga
+2,17,0,3,1,4,Valencia,2018-04-01,5,14,0,8,1,0,0,3,Leganes,la-liga
+6,13,0,11,1,3,Villarreal,2018-04-01,3,17,0,13,3,0,1,2,Malaga,la-liga
+0,9,0,7,4,2,Betis,2018-04-02,4,21,0,8,4,0,0,4,Getafe,la-liga
+6,14,0,11,4,3,Malaga,2018-04-06,7,16,0,14,6,1,1,4,La Coruna,la-liga
+3,22,0,5,1,3,Getafe,2018-04-07,1,17,0,11,2,0,0,2,Alaves,la-liga
+3,12,0,11,1,4,Leganes,2018-04-07,5,14,0,12,6,0,2,2,Barcelona,la-liga
+8,11,0,5,2,2,Eibar,2018-04-07,7,10,0,13,4,0,1,2,Betis,la-liga
+10,12,0,16,6,2,Sevilla,2018-04-07,3,8,0,12,6,0,1,1,Celta,la-liga
+5,10,0,17,5,3,Las Palmas,2018-04-08,4,19,2,11,4,0,1,6,Levante,la-liga
+2,17,0,9,5,3,Ath Madrid,2018-04-08,11,12,0,30,8,0,0,2,Real Madrid,la-liga
+5,20,0,8,1,2,Girona,2018-04-08,4,8,0,13,7,0,2,2,Sociedad,la-liga
+3,10,0,21,6,2,Espanol,2018-04-08,4,17,0,14,6,0,1,3,Valencia,la-liga
+6,11,0,17,13,5,Ath Bilbao,2018-04-09,3,17,1,7,2,1,0,5,Villarreal,la-liga
+4,18,0,10,2,5,Betis,2018-04-13,6,23,0,9,4,1,0,7,Girona,la-liga
+6,9,0,5,3,1,La Coruna,2018-04-14,11,5,0,13,4,2,0,2,Ath Bilbao,la-liga
+5,11,0,17,6,2,Valencia,2018-04-14,6,9,0,12,7,0,1,2,Barcelona,la-liga
+6,16,0,20,11,0,Sociedad,2018-04-14,4,6,0,7,0,1,0,0,Las Palmas,la-liga
+3,17,0,5,2,3,Celta,2018-04-14,8,22,0,19,7,0,0,3,Leganes,la-liga
+2,23,1,7,4,3,Villarreal,2018-04-14,10,11,1,18,4,1,0,5,Sevilla,la-liga
+3,13,0,11,3,1,Levante,2018-04-15,8,9,0,13,5,0,1,2,Ath Madrid,la-liga
+1,18,0,2,1,1,Alaves,2018-04-15,12,11,0,21,4,1,0,2,Eibar,la-liga
+3,13,0,5,0,2,Espanol,2018-04-15,4,19,1,13,4,0,0,6,Getafe,la-liga
+7,9,0,16,6,0,Real Madrid,2018-04-15,4,12,0,13,3,1,0,4,Malaga,la-liga
+4,7,1,14,6,0,Barcelona,2018-04-17,6,9,0,18,8,1,1,3,Celta,la-liga
+9,8,0,24,7,2,Sevilla,2018-04-17,7,8,0,22,6,0,0,0,La Coruna,la-liga
+4,14,0,6,1,1,Leganes,2018-04-17,10,14,0,17,6,0,1,1,Villarreal,la-liga
+6,17,0,5,1,2,Eibar,2018-04-18,3,17,0,10,4,1,0,3,Espanol,la-liga
+2,19,0,6,2,4,Ath Bilbao,2018-04-18,16,6,0,29,10,1,0,2,Real Madrid,la-liga
+5,14,0,8,3,7,Getafe,2018-04-18,7,10,1,10,3,1,0,1,Valencia,la-liga
+6,12,0,14,5,4,Girona,2018-04-19,3,15,0,11,5,0,0,4,Alaves,la-liga
+3,17,1,1,0,5,Las Palmas,2018-04-19,6,18,0,17,8,0,0,3,Betis,la-liga
+3,17,0,10,2,1,Malaga,2018-04-19,4,9,0,11,2,0,0,1,Levante,la-liga
+6,13,0,9,2,0,Ath Madrid,2018-04-19,6,13,0,12,4,0,1,1,Sociedad,la-liga
+4,13,0,12,3,2,La Coruna,2018-04-20,9,12,0,13,0,0,0,0,Leganes,la-liga
+3,19,0,17,7,2,Valencia,2018-04-21,4,14,0,10,3,0,0,1,Celta,la-liga
+3,16,0,7,4,1,Getafe,2018-04-21,8,15,0,12,2,1,0,4,Eibar,la-liga
+3,14,0,10,4,5,Betis,2018-04-22,8,17,0,10,2,0,0,2,Ath Madrid,la-liga
+0,18,0,5,4,2,Espanol,2018-04-22,10,18,0,20,6,1,0,1,Girona,la-liga
+3,19,0,10,7,2,Alaves,2018-04-22,3,14,0,12,1,0,0,2,Las Palmas,la-liga
+3,0,0,14,2,1,Sociedad,2018-04-22,5,16,0,4,3,0,2,4,Malaga,la-liga
+9,14,0,11,7,3,Levante,2018-04-23,2,13,0,18,5,2,1,3,Ath Bilbao,la-liga
+8,15,0,22,4,1,Sevilla,2018-04-27,4,4,0,15,5,1,1,1,Levante,la-liga
+7,22,0,13,2,4,Las Palmas,2018-04-28,6,18,0,16,7,1,0,2,Espanol,la-liga
+2,15,1,16,6,1,Leganes,2018-04-28,3,16,0,12,5,0,2,0,Real Madrid,la-liga
+7,16,0,9,3,6,Ath Bilbao,2018-04-28,3,16,1,17,4,0,2,3,Sociedad,la-liga
+7,8,0,15,4,0,Celta,2018-04-28,5,14,0,13,7,1,3,2,Villarreal,la-liga
+4,12,1,14,6,6,Ath Madrid,2018-04-29,3,14,0,7,3,0,0,4,Alaves,la-liga
+4,21,0,15,2,4,Girona,2018-04-29,4,19,1,10,2,1,1,6,Getafe,la-liga
+7,9,0,21,9,1,Barcelona,2018-04-29,6,9,0,17,5,2,1,1,La Coruna,la-liga
+2,19,0,8,2,3,Eibar,2018-04-29,8,12,0,16,5,0,0,2,Valencia,la-liga
+4,17,0,9,3,4,Malaga,2018-04-30,6,9,0,12,3,1,1,1,Betis,la-liga
+4,13,0,11,1,2,Sociedad,2018-05-04,6,17,0,16,6,0,0,4,Sevilla,la-liga
+5,12,0,6,3,2,Betis,2018-05-05,4,13,0,14,5,0,0,0,Ath Bilbao,la-liga
+10,11,0,11,2,2,La Coruna,2018-05-05,4,6,0,13,4,0,1,4,Celta,la-liga
+5,13,0,15,6,5,Eibar,2018-05-05,6,12,0,16,5,2,0,2,Girona,la-liga
+3,18,0,6,2,3,Valencia,2018-05-05,7,18,0,13,5,0,0,5,Villarreal,la-liga
+3,13,0,14,6,3,Espanol,2018-05-06,6,9,0,9,3,0,0,1,Ath Madrid,la-liga
+5,20,0,17,5,5,Real Madrid,2018-05-06,6,8,1,11,4,1,1,3,Barcelona,la-liga
+4,28,0,8,1,2,Getafe,2018-05-06,9,8,0,21,4,0,0,0,Las Palmas,la-liga
+7,13,0,13,7,1,Alaves,2018-05-06,6,15,0,16,4,1,0,2,Malaga,la-liga
+5,11,0,10,3,1,Levante,2018-05-07,6,15,1,13,2,0,0,5,Leganes,la-liga
+4,15,0,20,7,3,Villarreal,2018-05-09,4,6,0,12,6,0,3,0,Barcelona,la-liga
+3,9,0,14,4,1,Real Madrid,2018-05-09,2,21,0,14,6,0,2,3,Sevilla,la-liga
+8,13,0,13,4,5,Ath Bilbao,2018-05-12,0,15,0,4,3,0,1,2,Alaves,la-liga
+5,19,0,13,5,4,Sevilla,2018-05-12,4,10,0,9,5,0,1,1,Betis,la-liga
+11,12,0,8,2,1,Las Palmas,2018-05-12,3,13,0,10,5,0,1,3,Eibar,la-liga
+2,17,0,5,3,2,Ath Madrid,2018-05-12,8,13,0,11,4,1,0,3,Getafe,la-liga
+2,11,0,10,4,3,Valencia,2018-05-12,6,16,0,16,4,0,0,2,Girona,la-liga
+0,5,0,11,7,0,Villarreal,2018-05-12,11,14,0,16,7,3,0,3,La Coruna,la-liga
+2,10,0,5,1,1,Celta,2018-05-12,4,5,0,15,10,0,3,0,Real Madrid,la-liga
+1,12,0,9,3,2,Leganes,2018-05-12,5,8,0,11,6,1,2,1,Sociedad,la-liga
+3,19,0,9,3,2,Malaga,2018-05-13,5,13,0,19,7,1,3,0,Espanol,la-liga
+8,12,0,18,7,6,Barcelona,2018-05-13,3,18,0,12,7,1,2,6,Levante,la-liga
+3,15,1,7,3,3,Levante,2018-05-19,5,9,0,20,9,1,2,1,Celta,la-liga
+3,19,0,12,6,2,Girona,2018-05-19,4,7,0,13,7,2,1,1,Las Palmas,la-liga
+4,9,0,16,8,0,Betis,2018-05-19,6,9,1,8,3,1,1,2,Leganes,la-liga
+9,12,0,11,3,1,Getafe,2018-05-19,2,19,0,6,2,0,0,4,Malaga,la-liga
+3,12,0,10,4,2,Alaves,2018-05-19,8,15,0,20,8,0,1,2,Sevilla,la-liga
+5,10,0,15,7,3,Real Madrid,2018-05-19,4,13,0,14,5,2,0,4,Villarreal,la-liga
+7,11,0,11,4,1,Espanol,2018-05-20,7,4,0,12,3,1,0,0,Ath Bilbao,la-liga
+2,14,0,14,3,2,Eibar,2018-05-20,2,14,1,8,4,1,1,6,Ath Madrid,la-liga
+8,13,0,13,2,2,Sociedad,2018-05-20,3,13,0,12,4,0,0,3,Barcelona,la-liga
+4,11,0,12,7,0,La Coruna,2018-05-20,8,8,0,22,5,0,1,0,Valencia,la-liga
+2,23,0,6,3,3,Toulouse,2017-08-04,8,12,0,17,7,1,1,1,Monaco,ligue-1
+4,16,0,7,1,3,Strasbourg,2017-08-05,3,11,0,12,7,0,1,2,Lyon,ligue-1
+3,13,0,13,5,2,Guingamp,2017-08-05,3,9,0,6,4,1,1,1,Metz,ligue-1
+3,11,0,8,1,1,Caen,2017-08-05,9,9,0,10,2,0,0,2,Montpellier,ligue-1
+3,12,0,7,1,1,Amiens,2017-08-05,8,9,0,16,5,0,1,0,Paris SG,ligue-1
+7,8,0,6,2,1,Nice,2017-08-05,2,11,0,8,3,0,1,2,St Etienne,ligue-1
+7,8,0,16,4,0,Rennes,2017-08-05,6,13,0,11,4,0,0,1,Troyes,ligue-1
+5,15,0,7,4,2,Bordeaux,2017-08-06,0,16,0,9,5,1,1,3,Angers,ligue-1
+3,17,0,9,4,3,Nantes,2017-08-06,15,11,0,14,5,0,0,2,Lille,ligue-1
+3,10,0,12,1,0,Dijon,2017-08-06,7,7,0,18,5,0,0,1,Marseille,ligue-1
+4,8,0,10,4,3,Troyes,2017-08-11,10,11,0,20,6,0,0,2,Nice,ligue-1
+2,16,0,17,8,3,Lyon,2017-08-11,14,9,0,17,5,0,0,1,Rennes,ligue-1
+5,18,0,12,6,2,Angers,2017-08-12,5,8,0,10,1,1,0,3,Amiens,ligue-1
+1,10,0,6,1,2,Metz,2017-08-12,5,17,0,12,5,0,1,1,Bordeaux,ligue-1
+2,15,0,6,4,1,St Etienne,2017-08-12,8,12,0,10,4,0,0,1,Caen,ligue-1
+9,12,0,13,10,3,Marseille,2017-08-12,6,13,0,14,3,0,0,1,Nantes,ligue-1
+3,12,0,14,1,3,Montpellier,2017-08-12,5,25,0,8,4,0,1,4,Toulouse,ligue-1
+10,12,0,16,6,2,Monaco,2017-08-13,6,10,0,15,3,3,1,0,Dijon,ligue-1
+6,13,0,21,8,2,Paris SG,2017-08-13,4,9,0,4,0,0,0,2,Guingamp,ligue-1
+5,13,1,12,2,2,Lille,2017-08-13,7,8,0,22,9,0,0,1,Strasbourg,ligue-1
+6,16,0,22,5,1,Monaco,2017-08-18,6,17,0,9,5,0,0,2,Metz,ligue-1
+8,16,0,16,6,2,Bordeaux,2017-08-19,0,20,1,8,5,1,2,2,Lyon,ligue-1
+2,18,0,7,1,3,Strasbourg,2017-08-19,9,6,0,16,5,1,0,2,Montpellier,ligue-1
+5,15,0,13,1,2,Guingamp,2017-08-19,4,12,0,14,8,0,1,2,Nice,ligue-1
+0,13,0,12,4,4,Dijon,2017-08-19,7,9,0,14,7,0,1,2,Rennes,ligue-1
+11,12,0,16,1,2,Amiens,2017-08-19,3,11,0,13,5,0,2,2,St Etienne,ligue-1
+10,8,1,11,4,0,Nantes,2017-08-19,2,7,0,8,1,0,0,1,Troyes,ligue-1
+3,12,0,11,3,2,Caen,2017-08-20,5,9,0,15,4,1,0,2,Lille,ligue-1
+2,7,0,11,4,2,Angers,2017-08-20,11,20,1,12,2,0,1,3,Marseille,ligue-1
+1,19,0,7,1,4,Toulouse,2017-08-20,7,8,1,24,15,1,2,0,Paris SG,ligue-1
+3,12,0,12,2,3,St Etienne,2017-08-25,8,20,0,14,4,0,1,2,Paris SG,ligue-1
+4,7,0,12,3,3,Nice,2017-08-26,3,14,0,12,4,0,2,3,Amiens,ligue-1
+4,17,0,5,2,1,Troyes,2017-08-26,4,9,0,12,8,0,1,0,Bordeaux,ligue-1
+3,16,0,9,2,2,Metz,2017-08-26,9,11,0,16,4,0,0,2,Caen,ligue-1
+4,14,0,11,2,2,Montpellier,2017-08-26,2,18,0,7,2,0,1,2,Dijon,ligue-1
+8,11,0,16,3,1,Lyon,2017-08-26,1,13,0,6,2,0,0,1,Nantes,ligue-1
+4,22,1,14,3,3,Rennes,2017-08-26,3,19,0,11,7,1,1,4,Toulouse,ligue-1
+1,10,0,13,3,5,Lille,2017-08-27,7,10,0,11,2,0,0,2,Angers,ligue-1
+7,14,0,15,3,2,Strasbourg,2017-08-27,2,12,0,14,6,0,0,1,Guingamp,ligue-1
+1,14,0,10,3,3,Marseille,2017-08-27,1,11,0,14,8,0,4,2,Monaco,ligue-1
+3,13,0,17,1,4,Bordeaux,2017-09-08,5,11,1,8,2,0,0,2,Lille,ligue-1
+7,8,0,23,12,1,Paris SG,2017-09-08,6,10,1,8,1,1,1,0,Metz,ligue-1
+3,17,0,9,4,2,Dijon,2017-09-09,8,19,1,12,3,1,1,1,Caen,ligue-1
+3,12,0,12,4,2,Nantes,2017-09-09,8,7,1,11,3,0,0,1,Montpellier,ligue-1
+11,14,0,11,1,2,Monaco,2017-09-09,2,19,0,9,5,0,2,2,Nice,ligue-1
+0,14,0,8,3,3,Amiens,2017-09-09,6,22,1,10,3,1,0,1,Strasbourg,ligue-1
+1,13,0,7,0,3,Toulouse,2017-09-09,4,12,0,11,3,0,0,2,Troyes,ligue-1
+6,16,0,13,6,2,Guingamp,2017-09-10,3,16,0,12,4,0,1,2,Lyon,ligue-1
+2,14,0,17,4,1,Rennes,2017-09-10,5,18,0,10,4,2,0,6,Marseille,ligue-1
+3,19,1,15,6,2,Angers,2017-09-10,1,9,1,8,4,1,1,3,St Etienne,ligue-1
+9,10,0,14,4,1,Bordeaux,2017-09-15,3,17,0,16,5,0,0,3,Toulouse,ligue-1
+4,14,0,16,6,3,St Etienne,2017-09-16,1,13,0,18,7,0,0,3,Dijon,ligue-1
+8,17,0,10,5,1,Lille,2017-09-16,8,8,0,20,4,0,0,1,Guingamp,ligue-1
+5,12,0,10,1,2,Strasbourg,2017-09-16,5,13,0,14,5,0,1,2,Monaco,ligue-1
+3,12,0,8,1,2,Caen,2017-09-16,4,12,0,8,4,0,0,0,Nantes,ligue-1
+6,10,0,9,3,3,Montpellier,2017-09-16,2,19,1,7,0,1,0,3,Troyes,ligue-1
+3,15,0,22,6,3,Marseille,2017-09-17,6,11,0,8,3,0,0,2,Amiens,ligue-1
+5,14,0,10,5,3,Metz,2017-09-17,4,14,0,18,5,0,0,1,Angers,ligue-1
+4,13,0,12,5,2,Lyon,2017-09-17,9,11,0,14,5,0,0,3,Paris SG,ligue-1
+5,17,0,6,3,5,Nice,2017-09-17,6,17,0,17,4,0,0,1,Rennes,ligue-1
+1,14,0,12,7,2,Monaco,2017-09-22,1,18,0,11,2,2,0,1,Lille,ligue-1
+1,18,0,15,6,2,Angers,2017-09-22,8,13,0,17,3,2,1,4,Nice,ligue-1
+2,14,0,10,4,2,Guingamp,2017-09-23,5,14,0,21,8,0,1,4,Bordeaux,ligue-1
+3,19,0,2,0,2,Amiens,2017-09-23,7,14,0,17,4,0,0,1,Caen,ligue-1
+1,19,0,11,6,5,Dijon,2017-09-23,8,17,0,20,6,1,1,1,Lyon,ligue-1
+4,12,1,9,2,3,Troyes,2017-09-23,5,11,0,15,7,0,0,3,Metz,ligue-1
+11,13,0,10,1,2,Paris SG,2017-09-23,2,15,0,5,2,0,0,2,Montpellier,ligue-1
+5,10,0,8,1,0,Toulouse,2017-09-24,12,11,0,22,6,0,1,2,Marseille,ligue-1
+5,14,0,9,4,3,Rennes,2017-09-24,9,11,1,9,4,1,1,3,St Etienne,ligue-1
+3,5,0,12,5,1,Nantes,2017-09-24,12,7,0,21,6,2,1,1,Strasbourg,ligue-1
+4,12,0,15,3,1,Montpellier,2017-09-29,3,19,0,8,1,0,1,3,Monaco,ligue-1
+4,17,0,7,1,2,Strasbourg,2017-09-30,7,10,1,13,6,0,0,0,Dijon,ligue-1
+4,18,0,11,2,2,Toulouse,2017-09-30,6,17,0,6,4,1,1,1,Guingamp,ligue-1
+4,9,1,9,1,4,Metz,2017-09-30,4,14,0,15,6,0,1,2,Nantes,ligue-1
+5,18,0,17,6,2,Bordeaux,2017-09-30,1,10,0,11,9,1,5,1,Paris SG,ligue-1
+3,25,0,10,3,1,Caen,2017-09-30,8,14,0,9,2,1,0,4,Rennes,ligue-1
+4,14,1,13,6,3,Lyon,2017-10-01,9,12,0,15,4,3,1,2,Angers,ligue-1
+5,16,1,17,9,3,Marseille,2017-10-01,9,14,0,19,10,3,2,2,Nice,ligue-1
+8,17,1,14,4,1,St Etienne,2017-10-01,5,7,1,11,7,0,1,3,Troyes,ligue-1
+5,15,0,14,7,1,Monaco,2017-10-13,7,9,0,22,7,2,2,4,Lyon,ligue-1
+4,18,0,12,4,4,Angers,2017-10-14,4,12,0,22,5,0,0,1,Caen,ligue-1
+9,13,0,18,8,4,Paris SG,2017-10-14,5,10,0,15,5,0,0,3,Dijon,ligue-1
+5,15,1,11,0,6,Rennes,2017-10-14,6,19,0,16,9,0,0,3,Guingamp,ligue-1
+1,12,0,10,2,2,Troyes,2017-10-14,3,16,1,16,6,1,1,1,Lille,ligue-1
+5,16,0,10,2,1,Metz,2017-10-14,12,10,0,20,5,1,0,2,St Etienne,ligue-1
+0,21,1,7,2,5,Amiens,2017-10-14,3,14,0,16,6,0,1,1,Toulouse,ligue-1
+2,15,0,14,4,2,Nantes,2017-10-15,6,13,0,18,3,1,0,3,Bordeaux,ligue-1
+7,15,0,15,8,1,Nice,2017-10-15,4,14,0,14,4,0,0,3,Montpellier,ligue-1
+4,9,0,20,7,3,Marseille,2017-10-15,4,14,0,19,9,1,1,3,Strasbourg,ligue-1
+2,17,0,15,4,3,Montpellier,2017-10-20,6,25,0,21,4,1,0,2,St Etienne,ligue-1
+3,13,0,14,4,1,Bordeaux,2017-10-21,4,12,0,13,4,0,0,3,Amiens,ligue-1
+2,16,0,3,1,4,Toulouse,2017-10-21,4,11,0,14,4,1,0,2,Angers,ligue-1
+5,15,0,8,6,2,Dijon,2017-10-21,2,11,1,15,5,1,1,1,Metz,ligue-1
+7,17,0,8,1,2,Caen,2017-10-21,7,12,0,15,6,0,1,3,Monaco,ligue-1
+6,12,0,10,4,1,Guingamp,2017-10-21,3,13,0,9,3,0,1,3,Nantes,ligue-1
+6,17,1,7,1,2,Lille,2017-10-21,2,13,0,9,6,0,1,1,Rennes,ligue-1
+4,14,1,7,3,3,Paris SG,2017-10-22,3,18,0,11,3,1,1,4,Marseille,ligue-1
+1,5,1,15,6,1,Strasbourg,2017-10-22,9,5,0,14,9,1,0,0,Nice,ligue-1
+3,13,0,14,10,2,Lyon,2017-10-22,4,12,1,9,3,1,0,2,Troyes,ligue-1
+2,9,0,8,1,0,Nice,2017-10-27,8,10,0,16,8,0,2,0,Paris SG,ligue-1
+2,12,0,12,5,0,Monaco,2017-10-28,6,22,0,12,4,0,0,2,Bordeaux,ligue-1
+6,13,0,8,3,3,Troyes,2017-10-28,6,12,0,16,3,0,1,1,Caen,ligue-1
+5,19,0,10,0,2,Nantes,2017-10-28,1,15,0,6,1,0,1,3,Dijon,ligue-1
+5,20,1,7,2,5,Amiens,2017-10-28,5,16,0,12,4,1,1,1,Guingamp,ligue-1
+1,17,0,7,2,2,Rennes,2017-10-28,4,15,0,9,4,0,0,4,Montpellier,ligue-1
+2,12,0,5,2,2,Angers,2017-10-28,4,10,0,14,6,0,1,3,Strasbourg,ligue-1
+4,17,0,10,3,3,Marseille,2017-10-29,11,18,0,18,7,1,0,2,Lille,ligue-1
+2,17,0,7,4,3,Metz,2017-10-29,3,13,0,12,4,0,2,0,Lyon,ligue-1
+1,19,0,4,2,3,St Etienne,2017-10-29,7,16,0,11,4,0,0,2,Toulouse,ligue-1
+0,26,0,6,0,5,Bordeaux,2017-11-03,8,14,0,6,2,0,1,2,Rennes,ligue-1
+4,13,0,15,7,3,Paris SG,2017-11-04,2,8,0,9,3,3,0,1,Angers,ligue-1
+1,9,0,12,3,1,Guingamp,2017-11-04,4,17,0,18,9,0,4,1,Monaco,ligue-1
+2,12,0,12,1,1,Amiens,2017-11-04,3,11,0,10,3,0,0,2,Montpellier,ligue-1
+4,16,0,10,3,4,Toulouse,2017-11-04,9,20,0,11,6,0,1,2,Nantes,ligue-1
+1,8,1,10,2,1,Strasbourg,2017-11-04,4,18,0,13,6,0,0,3,Troyes,ligue-1
+6,9,0,11,3,0,Caen,2017-11-05,13,5,0,28,11,0,1,0,Marseille,ligue-1
+0,19,0,14,7,2,Lille,2017-11-05,9,13,0,19,5,1,0,3,Metz,ligue-1
+4,9,0,13,4,1,Dijon,2017-11-05,6,14,1,11,4,0,1,1,Nice,ligue-1
+1,17,0,13,10,2,Lyon,2017-11-05,5,22,1,13,2,2,0,1,St Etienne,ligue-1
+4,15,0,15,4,3,Monaco,2017-11-17,4,15,0,10,2,0,1,2,Amiens,ligue-1
+10,16,0,8,3,3,St Etienne,2017-11-17,8,10,0,12,5,1,1,2,Lille,ligue-1
+4,12,0,11,4,1,Troyes,2017-11-18,4,13,0,15,8,1,1,1,Dijon,ligue-1
+7,18,0,10,2,4,Angers,2017-11-18,1,15,1,9,2,1,1,4,Guingamp,ligue-1
+2,17,0,8,1,3,Nantes,2017-11-18,9,9,0,23,10,0,2,2,Paris SG,ligue-1
+7,8,1,13,4,0,Rennes,2017-11-18,6,18,0,11,5,0,1,1,Strasbourg,ligue-1
+4,11,1,12,5,3,Metz,2017-11-18,9,16,0,21,3,0,0,2,Toulouse,ligue-1
+6,14,0,14,3,2,Marseille,2017-11-19,3,16,0,9,3,0,1,4,Bordeaux,ligue-1
+3,11,0,12,7,3,Nice,2017-11-19,12,10,0,18,4,1,0,2,Caen,ligue-1
+6,9,0,15,2,1,Montpellier,2017-11-19,9,11,0,15,3,0,0,2,Lyon,ligue-1
+6,10,0,12,1,2,Lille,2017-11-20,4,12,0,8,4,0,1,3,Amiens,ligue-1
+4,10,0,10,4,2,Strasbourg,2017-11-24,7,14,0,12,6,1,1,4,St Etienne,ligue-1
+8,14,0,10,2,3,Bordeaux,2017-11-25,4,13,0,12,2,0,1,2,Caen,ligue-1
+2,16,0,12,4,2,Toulouse,2017-11-25,6,11,0,13,5,0,1,3,Dijon,ligue-1
+1,8,0,11,2,0,Amiens,2017-11-25,8,17,0,21,6,1,0,1,Metz,ligue-1
+7,14,0,10,4,6,Lille,2017-11-25,6,13,0,18,6,0,3,1,Montpellier,ligue-1
+2,14,1,10,1,6,Nantes,2017-11-25,8,17,0,15,5,0,0,3,Rennes,ligue-1
+3,15,0,7,3,4,Angers,2017-11-25,4,15,0,9,3,0,2,2,Troyes,ligue-1
+2,13,0,4,1,2,Guingamp,2017-11-26,6,11,0,21,7,0,1,2,Marseille,ligue-1
+4,13,0,18,5,4,Paris SG,2017-11-26,1,17,0,8,2,1,0,3,Monaco,ligue-1
+2,13,0,11,7,3,Lyon,2017-11-26,2,19,1,10,3,4,0,5,Nice,ligue-1
+6,14,0,16,6,3,Dijon,2017-11-28,3,5,0,8,5,1,1,0,Amiens,ligue-1
+6,19,0,11,5,2,St Etienne,2017-11-28,2,12,0,12,6,0,2,1,Bordeaux,ligue-1
+3,13,0,15,1,2,Caen,2017-11-28,2,13,0,6,3,0,0,1,Strasbourg,ligue-1
+4,11,0,8,3,1,Rennes,2017-11-29,7,9,0,10,4,0,1,0,Angers,ligue-1
+3,21,0,6,4,3,Montpellier,2017-11-29,8,15,0,10,1,0,0,1,Guingamp,ligue-1
+2,13,0,7,3,1,Lille,2017-11-29,4,8,0,21,5,2,1,0,Lyon,ligue-1
+9,8,0,21,8,0,Marseille,2017-11-29,0,13,0,9,4,2,0,1,Metz,ligue-1
+5,12,0,9,1,0,Monaco,2017-11-29,11,9,0,16,5,0,0,0,Nantes,ligue-1
+1,16,0,6,3,1,Troyes,2017-11-29,11,14,0,19,6,0,0,0,Paris SG,ligue-1
+4,12,1,8,4,4,Nice,2017-11-29,6,16,1,14,3,0,1,3,Toulouse,ligue-1
+4,14,0,14,6,2,Bordeaux,2017-12-01,6,15,0,17,5,2,1,2,Dijon,ligue-1
+6,18,0,10,3,3,Toulouse,2017-12-02,3,17,0,10,3,0,0,2,Lille,ligue-1
+3,19,0,8,3,3,Angers,2017-12-02,5,13,0,5,3,0,1,3,Monaco,ligue-1
+5,17,0,13,5,2,Metz,2017-12-02,1,10,0,15,7,1,1,0,Nice,ligue-1
+0,7,0,6,2,5,Amiens,2017-12-02,16,10,0,25,5,0,0,1,Rennes,ligue-1
+13,5,0,29,5,3,Paris SG,2017-12-02,0,20,0,5,2,1,1,4,Strasbourg,ligue-1
+3,9,1,11,5,2,Guingamp,2017-12-02,5,13,1,14,3,1,0,2,Troyes,ligue-1
+4,15,0,11,4,3,Lyon,2017-12-03,9,18,0,19,4,1,0,1,Caen,ligue-1
+3,23,0,6,2,2,Marseille,2017-12-03,1,9,0,13,4,1,1,4,Montpellier,ligue-1
+9,10,0,22,6,1,Nantes,2017-12-03,5,18,0,13,4,0,1,4,St Etienne,ligue-1
+5,10,0,10,4,1,Strasbourg,2017-12-08,10,14,0,12,2,2,0,3,Bordeaux,ligue-1
+4,10,0,10,6,2,Montpellier,2017-12-09,5,15,0,13,4,0,0,3,Angers,ligue-1
+2,7,1,8,1,0,Dijon,2017-12-09,18,5,0,17,9,0,2,0,Guingamp,ligue-1
+6,11,0,5,4,3,Rennes,2017-12-09,5,14,0,13,6,0,1,3,Metz,ligue-1
+1,22,0,5,3,5,Troyes,2017-12-09,16,14,0,19,6,1,0,4,Monaco,ligue-1
+4,19,0,7,2,2,Lille,2017-12-09,5,14,0,14,5,0,1,2,Paris SG,ligue-1
+5,10,0,11,3,2,Caen,2017-12-09,4,15,0,10,3,0,0,1,Toulouse,ligue-1
+2,15,0,12,3,2,Lyon,2017-12-10,2,11,0,14,6,0,1,1,Amiens,ligue-1
+2,10,1,5,1,2,St Etienne,2017-12-10,7,13,0,18,7,0,1,1,Marseille,ligue-1
+3,12,0,12,5,4,Nice,2017-12-10,5,13,0,22,4,1,1,1,Nantes,ligue-1
+4,11,0,22,9,0,Monaco,2017-12-15,4,11,1,5,3,2,0,1,St Etienne,ligue-1
+4,13,0,8,5,4,Guingamp,2017-12-16,5,20,0,11,2,0,0,2,Caen,ligue-1
+4,9,0,9,5,1,Lille,2017-12-16,3,14,0,13,8,0,3,1,Dijon,ligue-1
+2,21,0,6,4,2,Metz,2017-12-16,3,10,0,9,3,1,1,1,Montpellier,ligue-1
+11,10,1,21,10,3,Paris SG,2017-12-16,4,16,1,14,2,2,0,4,Rennes,ligue-1
+5,15,0,11,3,4,Toulouse,2017-12-16,5,17,0,9,5,1,1,2,Strasbourg,ligue-1
+0,14,0,11,3,2,Amiens,2017-12-16,9,18,0,19,7,0,0,4,Troyes,ligue-1
+10,19,0,19,5,2,Marseille,2017-12-17,5,10,0,8,5,0,1,0,Lyon,ligue-1
+6,15,0,7,0,2,Angers,2017-12-17,3,9,1,10,4,0,1,3,Nantes,ligue-1
+4,15,0,10,1,2,Bordeaux,2017-12-17,2,10,0,11,3,0,1,1,Nice,ligue-1
+2,13,0,14,5,2,Nantes,2017-12-20,5,17,0,12,5,0,0,3,Amiens,ligue-1
+3,18,1,16,3,4,Dijon,2017-12-20,7,16,0,24,11,1,1,3,Angers,ligue-1
+2,13,0,14,6,3,Montpellier,2017-12-20,4,14,0,8,1,0,0,3,Bordeaux,ligue-1
+0,13,1,3,3,2,St Etienne,2017-12-20,10,13,0,27,6,0,0,3,Guingamp,ligue-1
+4,11,0,8,3,4,Nice,2017-12-20,3,18,0,5,1,1,0,2,Lille,ligue-1
+2,13,0,8,3,0,Troyes,2017-12-20,8,11,0,20,8,1,1,1,Marseille,ligue-1
+8,13,0,7,2,1,Strasbourg,2017-12-20,10,17,0,26,9,0,0,4,Metz,ligue-1
+1,19,0,8,2,2,Rennes,2017-12-20,8,21,0,14,4,0,1,3,Monaco,ligue-1
+6,12,0,9,4,2,Caen,2017-12-20,5,7,0,21,7,0,1,2,Paris SG,ligue-1
+4,11,0,14,10,2,Lyon,2017-12-20,8,16,0,17,5,1,0,3,Toulouse,ligue-1
+7,14,0,10,5,2,Guingamp,2018-01-12,7,14,0,14,3,2,0,1,Strasbourg,ligue-1
+3,11,1,12,5,3,Lille,2018-01-13,5,15,1,15,7,1,0,3,Caen,ligue-1
+7,15,0,12,6,2,Metz,2018-01-13,6,10,1,12,7,0,1,2,Dijon,ligue-1
+6,10,0,13,6,1,Monaco,2018-01-13,10,15,0,16,4,0,0,5,Montpellier,ligue-1
+1,13,0,9,3,0,Amiens,2018-01-13,7,10,0,20,7,0,0,1,Nice,ligue-1
+2,18,0,18,5,2,Marseille,2018-01-13,3,8,0,13,3,2,0,1,Rennes,ligue-1
+2,13,0,10,4,0,Bordeaux,2018-01-13,2,15,0,8,3,1,0,4,Troyes,ligue-1
+1,18,1,9,2,4,Angers,2018-01-14,12,11,0,19,7,1,0,2,Lyon,ligue-1
+5,11,0,20,3,2,Paris SG,2018-01-14,2,17,1,13,3,1,0,3,Nantes,ligue-1
+10,22,0,19,8,3,Toulouse,2018-01-14,4,14,0,11,5,0,1,1,St Etienne,ligue-1
+2,12,0,10,3,5,Caen,2018-01-16,7,13,1,13,5,0,0,3,Bordeaux,ligue-1
+4,15,0,4,2,3,Strasbourg,2018-01-16,7,6,0,15,7,0,0,2,Marseille,ligue-1
+3,12,0,9,5,4,Nice,2018-01-16,6,10,0,6,3,0,1,4,Monaco,ligue-1
+3,6,0,16,5,1,Montpellier,2018-01-17,2,10,0,13,3,1,0,2,Amiens,ligue-1
+2,17,0,8,2,5,Troyes,2018-01-17,8,15,0,12,5,0,1,0,Angers,ligue-1
+11,16,0,21,13,2,Lyon,2018-01-17,3,20,0,8,3,1,0,2,Guingamp,ligue-1
+9,4,0,22,12,0,Rennes,2018-01-17,2,15,0,11,3,0,1,1,Lille,ligue-1
+3,11,1,7,4,4,St Etienne,2018-01-17,6,14,0,19,12,0,2,1,Metz,ligue-1
+4,16,0,6,1,1,Dijon,2018-01-17,9,8,0,23,14,0,4,0,Paris SG,ligue-1
+2,16,0,11,2,4,Nantes,2018-01-17,3,17,0,15,3,1,0,2,Toulouse,ligue-1
+4,15,0,12,4,3,Marseille,2018-01-19,1,18,0,5,2,0,0,2,Caen,ligue-1
+3,11,0,6,1,2,Guingamp,2018-01-20,7,9,0,13,6,1,1,0,Amiens,ligue-1
+4,13,1,9,3,4,Toulouse,2018-01-20,5,18,0,22,5,1,1,1,Montpellier,ligue-1
+5,11,0,9,3,2,Bordeaux,2018-01-20,3,19,0,14,4,1,0,1,Nantes,ligue-1
+4,17,1,9,3,5,Angers,2018-01-20,5,13,0,9,2,0,0,3,Rennes,ligue-1
+1,22,0,12,5,1,Dijon,2018-01-20,5,17,0,16,9,2,2,1,Strasbourg,ligue-1
+6,10,0,9,1,2,Lille,2018-01-20,5,13,0,7,2,0,1,0,Troyes,ligue-1
+7,11,1,11,3,3,Paris SG,2018-01-21,3,16,0,11,6,1,1,2,Lyon,ligue-1
+3,15,1,3,2,1,Metz,2018-01-21,6,11,0,13,6,0,1,1,Monaco,ligue-1
+4,23,0,9,2,1,St Etienne,2018-01-21,4,15,0,7,2,0,1,3,Nice,ligue-1
+5,17,0,13,4,2,Rennes,2018-01-26,3,10,0,14,4,1,1,3,Dijon,ligue-1
+4,19,0,3,0,3,Amiens,2018-01-27,5,14,0,16,7,0,1,1,Angers,ligue-1
+9,17,0,13,5,3,Nantes,2018-01-27,3,9,0,6,0,0,0,2,Guingamp,ligue-1
+2,19,1,13,5,5,Nice,2018-01-27,4,26,0,15,5,0,0,4,Metz,ligue-1
+10,11,0,16,3,2,Montpellier,2018-01-27,2,16,0,11,7,0,2,1,Paris SG,ligue-1
+8,17,0,14,3,1,Caen,2018-01-27,3,12,0,12,4,1,1,2,St Etienne,ligue-1
+2,15,1,1,0,4,Troyes,2018-01-27,6,11,0,20,7,0,1,1,Toulouse,ligue-1
+1,12,0,9,4,3,Lyon,2018-01-28,2,17,1,9,4,1,3,3,Bordeaux,ligue-1
+2,11,0,11,2,1,Strasbourg,2018-01-28,6,5,0,8,5,0,0,1,Lille,ligue-1
+7,15,0,9,3,2,Monaco,2018-01-28,5,20,0,17,6,1,1,3,Marseille,ligue-1
+5,17,0,18,8,0,Metz,2018-02-02,3,9,0,18,10,0,3,1,Marseille,ligue-1
+4,16,0,16,8,1,St Etienne,2018-02-03,3,10,0,8,0,0,0,2,Amiens,ligue-1
+9,4,0,19,9,1,Paris SG,2018-02-03,3,11,0,10,3,1,0,1,Lille,ligue-1
+1,10,0,8,2,2,Angers,2018-02-03,5,10,0,8,3,1,1,0,Montpellier,ligue-1
+1,13,0,6,1,2,Toulouse,2018-02-03,11,14,0,14,2,0,0,2,Nice,ligue-1
+2,15,0,7,4,4,Bordeaux,2018-02-03,7,13,0,9,0,1,0,1,Strasbourg,ligue-1
+4,9,0,14,4,2,Nantes,2018-02-04,6,11,0,16,7,1,1,1,Caen,ligue-1
+7,15,0,13,4,3,Lyon,2018-02-04,3,18,1,12,7,2,2,3,Monaco,ligue-1
+4,12,0,11,4,4,Guingamp,2018-02-04,4,20,0,13,5,0,0,2,Rennes,ligue-1
+7,12,0,12,4,0,Marseille,2018-02-09,2,12,0,7,3,2,1,0,St Etienne,ligue-1
+3,6,0,10,6,0,Monaco,2018-02-10,4,11,0,11,1,2,0,1,Angers,ligue-1
+11,13,0,19,6,1,Amiens,2018-02-10,7,11,0,14,4,0,2,0,Bordeaux,ligue-1
+8,14,0,14,5,3,Nice,2018-02-10,4,14,0,11,3,0,0,2,Dijon,ligue-1
+7,17,0,12,2,2,Caen,2018-02-10,1,12,0,6,1,0,0,1,Guingamp,ligue-1
+6,11,0,16,8,1,Montpellier,2018-02-10,11,15,0,12,5,1,0,2,Metz,ligue-1
+10,13,0,21,6,2,Paris SG,2018-02-10,0,20,0,3,1,0,0,4,Toulouse,ligue-1
+1,8,0,6,3,1,Rennes,2018-02-11,10,16,0,19,6,1,0,2,Lyon,ligue-1
+7,11,0,7,4,1,Lille,2018-02-11,5,9,0,20,6,0,1,0,Nantes,ligue-1
+6,14,0,12,4,2,Troyes,2018-02-11,4,9,0,12,2,0,0,2,Strasbourg,ligue-1
+5,13,0,7,4,1,Dijon,2018-02-16,5,11,0,14,5,0,1,2,Monaco,ligue-1
+6,15,0,12,5,0,Toulouse,2018-02-17,2,11,1,6,1,0,0,1,Amiens,ligue-1
+5,14,0,10,3,2,St Etienne,2018-02-17,10,14,0,19,4,0,0,1,Angers,ligue-1
+11,8,0,11,5,0,Rennes,2018-02-17,12,4,0,18,6,2,1,2,Caen,ligue-1
+2,15,0,4,1,1,Guingamp,2018-02-17,4,8,0,19,5,1,0,1,Montpellier,ligue-1
+6,15,0,12,2,3,Strasbourg,2018-02-17,4,9,0,20,11,1,3,2,Paris SG,ligue-1
+4,9,0,10,4,2,Metz,2018-02-17,10,9,0,18,9,0,0,1,Troyes,ligue-1
+3,9,0,13,5,4,Lyon,2018-02-18,7,12,0,14,5,2,0,0,Lille,ligue-1
+4,12,0,5,1,2,Bordeaux,2018-02-18,7,11,0,12,8,0,1,2,Marseille,ligue-1
+4,9,0,9,3,0,Nantes,2018-02-18,14,13,0,12,4,1,1,2,Nice,ligue-1
+6,12,0,7,1,1,Dijon,2018-02-20,8,15,0,9,3,0,0,2,Troyes,ligue-1
+3,11,0,8,2,3,Montpellier,2018-02-23,4,17,0,11,3,0,0,2,Strasbourg,ligue-1
+8,16,0,13,2,4,Caen,2018-02-24,5,6,0,13,3,0,1,1,Dijon,ligue-1
+5,16,0,5,2,4,Metz,2018-02-24,5,15,0,17,8,1,1,3,Guingamp,ligue-1
+5,11,0,14,9,2,Angers,2018-02-24,4,12,0,14,3,0,0,0,Lille,ligue-1
+6,16,0,8,1,2,Amiens,2018-02-24,8,10,0,27,4,1,0,2,Nantes,ligue-1
+5,11,1,8,0,1,Troyes,2018-02-24,5,9,0,11,6,0,0,3,Rennes,ligue-1
+6,15,0,9,5,3,Monaco,2018-02-24,6,13,0,9,6,1,1,1,Toulouse,ligue-1
+0,17,0,3,0,2,Nice,2018-02-25,6,17,0,23,6,0,0,2,Bordeaux,ligue-1
+7,23,0,8,2,3,St Etienne,2018-02-25,3,9,0,9,5,0,1,1,Lyon,ligue-1
+6,18,0,15,6,5,Marseille,2018-02-25,3,21,0,10,3,0,2,6,Paris SG,ligue-1
+3,13,0,6,1,1,Bordeaux,2018-03-02,7,9,0,18,5,1,1,0,Monaco,ligue-1
+4,12,0,12,5,1,Lille,2018-03-02,8,9,0,23,10,0,1,3,Nice,ligue-1
+3,16,0,18,5,3,Rennes,2018-03-03,6,19,0,14,3,1,0,2,Amiens,ligue-1
+3,8,0,12,3,1,Guingamp,2018-03-03,6,14,0,15,6,0,1,1,Angers,ligue-1
+9,14,0,18,4,4,Toulouse,2018-03-03,4,7,1,12,1,0,1,0,Metz,ligue-1
+6,15,0,9,5,4,Dijon,2018-03-03,8,10,0,13,7,1,1,0,St Etienne,ligue-1
+4,6,0,20,13,1,Paris SG,2018-03-03,2,7,0,10,2,0,0,3,Troyes,ligue-1
+3,12,0,11,2,2,Strasbourg,2018-03-04,5,14,0,7,4,0,1,4,Caen,ligue-1
+4,19,1,9,3,4,Nantes,2018-03-04,8,7,0,22,5,1,0,3,Marseille,ligue-1
+4,6,0,19,4,2,Lyon,2018-03-04,4,15,0,10,5,0,1,2,Montpellier,ligue-1
+3,14,0,10,4,1,Monaco,2018-03-09,5,13,0,29,5,3,1,0,Strasbourg,ligue-1
+2,6,0,9,0,0,Angers,2018-03-10,3,10,0,12,2,0,0,0,Bordeaux,ligue-1
+1,13,0,10,4,0,Amiens,2018-03-10,5,12,0,10,3,1,0,3,Dijon,ligue-1
+6,12,0,13,4,2,Montpellier,2018-03-10,3,17,0,5,2,0,1,2,Lille,ligue-1
+3,6,0,8,0,1,Troyes,2018-03-10,5,6,0,19,3,0,0,0,Nantes,ligue-1
+2,10,0,6,3,1,Metz,2018-03-10,9,10,0,18,10,0,4,0,Paris SG,ligue-1
+4,14,0,9,3,4,St Etienne,2018-03-10,8,16,0,18,7,1,0,0,Rennes,ligue-1
+5,8,0,17,5,1,Nice,2018-03-11,6,24,0,12,6,1,1,3,Guingamp,ligue-1
+2,8,0,6,1,1,Caen,2018-03-11,4,3,0,20,4,0,0,1,Lyon,ligue-1
+7,19,0,23,9,3,Marseille,2018-03-11,3,16,0,9,4,1,1,2,Toulouse,ligue-1
+8,11,0,20,8,2,Angers,2018-03-14,7,7,1,14,7,0,2,1,Paris SG,ligue-1
+2,10,0,14,5,0,Lille,2018-03-16,4,13,0,10,4,1,1,2,Monaco,ligue-1
+4,11,0,11,5,1,Troyes,2018-03-17,4,13,0,8,1,0,1,1,Amiens,ligue-1
+4,9,0,8,2,2,Caen,2018-03-17,1,11,0,13,6,0,2,1,Angers,ligue-1
+2,8,0,6,3,1,Rennes,2018-03-17,4,13,0,9,2,0,0,2,Bordeaux,ligue-1
+5,13,0,10,7,4,Dijon,2018-03-17,4,16,0,18,11,1,0,1,Montpellier,ligue-1
+2,11,0,12,4,1,Strasbourg,2018-03-17,6,12,0,11,6,0,0,2,Toulouse,ligue-1
+4,14,0,11,6,3,Lyon,2018-03-18,2,12,0,10,5,1,1,2,Marseille,ligue-1
+4,10,0,15,4,0,Nantes,2018-03-18,3,7,0,8,4,1,1,2,Metz,ligue-1
+4,12,0,19,7,1,Paris SG,2018-03-18,5,8,0,14,4,1,1,0,Nice,ligue-1
+5,12,0,9,3,3,Guingamp,2018-03-18,7,16,0,16,6,0,1,2,St Etienne,ligue-1
+6,15,0,11,5,3,Marseille,2018-03-31,6,11,1,12,2,1,0,2,Dijon,ligue-1
+4,11,0,9,6,2,Montpellier,2018-04-01,4,22,0,8,5,2,0,2,Caen,ligue-1
+5,14,0,15,6,2,Bordeaux,2018-04-01,5,12,0,14,6,0,0,1,Guingamp,ligue-1
+3,15,0,10,2,2,Amiens,2018-04-01,3,9,0,15,3,0,0,0,Lille,ligue-1
+3,9,0,10,6,1,Toulouse,2018-04-01,8,14,0,20,5,0,2,1,Lyon,ligue-1
+4,12,0,15,8,0,St Etienne,2018-04-01,6,16,0,20,4,1,0,3,Nantes,ligue-1
+1,23,1,11,5,4,Metz,2018-04-01,5,16,1,18,5,1,1,5,Strasbourg,ligue-1
+5,5,0,15,6,0,Nice,2018-04-01,8,16,0,11,3,1,0,1,Troyes,ligue-1
+1,17,0,8,2,2,Monaco,2018-04-04,8,28,0,20,7,1,1,0,Rennes,ligue-1
+3,16,1,8,2,4,Paris SG,2018-04-06,11,5,0,16,5,0,1,1,St Etienne,ligue-1
+4,14,0,14,7,1,Caen,2018-04-07,7,14,0,11,4,0,2,3,Amiens,ligue-1
+9,17,0,11,5,1,Strasbourg,2018-04-07,2,10,0,3,2,0,1,1,Angers,ligue-1
+2,12,1,7,1,3,Lille,2018-04-07,7,14,0,15,6,1,2,1,Bordeaux,ligue-1
+10,12,0,8,4,1,Troyes,2018-04-07,9,11,0,15,10,0,1,1,Guingamp,ligue-1
+5,11,0,10,4,3,Nantes,2018-04-07,7,12,0,6,3,1,2,4,Monaco,ligue-1
+3,15,0,8,3,1,Dijon,2018-04-07,10,15,0,20,5,1,0,2,Toulouse,ligue-1
+2,12,0,6,2,1,Montpellier,2018-04-08,6,14,0,12,3,0,0,2,Marseille,ligue-1
+3,7,0,14,6,0,Lyon,2018-04-08,4,18,0,10,5,2,0,2,Metz,ligue-1
+2,12,0,9,3,4,Rennes,2018-04-08,5,7,0,10,2,1,1,4,Nice,ligue-1
+8,5,0,15,7,3,Nice,2018-04-13,4,14,0,12,3,0,0,1,Angers,ligue-1
+3,15,0,6,3,1,Guingamp,2018-04-14,2,15,0,10,3,0,0,2,Lille,ligue-1
+5,11,0,5,2,0,Amiens,2018-04-14,7,9,0,25,8,0,1,0,Lyon,ligue-1
+4,9,0,12,4,0,Dijon,2018-04-14,6,14,0,15,2,0,1,0,Nantes,ligue-1
+3,17,0,7,6,4,Metz,2018-04-14,7,6,0,14,3,0,1,1,Rennes,ligue-1
+1,10,0,5,1,1,St Etienne,2018-04-14,10,11,0,16,6,0,0,3,Strasbourg,ligue-1
+2,8,0,9,4,2,Bordeaux,2018-04-15,6,9,0,19,5,1,0,3,Montpellier,ligue-1
+2,8,0,11,2,3,Monaco,2018-04-15,4,8,0,12,7,1,4,1,Paris SG,ligue-1
+8,8,0,21,9,2,Marseille,2018-04-15,5,15,0,12,7,1,1,2,Troyes,ligue-1
+5,12,0,17,11,2,Lyon,2018-04-20,9,11,0,17,5,1,1,1,Dijon,ligue-1
+8,12,0,18,9,2,Rennes,2018-04-20,5,17,1,13,7,0,1,6,Nantes,ligue-1
+6,11,0,15,2,2,Strasbourg,2018-04-21,2,20,0,7,5,0,1,4,Amiens,ligue-1
+1,17,1,4,1,2,Monaco,2018-04-21,10,13,0,24,12,0,2,0,Guingamp,ligue-1
+6,8,0,14,3,1,Lille,2018-04-21,3,9,0,19,8,0,4,0,Marseille,ligue-1
+2,11,0,5,4,1,Caen,2018-04-21,7,9,0,15,3,0,0,2,Metz,ligue-1
+2,11,0,7,0,2,Angers,2018-04-21,6,11,0,14,8,0,1,1,Toulouse,ligue-1
+5,8,0,10,2,1,Paris SG,2018-04-22,8,15,0,21,8,0,0,0,Bordeaux,ligue-1
+3,13,0,5,2,0,Montpellier,2018-04-22,3,10,0,16,4,0,0,0,Nice,ligue-1
+2,21,0,6,3,2,Troyes,2018-04-22,7,5,0,18,6,1,0,0,St Etienne,ligue-1
+2,11,0,5,2,1,Toulouse,2018-04-25,1,9,0,9,0,0,0,2,Caen,ligue-1
+1,7,0,7,5,2,St Etienne,2018-04-27,9,9,0,25,5,1,0,0,Montpellier,ligue-1
+4,12,0,10,3,0,Dijon,2018-04-28,4,14,0,10,4,0,1,1,Bordeaux,ligue-1
+5,12,0,14,4,2,Metz,2018-04-28,3,11,0,15,9,0,2,0,Lille,ligue-1
+4,14,0,12,4,1,Nantes,2018-04-28,6,7,0,25,11,0,1,1,Lyon,ligue-1
+6,13,1,7,1,2,Amiens,2018-04-28,6,9,1,16,1,0,0,1,Monaco,ligue-1
+8,13,0,11,7,4,Nice,2018-04-28,3,18,0,9,2,0,1,2,Strasbourg,ligue-1
+5,16,0,13,2,2,Caen,2018-04-28,4,8,0,5,3,1,2,1,Troyes,ligue-1
+9,9,0,13,5,3,Marseille,2018-04-29,4,9,0,14,6,1,0,1,Angers,ligue-1
+7,9,0,22,5,0,Guingamp,2018-04-29,7,11,0,14,3,1,0,2,Paris SG,ligue-1
+7,14,0,12,2,1,Toulouse,2018-04-29,2,11,1,6,3,1,1,2,Rennes,ligue-1
+13,10,0,23,8,0,Paris SG,2018-05-04,3,14,0,12,5,1,0,2,Amiens,ligue-1
+8,16,0,17,4,2,Monaco,2018-05-06,6,14,1,16,5,1,1,1,Caen,ligue-1
+3,9,0,4,1,1,Guingamp,2018-05-06,4,10,0,19,9,0,1,1,Dijon,ligue-1
+8,9,0,13,4,2,Troyes,2018-05-06,6,9,0,17,5,0,2,2,Lyon,ligue-1
+4,12,0,11,2,1,Nice,2018-05-06,9,18,0,18,8,1,1,1,Marseille,ligue-1
+7,11,0,17,4,0,Angers,2018-05-06,2,12,0,8,4,0,1,1,Metz,ligue-1
+3,8,0,12,7,3,Montpellier,2018-05-06,7,14,0,11,2,0,0,0,Nantes,ligue-1
+5,11,0,7,3,1,Strasbourg,2018-05-06,5,10,0,14,2,0,1,1,Rennes,ligue-1
+2,12,0,11,5,3,Bordeaux,2018-05-06,5,12,0,16,3,2,1,2,St Etienne,ligue-1
+3,16,0,17,8,2,Lille,2018-05-06,1,14,1,6,4,1,2,4,Toulouse,ligue-1
+11,15,1,16,5,0,Marseille,2018-05-11,6,20,0,22,7,2,1,2,Guingamp,ligue-1
+8,15,0,13,1,2,Metz,2018-05-12,3,14,0,9,2,0,1,1,Amiens,ligue-1
+4,11,0,12,2,1,Nantes,2018-05-12,5,7,0,14,2,0,0,0,Angers,ligue-1
+6,20,0,10,4,3,Toulouse,2018-05-12,6,8,0,15,6,1,1,1,Bordeaux,ligue-1
+4,11,0,12,7,2,Dijon,2018-05-12,4,8,0,13,3,1,2,0,Lille,ligue-1
+5,11,0,11,3,1,St Etienne,2018-05-12,6,14,1,18,5,0,0,1,Monaco,ligue-1
+1,9,0,9,2,0,Troyes,2018-05-12,11,10,0,22,3,1,0,0,Montpellier,ligue-1
+7,18,1,12,5,1,Caen,2018-05-12,4,10,0,21,8,0,3,0,Nice,ligue-1
+7,12,0,10,2,0,Rennes,2018-05-12,7,12,0,14,5,0,0,1,Paris SG,ligue-1
+1,20,0,8,3,1,Lyon,2018-05-12,2,25,0,9,4,0,1,5,Strasbourg,ligue-1
+3,18,0,7,2,1,Paris SG,2018-05-19,2,15,0,11,6,0,0,3,Caen,ligue-1
+9,7,0,16,8,2,Angers,2018-05-19,1,17,0,7,1,0,1,1,Dijon,ligue-1
+7,13,0,11,4,3,Nice,2018-05-19,8,15,0,23,8,1,0,3,Lyon,ligue-1
+3,12,0,5,2,0,Amiens,2018-05-19,7,12,0,27,11,1,2,0,Marseille,ligue-1
+6,16,1,15,7,0,Bordeaux,2018-05-19,4,11,0,7,0,3,0,3,Metz,ligue-1
+7,12,0,10,2,0,Strasbourg,2018-05-19,2,6,0,9,2,0,1,0,Nantes,ligue-1
+4,12,1,9,6,1,Montpellier,2018-05-19,8,10,0,9,1,1,1,0,Rennes,ligue-1
+4,5,0,11,3,0,Lille,2018-05-19,7,6,0,14,7,0,3,1,St Etienne,ligue-1
+5,14,0,13,6,2,Guingamp,2018-05-19,9,9,0,17,7,0,0,3,Toulouse,ligue-1
+2,13,0,21,14,1,Monaco,2018-05-19,6,14,0,12,4,1,0,1,Troyes,ligue-1
+4,12,0,6,3,1,Leicester,2017-08-11,9,9,0,27,10,2,2,0,Arsenal,premier-league
+10,9,0,14,4,2,Man City,2017-08-12,3,6,0,6,2,0,0,0,Brighton,premier-league
+5,11,0,10,5,3,Burnley,2017-08-12,8,16,2,19,6,3,0,3,Chelsea,premier-league
+9,19,0,8,6,3,Huddersfield,2017-08-12,12,7,0,14,4,2,0,1,Crystal Palace,premier-league
+7,10,0,9,1,1,Stoke,2017-08-12,6,13,0,9,4,0,1,1,Everton,premier-league
+0,13,0,4,0,1,Swansea,2017-08-12,13,10,0,29,2,0,0,2,Southampton,premier-league
+3,8,0,14,5,3,Liverpool,2017-08-12,3,14,0,9,4,1,2,0,Watford,premier-league
+2,3,0,9,2,1,Bournemouth,2017-08-12,8,15,0,16,6,0,1,3,West Brom,premier-league
+1,7,0,9,1,2,West Ham,2017-08-13,11,19,0,22,6,0,1,2,Man United,premier-league
+7,10,0,18,6,2,Tottenham,2017-08-13,5,6,1,6,3,0,0,1,Newcastle,premier-league
+5,14,0,19,7,3,Watford,2017-08-19,8,6,0,6,2,0,0,1,Bournemouth,premier-league
+5,11,1,8,1,0,West Brom,2017-08-19,5,11,0,20,0,0,0,1,Burnley,premier-league
+2,10,0,5,2,0,Brighton,2017-08-19,6,8,0,14,4,0,1,1,Leicester,premier-league
+2,13,0,4,1,3,Crystal Palace,2017-08-19,4,12,0,23,13,0,0,1,Liverpool,premier-league
+2,10,1,16,8,1,West Ham,2017-08-19,7,18,0,14,5,1,2,1,Southampton,premier-league
+9,11,0,18,6,0,Arsenal,2017-08-19,2,6,0,11,4,0,0,0,Stoke,premier-league
+5,11,0,17,8,1,Man United,2017-08-19,3,12,0,6,1,1,0,1,Swansea,premier-league
+3,10,0,13,5,4,Newcastle,2017-08-20,7,13,0,7,3,0,0,3,Huddersfield,premier-league
+3,21,0,9,2,3,Chelsea,2017-08-20,14,14,0,18,6,1,0,3,Tottenham,premier-league
+1,9,1,7,2,2,Everton,2017-08-21,7,7,1,19,6,1,0,1,Man City,premier-league
+5,14,1,19,8,4,Man City,2017-08-26,2,13,0,9,3,1,1,5,Bournemouth,premier-league
+1,6,0,7,3,1,Swansea,2017-08-26,1,9,0,16,3,1,0,4,Crystal Palace,premier-league
+4,10,0,6,3,1,Southampton,2017-08-26,5,10,0,16,6,0,0,0,Huddersfield,premier-league
+3,7,0,11,4,2,Leicester,2017-08-26,9,8,0,22,7,0,0,1,Man United,premier-league
+5,11,0,8,3,3,West Ham,2017-08-26,7,17,0,16,8,0,1,1,Newcastle,premier-league
+11,18,0,16,2,1,Brighton,2017-08-26,3,7,1,8,0,0,0,0,Watford,premier-league
+3,7,0,7,0,2,Everton,2017-08-27,6,12,0,18,7,0,2,2,Chelsea,premier-league
+3,9,0,8,0,4,Arsenal,2017-08-27,4,6,0,18,10,0,2,2,Liverpool,premier-league
+7,9,0,13,3,0,Burnley,2017-08-27,10,9,0,28,5,0,0,0,Tottenham,premier-league
+4,9,0,16,2,2,Stoke,2017-08-27,10,10,0,10,2,0,0,2,West Brom,premier-league
+2,8,0,6,1,1,Bournemouth,2017-09-09,8,14,0,15,8,0,2,0,Arsenal,premier-league
+6,4,0,12,3,0,West Brom,2017-09-09,2,9,0,12,6,0,1,2,Brighton,premier-league
+3,14,0,15,6,1,Tottenham,2017-09-09,7,14,0,12,1,2,0,3,Everton,premier-league
+9,8,0,16,6,0,Chelsea,2017-09-09,2,11,0,8,2,1,0,1,Leicester,premier-league
+3,9,1,10,3,2,Liverpool,2017-09-09,8,10,0,13,7,0,2,2,Man City,premier-league
+4,11,0,12,3,0,Watford,2017-09-09,7,8,0,9,1,1,0,0,Southampton,premier-league
+11,10,0,18,8,0,Man United,2017-09-09,5,10,0,10,5,1,1,0,Stoke,premier-league
+13,14,0,23,5,1,Crystal Palace,2017-09-10,3,7,0,4,2,0,1,1,Burnley,premier-league
+5,15,0,16,8,3,Newcastle,2017-09-10,7,11,0,10,4,0,0,2,Swansea,premier-league
+3,14,0,10,2,2,Huddersfield,2017-09-11,10,11,0,19,3,0,0,1,West Ham,premier-league
+4,12,0,9,2,0,Brighton,2017-09-15,6,5,0,15,3,0,0,0,Bournemouth,premier-league
+5,13,0,13,4,1,Southampton,2017-09-16,5,14,0,14,3,1,0,5,Crystal Palace,premier-league
+4,6,0,10,1,1,Leicester,2017-09-16,8,6,0,15,3,0,0,1,Huddersfield,premier-league
+2,9,0,5,4,2,Burnley,2017-09-16,12,7,0,35,9,1,1,1,Liverpool,premier-league
+5,11,0,13,4,1,Stoke,2017-09-16,7,13,0,14,3,0,1,3,Newcastle,premier-league
+1,9,0,4,0,3,Swansea,2017-09-16,11,11,0,26,8,0,0,1,Tottenham,premier-league
+11,6,0,28,10,0,Man City,2017-09-16,3,8,0,7,1,3,0,2,Watford,premier-league
+3,7,0,9,1,2,West Ham,2017-09-16,2,15,0,6,1,0,0,2,West Brom,premier-league
+1,15,0,11,2,3,Arsenal,2017-09-17,5,11,1,13,4,0,0,1,Chelsea,premier-league
+1,14,0,7,3,1,Everton,2017-09-17,4,15,0,16,7,0,1,1,Man United,premier-league
+4,13,0,9,2,2,Huddersfield,2017-09-23,3,9,0,5,3,0,0,3,Burnley,premier-league
+6,11,0,8,4,1,Bournemouth,2017-09-23,4,12,0,12,4,0,0,3,Everton,premier-league
+6,14,0,23,6,3,Liverpool,2017-09-23,3,13,0,12,7,2,1,3,Leicester,premier-league
+2,7,0,5,0,1,Crystal Palace,2017-09-23,8,6,0,25,9,0,1,3,Man City,premier-league
+4,9,0,9,4,4,Man United,2017-09-23,8,12,0,14,4,1,0,1,Southampton,premier-league
+0,14,0,7,4,2,Chelsea,2017-09-23,5,5,0,13,2,2,0,2,Stoke,premier-league
+4,16,0,8,4,3,Watford,2017-09-23,5,9,0,10,3,1,0,1,Swansea,premier-league
+3,20,1,15,5,2,Tottenham,2017-09-23,4,10,0,10,4,2,0,4,West Ham,premier-league
+8,8,0,17,5,1,Newcastle,2017-09-24,2,6,0,7,3,0,0,2,Brighton,premier-league
+4,17,0,7,3,4,West Brom,2017-09-25,7,8,0,16,6,0,1,1,Arsenal,premier-league
+5,10,0,8,1,0,Leicester,2017-09-30,7,6,0,19,4,0,0,1,Bournemouth,premier-league
+8,13,0,17,6,2,Man City,2017-09-30,4,8,0,4,2,0,0,0,Chelsea,premier-league
+7,4,0,14,7,1,Tottenham,2017-09-30,4,7,0,6,1,3,0,1,Huddersfield,premier-league
+5,9,0,6,1,0,Crystal Palace,2017-09-30,6,6,0,18,7,0,2,0,Man United,premier-league
+6,10,0,21,3,2,Southampton,2017-09-30,5,11,0,17,6,0,1,1,Stoke,premier-league
+6,11,0,15,3,0,Watford,2017-09-30,7,12,0,9,4,1,2,3,West Brom,premier-league
+1,13,0,6,1,2,Swansea,2017-09-30,2,15,0,9,4,0,0,3,West Ham,premier-league
+5,8,0,9,1,2,Brighton,2017-10-01,6,7,0,25,12,0,1,0,Arsenal,premier-league
+3,7,0,5,2,2,Burnley,2017-10-01,9,14,0,23,4,1,0,2,Everton,premier-league
+5,6,0,17,2,1,Liverpool,2017-10-01,1,11,0,8,5,1,1,1,Newcastle,premier-league
+4,14,1,8,6,2,West Ham,2017-10-14,7,11,0,20,5,1,0,2,Burnley,premier-league
+8,6,0,15,5,1,Chelsea,2017-10-14,5,7,0,14,5,1,2,2,Crystal Palace,premier-league
+3,13,0,6,1,2,Man United,2017-10-14,7,7,0,19,5,0,0,0,Liverpool,premier-league
+0,8,0,5,1,1,Stoke,2017-10-14,5,5,0,20,11,1,3,0,Man City,premier-league
+3,16,0,7,2,5,Huddersfield,2017-10-14,5,12,0,7,3,0,1,1,Swansea,premier-league
+5,7,0,5,1,3,Bournemouth,2017-10-14,9,9,0,18,6,0,0,1,Tottenham,premier-league
+5,10,0,9,6,0,Arsenal,2017-10-14,2,8,0,11,2,1,0,1,Watford,premier-league
+1,10,0,13,6,1,Everton,2017-10-15,7,12,0,12,3,0,0,4,Brighton,premier-league
+8,12,0,19,5,2,Newcastle,2017-10-15,3,11,0,12,2,1,0,1,Southampton,premier-league
+1,6,0,5,1,2,West Brom,2017-10-16,4,13,0,11,3,0,0,2,Leicester,premier-league
+3,13,0,7,5,0,Brighton,2017-10-20,10,5,0,16,2,2,0,1,West Ham,premier-league
+6,16,0,16,5,3,Watford,2017-10-21,6,13,0,14,8,1,1,2,Chelsea,premier-league
+7,12,0,9,3,2,Man United,2017-10-21,4,10,0,5,3,0,2,4,Huddersfield,premier-league
+5,6,0,6,0,3,Burnley,2017-10-21,4,10,0,15,10,0,1,2,Man City,premier-league
+5,14,0,10,0,2,Crystal Palace,2017-10-21,3,12,0,7,3,0,0,4,Newcastle,premier-league
+3,8,0,7,2,1,West Brom,2017-10-21,8,10,0,20,6,0,0,0,Southampton,premier-league
+3,10,0,7,3,1,Bournemouth,2017-10-21,8,17,0,10,2,2,0,0,Stoke,premier-league
+6,9,0,11,6,1,Leicester,2017-10-21,7,6,0,19,4,1,0,0,Swansea,premier-league
+7,14,0,30,14,1,Arsenal,2017-10-22,0,14,1,8,3,1,1,1,Everton,premier-league
+5,8,0,12,7,1,Liverpool,2017-10-22,3,2,0,14,6,1,3,0,Tottenham,premier-league
+2,9,0,4,2,0,Swansea,2017-10-28,5,9,0,17,5,1,0,0,Arsenal,premier-league
+5,5,0,18,5,0,Chelsea,2017-10-28,5,5,0,7,1,0,0,2,Bournemouth,premier-league
+2,15,0,6,2,2,West Ham,2017-10-28,11,18,0,19,9,2,0,1,Crystal Palace,premier-league
+2,8,0,1,0,1,Huddersfield,2017-10-28,9,10,0,16,8,0,0,0,Liverpool,premier-league
+3,14,0,13,4,0,Tottenham,2017-10-28,6,12,0,11,3,0,0,1,Man United,premier-league
+1,9,0,6,2,4,Stoke,2017-10-28,8,10,0,13,0,1,0,4,Watford,premier-league
+2,7,0,15,5,3,Man City,2017-10-28,1,10,0,6,4,2,1,2,West Brom,premier-league
+7,10,0,6,1,1,Southampton,2017-10-29,2,9,0,7,2,1,0,3,Brighton,premier-league
+10,10,0,16,2,2,Everton,2017-10-29,3,6,0,9,3,0,2,0,Leicester,premier-league
+3,10,0,12,5,0,Newcastle,2017-10-30,5,9,0,12,5,0,0,3,Burnley,premier-league
+5,15,0,9,3,4,West Brom,2017-11-04,3,8,1,7,3,0,1,1,Huddersfield,premier-league
+9,12,0,16,6,2,Bournemouth,2017-11-04,11,11,0,16,4,0,0,2,Newcastle,premier-league
+1,4,0,5,1,0,Burnley,2017-11-04,9,4,0,13,3,0,0,0,Southampton,premier-league
+10,8,0,14,4,0,Leicester,2017-11-04,4,12,0,11,7,1,1,0,Stoke,premier-league
+7,12,0,5,2,1,Brighton,2017-11-04,8,13,0,12,2,1,0,2,Swansea,premier-league
+3,13,0,15,7,0,Liverpool,2017-11-04,2,9,0,6,1,2,0,3,West Ham,premier-league
+7,20,0,10,2,3,Man United,2017-11-05,4,16,0,18,8,0,0,1,Chelsea,premier-league
+5,12,0,11,3,2,Watford,2017-11-05,2,14,0,10,5,0,0,0,Everton,premier-league
+5,15,0,6,3,6,Arsenal,2017-11-05,5,15,0,9,5,0,1,1,Man City,premier-league
+9,7,0,11,3,2,Crystal Palace,2017-11-05,10,6,0,12,2,0,0,0,Tottenham,premier-league
+4,16,0,14,4,1,Tottenham,2017-11-18,7,11,0,14,5,0,2,4,Arsenal,premier-league
+11,10,0,20,3,2,Huddersfield,2017-11-18,8,13,1,11,5,0,2,3,Bournemouth,premier-league
+6,12,0,13,1,1,Swansea,2017-11-18,8,12,0,16,7,0,2,1,Burnley,premier-league
+4,26,0,8,5,3,Everton,2017-11-18,9,9,0,16,7,2,2,2,Crystal Palace,premier-league
+7,10,0,12,4,1,Man City,2017-11-18,1,8,0,2,0,1,0,1,Leicester,premier-league
+2,9,0,5,0,1,Southampton,2017-11-18,10,15,0,21,8,0,2,1,Liverpool,premier-league
+4,9,0,12,5,1,Newcastle,2017-11-18,11,10,0,16,7,1,2,1,Man United,premier-league
+4,12,0,11,7,3,Chelsea,2017-11-18,3,13,0,7,2,3,0,2,West Brom,premier-league
+1,10,0,10,6,4,West Ham,2017-11-19,3,13,0,17,7,0,1,1,Watford,premier-league
+7,5,0,13,6,0,Stoke,2017-11-20,6,13,0,9,3,2,1,1,Brighton,premier-league
+5,12,0,7,2,1,Leicester,2017-11-24,5,9,0,8,4,1,1,1,West Ham,premier-league
+2,5,0,9,3,1,Stoke,2017-11-25,5,9,0,10,5,0,0,1,Crystal Palace,premier-league
+8,7,0,11,3,0,Chelsea,2017-11-25,7,10,0,16,4,0,0,0,Liverpool,premier-league
+0,9,0,8,2,2,Brighton,2017-11-25,5,9,0,15,4,0,0,0,Man United,premier-league
+3,13,0,12,4,2,Watford,2017-11-25,6,8,0,12,2,2,0,1,Newcastle,premier-league
+5,6,0,9,5,2,Bournemouth,2017-11-25,4,18,0,10,1,0,0,4,Swansea,premier-league
+0,13,0,5,2,4,West Brom,2017-11-25,8,10,0,24,5,1,0,1,Tottenham,premier-league
+5,14,0,17,2,0,Arsenal,2017-11-26,5,8,0,8,2,0,0,2,Burnley,premier-league
+7,10,0,14,5,3,Man City,2017-11-26,3,10,1,4,0,0,1,2,Huddersfield,premier-league
+2,13,0,5,2,0,Everton,2017-11-26,7,6,0,17,5,1,1,0,Southampton,premier-league
+5,8,0,10,4,0,Crystal Palace,2017-11-28,10,13,0,10,4,0,0,2,Brighton,premier-league
+9,10,0,18,6,2,Tottenham,2017-11-28,4,7,0,7,4,0,2,1,Leicester,premier-league
+5,10,0,15,7,1,Man United,2017-11-28,5,12,0,12,3,3,0,2,Watford,premier-league
+6,12,0,14,4,0,Newcastle,2017-11-28,1,13,0,8,4,0,1,0,West Brom,premier-league
+2,12,0,7,2,1,Huddersfield,2017-11-29,7,10,0,21,7,0,1,0,Arsenal,premier-league
+6,11,0,10,4,1,Burnley,2017-11-29,4,9,0,10,2,1,0,0,Bournemouth,premier-league
+1,7,0,2,0,0,Swansea,2017-11-29,15,10,0,21,10,0,0,1,Chelsea,premier-league
+6,6,0,7,3,1,West Ham,2017-11-29,2,16,0,8,5,0,2,2,Everton,premier-league
+5,11,0,7,2,1,Southampton,2017-11-29,6,12,0,26,12,0,0,1,Man City,premier-league
+9,10,0,14,7,5,Liverpool,2017-11-29,5,8,0,10,1,1,0,1,Stoke,premier-league
+1,10,1,8,4,2,Man United,2017-12-02,12,11,0,33,15,2,0,3,Arsenal,premier-league
+2,7,0,12,6,0,Liverpool,2017-12-02,2,8,0,6,2,2,0,1,Brighton,premier-league
+4,13,0,8,2,1,Newcastle,2017-12-02,11,8,0,23,9,1,2,0,Chelsea,premier-league
+5,9,0,5,3,1,Huddersfield,2017-12-02,2,12,0,6,4,0,0,2,Everton,premier-league
+7,11,0,14,4,2,Burnley,2017-12-02,10,3,0,16,3,0,1,0,Leicester,premier-league
+6,10,0,10,3,0,Swansea,2017-12-02,2,12,0,10,3,1,2,2,Stoke,premier-league
+2,8,1,8,2,1,Tottenham,2017-12-02,7,16,0,6,2,1,1,4,Watford,premier-league
+7,10,0,10,2,1,Crystal Palace,2017-12-02,3,11,0,20,6,0,0,3,West Brom,premier-league
+4,12,0,15,4,1,Southampton,2017-12-03,5,6,0,16,5,0,1,2,Bournemouth,premier-league
+4,7,0,7,4,2,West Ham,2017-12-03,10,5,0,24,8,1,0,2,Man City,premier-league
+5,12,1,11,2,0,Watford,2017-12-09,3,10,0,8,5,0,1,1,Burnley,premier-league
+3,14,0,11,5,2,Bournemouth,2017-12-09,6,14,0,24,8,2,2,5,Crystal Palace,premier-league
+1,10,0,7,2,0,Brighton,2017-12-09,8,6,0,19,6,0,2,0,Huddersfield,premier-league
+5,9,0,13,5,1,Leicester,2017-12-09,6,10,0,10,4,1,1,2,Newcastle,premier-league
+3,18,0,7,1,5,West Brom,2017-12-09,6,8,0,18,3,0,0,2,Swansea,premier-league
+6,9,0,4,3,0,Stoke,2017-12-09,12,12,0,20,11,0,1,1,Tottenham,premier-league
+3,10,0,19,2,1,Chelsea,2017-12-09,4,10,0,5,2,0,1,6,West Ham,premier-league
+1,11,0,3,2,3,Everton,2017-12-10,12,8,0,23,3,0,1,1,Liverpool,premier-league
+8,10,0,14,7,2,Man City,2017-12-10,2,16,0,8,5,1,1,4,Man United,premier-league
+5,10,0,11,6,2,Arsenal,2017-12-10,4,12,0,6,3,0,1,2,Southampton,premier-league
+4,14,0,14,7,0,Stoke,2017-12-12,6,6,0,10,2,0,0,0,Burnley,premier-league
+6,18,1,7,2,1,Watford,2017-12-12,4,14,0,14,4,1,0,2,Crystal Palace,premier-league
+3,4,0,12,5,0,Chelsea,2017-12-12,1,11,0,7,2,2,0,0,Huddersfield,premier-league
+7,6,0,6,1,0,West Brom,2017-12-13,5,16,0,14,5,0,0,1,Liverpool,premier-league
+9,12,0,14,7,2,Bournemouth,2017-12-13,4,14,0,9,2,0,1,1,Man United,premier-league
+1,11,0,7,4,2,Everton,2017-12-13,4,10,1,16,4,1,0,1,Newcastle,premier-league
+9,9,0,16,11,0,Leicester,2017-12-13,9,13,0,12,4,3,0,1,Southampton,premier-league
+5,6,0,23,10,0,Man City,2017-12-13,2,12,0,7,3,2,0,0,Swansea,premier-league
+2,10,0,7,4,1,Brighton,2017-12-13,10,5,0,25,8,0,1,1,Tottenham,premier-league
+7,9,0,22,3,0,Arsenal,2017-12-13,1,9,0,6,0,0,0,1,West Ham,premier-league
+5,9,0,10,2,1,Newcastle,2017-12-16,7,13,0,23,5,0,1,2,Arsenal,premier-league
+2,13,0,11,6,2,Burnley,2017-12-16,8,13,0,12,2,0,0,4,Brighton,premier-league
+4,16,0,6,2,3,Southampton,2017-12-16,8,8,0,24,8,0,1,1,Chelsea,premier-league
+4,13,0,13,6,2,Crystal Palace,2017-12-16,6,12,1,11,2,2,0,2,Leicester,premier-league
+1,20,0,7,2,4,Tottenham,2017-12-16,5,13,0,20,11,0,1,2,Man City,premier-league
+9,13,0,14,7,1,West Ham,2017-12-16,7,12,0,17,0,1,0,2,Stoke,premier-league
+7,17,1,15,9,1,Huddersfield,2017-12-16,8,12,1,13,3,2,0,2,Watford,premier-league
+3,10,0,21,7,1,Liverpool,2017-12-17,2,5,0,6,2,3,0,1,Bournemouth,premier-league
+3,7,0,8,3,3,Man United,2017-12-17,6,14,0,12,5,2,0,1,West Brom,premier-league
+3,12,0,8,3,3,Swansea,2017-12-18,6,12,0,12,7,1,1,2,Everton,premier-league
+8,11,0,14,9,0,Liverpool,2017-12-22,7,9,0,11,4,1,0,1,Arsenal,premier-league
+4,11,0,13,1,0,Watford,2017-12-23,6,8,0,14,3,0,0,0,Brighton,premier-league
+4,10,0,18,8,2,Tottenham,2017-12-23,4,10,0,5,2,1,0,1,Burnley,premier-league
+7,4,0,25,8,0,Chelsea,2017-12-23,2,8,0,5,0,0,0,3,Everton,premier-league
+6,8,0,19,6,2,Man United,2017-12-23,4,19,1,11,3,1,1,2,Leicester,premier-league
+6,7,0,5,1,1,Bournemouth,2017-12-23,4,8,0,14,5,0,1,0,Man City,premier-league
+1,9,0,10,3,1,Huddersfield,2017-12-23,9,16,0,12,6,0,1,2,Southampton,premier-league
+11,11,0,17,7,0,West Brom,2017-12-23,1,9,0,9,5,0,2,1,Stoke,premier-league
+3,11,0,13,5,3,Crystal Palace,2017-12-23,6,13,0,7,2,0,0,2,Swansea,premier-league
+3,12,0,11,4,1,Newcastle,2017-12-23,6,9,0,19,6,1,1,1,West Ham,premier-league
+4,14,0,10,5,4,West Ham,2017-12-26,7,12,0,26,10,1,1,3,Bournemouth,premier-league
+1,8,0,8,1,1,Brighton,2017-12-26,13,8,0,25,8,0,0,0,Chelsea,premier-league
+5,12,0,15,7,4,Stoke,2017-12-26,8,9,0,18,8,0,1,2,Huddersfield,premier-league
+2,8,0,7,4,1,Swansea,2017-12-26,4,5,0,22,9,0,1,0,Liverpool,premier-league
+2,14,0,3,2,7,Burnley,2017-12-26,12,10,0,23,6,2,0,3,Man United,premier-league
+8,15,0,16,6,2,Southampton,2017-12-26,3,8,0,16,7,0,2,0,Tottenham,premier-league
+8,13,0,11,5,3,Leicester,2017-12-26,8,7,0,11,1,1,1,3,Watford,premier-league
+2,13,0,7,3,0,Everton,2017-12-26,10,14,0,17,3,0,0,2,West Brom,premier-league
+8,6,0,22,6,0,Man City,2017-12-27,3,11,0,6,2,1,0,1,Newcastle,premier-league
+4,7,0,16,9,1,Arsenal,2017-12-28,5,12,0,16,2,1,0,0,Crystal Palace,premier-league
+4,13,0,6,1,0,Everton,2017-12-30,4,8,0,19,7,0,1,0,Bournemouth,premier-league
+0,10,0,1,1,1,Stoke,2017-12-30,7,5,0,21,12,0,3,1,Chelsea,premier-league
+4,14,0,11,4,1,Burnley,2017-12-30,5,14,0,3,1,0,0,2,Huddersfield,premier-league
+1,3,0,7,1,2,Leicester,2017-12-30,7,7,0,17,6,1,0,3,Liverpool,premier-league
+7,13,0,8,3,4,Southampton,2017-12-30,10,12,0,15,3,0,0,2,Man United,premier-league
+6,10,0,10,3,2,Brighton,2017-12-30,3,11,0,11,2,0,0,2,Newcastle,premier-league
+8,13,0,9,4,2,Swansea,2017-12-30,1,14,0,9,4,0,1,4,Watford,premier-league
+8,11,0,15,4,4,Man City,2017-12-31,7,14,0,10,1,0,0,5,Crystal Palace,premier-league
+6,9,0,14,4,3,Arsenal,2017-12-31,5,14,0,14,3,0,0,3,West Brom,premier-league
+12,9,0,26,8,1,Bournemouth,2018-01-01,5,13,0,15,6,1,1,2,Brighton,premier-league
+9,12,0,19,5,0,Liverpool,2018-01-01,3,4,0,13,4,0,0,0,Burnley,premier-league
+6,10,0,21,6,0,Man United,2018-01-01,6,11,0,12,0,0,0,2,Everton,premier-league
+1,9,0,6,1,1,Huddersfield,2018-01-01,4,7,0,11,5,0,0,1,Leicester,premier-league
+5,11,0,14,6,1,Newcastle,2018-01-01,10,10,0,11,4,0,0,3,Stoke,premier-league
+1,12,0,7,4,1,Watford,2018-01-02,9,8,0,17,7,0,2,1,Man City,premier-league
+7,11,0,11,4,1,Crystal Palace,2018-01-02,4,8,0,10,3,0,1,0,Southampton,premier-league
+5,9,0,12,5,2,Tottenham,2018-01-02,6,12,0,8,1,1,0,2,Swansea,premier-league
+4,12,0,10,3,2,West Brom,2018-01-02,3,12,0,13,5,1,0,3,West Ham,premier-league
+8,11,0,19,6,2,Chelsea,2018-01-03,10,11,0,14,6,0,0,3,Arsenal,premier-league
+1,6,0,3,1,2,West Ham,2018-01-04,7,10,0,31,8,0,0,0,Tottenham,premier-league
+3,13,1,14,1,2,Leicester,2018-01-13,6,14,0,17,7,0,0,2,Chelsea,premier-league
+2,10,0,8,2,3,Burnley,2018-01-13,3,16,0,17,2,0,1,0,Crystal Palace,premier-league
+3,9,0,8,6,1,West Ham,2018-01-13,7,7,0,8,2,1,1,1,Huddersfield,premier-league
+5,10,0,8,5,3,Swansea,2018-01-13,4,11,0,12,4,0,0,0,Newcastle,premier-league
+3,15,0,7,0,2,Everton,2018-01-13,3,11,0,20,10,0,1,0,Tottenham,premier-league
+4,13,0,10,4,5,Southampton,2018-01-13,5,11,0,16,4,2,0,0,Watford,premier-league
+6,15,0,13,1,0,Brighton,2018-01-13,9,8,0,15,4,0,1,0,West Brom,premier-league
+5,10,0,12,3,2,Arsenal,2018-01-14,4,8,0,13,5,0,0,2,Bournemouth,premier-league
+6,7,0,11,4,3,Man City,2018-01-14,5,10,0,16,7,1,1,2,Liverpool,premier-league
+1,10,0,11,5,1,Stoke,2018-01-15,6,14,0,20,9,0,2,2,Man United,premier-league
+10,8,0,9,5,0,Crystal Palace,2018-01-20,5,6,0,16,10,0,4,0,Arsenal,premier-league
+3,5,0,14,10,0,Chelsea,2018-01-20,5,12,0,10,3,2,0,3,Brighton,premier-league
+4,12,0,12,2,3,Man United,2018-01-20,5,7,0,13,2,0,0,3,Burnley,premier-league
+3,10,0,15,5,1,West Brom,2018-01-20,0,15,0,9,4,1,0,2,Everton,premier-league
+5,10,0,11,3,0,Watford,2018-01-20,4,11,0,9,5,0,1,0,Leicester,premier-league
+0,10,0,6,4,1,Newcastle,2018-01-20,18,5,0,21,9,0,1,0,Man City,premier-league
+2,13,0,6,3,1,Huddersfield,2018-01-20,3,18,0,11,6,0,0,1,Stoke,premier-league
+3,7,0,8,3,1,Bournemouth,2018-01-20,6,8,0,12,4,0,0,3,West Ham,premier-league
+9,15,0,17,2,3,Tottenham,2018-01-21,2,8,0,10,4,1,1,2,Southampton,premier-league
+9,9,0,21,4,2,Liverpool,2018-01-22,3,5,0,3,2,0,1,0,Swansea,premier-league
+4,8,0,14,7,0,Liverpool,2018-01-30,1,8,0,5,1,2,0,0,Huddersfield,premier-league
+3,8,0,9,4,3,Arsenal,2018-01-30,4,4,0,12,4,1,1,0,Swansea,premier-league
+3,15,0,9,3,3,Crystal Palace,2018-01-30,5,11,0,8,3,1,1,1,West Ham,premier-league
+5,12,0,11,5,0,Bournemouth,2018-01-31,8,5,0,21,5,0,0,1,Chelsea,premier-league
+5,10,0,8,1,2,Leicester,2018-01-31,5,9,0,9,4,0,2,0,Everton,premier-league
+1,10,0,3,1,3,West Brom,2018-01-31,9,10,0,19,10,0,1,1,Man City,premier-league
+4,15,0,11,2,2,Burnley,2018-01-31,7,15,0,14,4,0,0,1,Newcastle,premier-league
+2,10,0,9,2,1,Brighton,2018-01-31,7,8,0,18,3,1,0,3,Southampton,premier-league
+6,12,0,12,2,3,Watford,2018-01-31,2,12,0,11,4,0,0,4,Stoke,premier-league
+3,13,0,6,3,2,Man United,2018-01-31,6,10,0,22,6,0,2,2,Tottenham,premier-league
+6,8,0,11,2,0,Everton,2018-02-03,4,8,0,15,7,0,4,2,Arsenal,premier-league
+1,19,0,13,4,3,Stoke,2018-02-03,8,14,0,15,8,1,0,2,Bournemouth,premier-league
+1,7,0,4,1,1,West Ham,2018-02-03,4,11,0,21,5,1,1,3,Brighton,premier-league
+13,6,0,20,7,1,Man City,2018-02-03,3,9,0,8,3,1,0,4,Burnley,premier-league
+3,8,0,3,1,0,Swansea,2018-02-03,3,9,0,13,5,0,1,1,Leicester,premier-league
+2,19,0,4,0,4,Huddersfield,2018-02-03,5,5,0,16,7,0,0,2,Man United,premier-league
+7,10,0,13,5,1,Southampton,2018-02-03,5,12,0,9,3,2,1,2,West Brom,premier-league
+6,8,0,11,8,1,Newcastle,2018-02-04,5,11,0,21,6,1,0,1,Crystal Palace,premier-league
+7,9,0,13,6,1,Tottenham,2018-02-04,3,15,0,9,3,0,1,3,Liverpool,premier-league
+2,8,1,7,3,2,Chelsea,2018-02-05,6,11,0,21,8,0,1,2,Watford,premier-league
+7,15,0,16,4,1,Crystal Palace,2018-02-10,8,14,0,11,5,0,0,1,Everton,premier-league
+2,12,0,2,2,3,Leicester,2018-02-10,8,10,0,19,11,1,1,2,Man City,premier-league
+4,10,0,14,6,0,Brighton,2018-02-10,7,6,0,15,3,1,0,0,Stoke,premier-league
+2,9,0,13,1,1,Burnley,2018-02-10,5,10,0,12,4,0,0,2,Swansea,premier-league
+2,9,0,6,1,1,Arsenal,2018-02-10,10,13,0,18,6,0,0,2,Tottenham,premier-league
+7,7,0,11,4,1,Watford,2018-02-10,8,11,0,8,4,0,1,1,West Ham,premier-league
+6,12,0,7,2,3,Bournemouth,2018-02-11,2,12,0,15,4,1,2,0,Huddersfield,premier-league
+10,15,0,13,6,2,Man United,2018-02-11,0,12,0,10,3,0,0,0,Newcastle,premier-league
+1,8,0,16,4,2,Liverpool,2018-02-11,3,5,0,6,4,2,0,1,Southampton,premier-league
+7,11,0,8,1,2,West Brom,2018-02-12,8,11,0,20,8,0,1,0,Chelsea,premier-league
+1,10,0,15,4,4,Newcastle,2018-02-24,8,12,0,18,5,2,0,1,Bournemouth,premier-league
+5,6,0,11,1,0,Swansea,2018-02-24,3,17,0,16,5,0,1,1,Brighton,premier-league
+5,14,0,13,6,0,Southampton,2018-02-24,7,8,0,9,3,0,0,1,Burnley,premier-league
+1,16,0,6,2,3,Stoke,2018-02-24,13,10,0,19,9,1,0,1,Leicester,premier-league
+2,7,0,7,4,2,West Ham,2018-02-24,8,7,0,21,12,0,1,0,Liverpool,premier-league
+5,9,0,7,2,1,Everton,2018-02-24,6,10,0,13,5,0,0,3,Watford,premier-league
+3,9,0,16,7,1,Huddersfield,2018-02-24,6,11,0,10,3,0,0,1,West Brom,premier-league
+13,5,0,14,4,1,Tottenham,2018-02-25,2,12,0,5,3,0,0,0,Crystal Palace,premier-league
+4,12,0,14,7,2,Chelsea,2018-02-25,3,13,0,10,5,1,1,2,Man United,premier-league
+1,11,0,9,5,1,Man City,2018-03-01,6,11,0,10,5,3,0,1,Arsenal,premier-league
+4,12,1,10,4,1,Everton,2018-03-03,10,9,0,21,8,1,0,1,Burnley,premier-league
+1,7,0,8,3,1,Bournemouth,2018-03-03,13,11,0,23,4,1,0,2,Leicester,premier-league
+3,9,0,7,2,0,Newcastle,2018-03-03,8,7,0,14,3,0,1,0,Liverpool,premier-league
+4,13,0,12,3,1,Stoke,2018-03-03,15,8,0,18,6,0,0,0,Southampton,premier-league
+5,14,0,7,2,3,West Ham,2018-03-03,4,9,0,9,8,0,2,0,Swansea,premier-league
+1,8,0,3,3,1,Huddersfield,2018-03-03,8,6,0,15,7,0,1,1,Tottenham,premier-league
+6,12,0,9,2,0,West Brom,2018-03-03,4,11,0,15,4,0,0,2,Watford,premier-league
+11,12,0,15,7,3,Arsenal,2018-03-04,6,13,0,13,6,1,2,3,Brighton,premier-league
+2,9,0,3,0,1,Chelsea,2018-03-04,5,8,0,13,3,0,0,2,Man City,premier-league
+7,8,0,17,8,3,Man United,2018-03-05,3,10,0,10,4,0,1,1,Crystal Palace,premier-league
+3,9,0,9,2,2,Crystal Palace,2018-03-10,12,8,0,27,11,0,2,1,Chelsea,premier-league
+3,14,1,10,4,1,Brighton,2018-03-10,10,10,0,13,3,0,0,0,Everton,premier-league
+0,9,1,0,0,3,Swansea,2018-03-10,12,9,0,30,4,0,0,2,Huddersfield,premier-league
+13,16,0,14,2,1,Liverpool,2018-03-10,1,10,0,5,2,0,2,2,Man United,premier-league
+6,10,0,6,2,2,Southampton,2018-03-10,2,10,0,7,5,0,2,0,Newcastle,premier-league
+6,7,0,14,6,3,Leicester,2018-03-10,7,6,0,6,2,1,1,1,West Brom,premier-league
+1,7,0,7,4,2,Burnley,2018-03-10,5,13,0,13,4,0,0,2,West Ham,premier-league
+9,9,0,11,4,1,Watford,2018-03-11,4,12,0,11,7,0,1,2,Arsenal,premier-league
+5,7,0,12,8,1,Tottenham,2018-03-11,4,10,0,14,3,1,1,1,Bournemouth,premier-league
+10,8,0,17,6,0,Man City,2018-03-12,3,6,0,3,0,1,0,1,Stoke,premier-league
+2,9,0,11,6,2,West Brom,2018-03-17,3,6,0,17,5,0,0,1,Bournemouth,premier-league
+7,12,0,17,6,2,Crystal Palace,2018-03-17,4,11,0,6,2,1,0,3,Huddersfield,premier-league
+1,4,0,4,1,0,Watford,2018-03-17,6,5,0,13,10,0,2,1,Liverpool,premier-league
+9,12,0,17,9,1,Everton,2018-03-17,1,13,1,9,4,0,0,1,Stoke,premier-league
+1,13,1,6,4,4,Leicester,2018-03-31,6,11,0,15,3,0,0,2,Brighton,premier-league
+6,8,0,16,6,2,Liverpool,2018-03-31,4,6,0,6,3,0,1,2,Crystal Palace,premier-league
+11,8,0,18,4,0,Man City,2018-03-31,2,10,0,6,2,3,0,0,Everton,premier-league
+3,13,0,3,2,0,Swansea,2018-03-31,3,5,0,11,5,0,2,0,Man United,premier-league
+3,10,0,4,0,4,Huddersfield,2018-03-31,3,9,0,18,3,0,0,1,Newcastle,premier-league
+4,6,0,13,6,0,Bournemouth,2018-03-31,7,16,0,16,5,1,1,4,Watford,premier-league
+6,9,0,11,4,3,Burnley,2018-03-31,1,12,0,8,3,1,0,1,West Brom,premier-league
+9,16,0,9,0,3,Southampton,2018-03-31,5,9,0,13,5,0,3,0,West Ham,premier-league
+5,13,0,8,2,2,Stoke,2018-04-01,6,9,0,24,11,0,0,1,Arsenal,premier-league
+5,11,0,12,7,1,Tottenham,2018-04-01,5,4,0,14,4,1,1,0,Chelsea,premier-league
+3,9,0,13,6,2,Crystal Palace,2018-04-07,11,8,0,20,5,0,0,2,Bournemouth,premier-league
+3,7,0,14,5,0,Huddersfield,2018-04-07,5,13,1,13,4,1,1,1,Brighton,premier-league
+2,7,0,10,3,0,Liverpool,2018-04-07,3,12,0,6,1,0,0,0,Everton,premier-league
+5,14,0,8,4,3,Newcastle,2018-04-07,7,7,0,8,1,1,0,1,Leicester,premier-league
+4,9,0,5,4,3,Man United,2018-04-07,8,17,0,20,6,0,2,6,Man City,premier-league
+3,8,0,15,4,3,Tottenham,2018-04-07,6,19,0,10,4,0,0,4,Stoke,premier-league
+1,12,0,7,4,2,Burnley,2018-04-07,11,18,0,14,5,0,0,2,Watford,premier-league
+1,5,0,7,1,2,Swansea,2018-04-07,5,15,0,15,3,0,0,3,West Brom,premier-league
+6,7,1,15,8,1,Southampton,2018-04-08,8,11,1,13,7,1,2,2,Arsenal,premier-league
+6,11,0,5,2,1,West Ham,2018-04-08,10,7,0,23,6,0,1,0,Chelsea,premier-league
+8,10,0,15,6,1,Leicester,2018-04-14,4,9,0,8,3,0,2,2,Burnley,premier-league
+6,16,0,12,3,2,Brighton,2018-04-14,5,12,0,15,8,2,3,3,Crystal Palace,premier-league
+6,8,0,4,2,2,Watford,2018-04-14,9,9,0,9,1,0,0,2,Huddersfield,premier-league
+5,9,0,6,1,1,Bournemouth,2018-04-14,7,9,0,20,7,0,1,1,Liverpool,premier-league
+7,14,0,17,5,3,Chelsea,2018-04-14,4,13,0,10,7,0,1,5,Southampton,premier-league
+3,11,0,12,3,1,Everton,2018-04-14,6,10,0,17,7,1,0,1,Swansea,premier-league
+7,12,0,17,6,4,Man City,2018-04-14,5,11,0,8,3,2,1,3,Tottenham,premier-league
+4,13,0,10,4,1,West Brom,2018-04-15,4,8,0,14,4,0,0,1,Man United,premier-league
+5,9,0,15,3,0,Arsenal,2018-04-15,2,11,0,8,4,1,1,1,Newcastle,premier-league
+1,21,0,11,7,3,Stoke,2018-04-16,10,15,0,18,6,0,0,2,West Ham,premier-league
+4,5,0,16,6,0,Tottenham,2018-04-17,3,6,0,8,5,0,0,1,Brighton,premier-league
+5,8,0,13,4,1,Man United,2018-04-18,8,9,0,13,2,1,0,3,Bournemouth,premier-league
+2,11,0,16,5,0,Chelsea,2018-04-19,3,9,0,5,2,1,0,1,Burnley,premier-league
+3,10,0,6,2,0,Southampton,2018-04-19,11,10,0,11,3,0,0,0,Leicester,premier-league
+3,13,0,6,1,5,Crystal Palace,2018-04-21,4,17,0,14,4,0,0,3,Watford,premier-league
+4,5,0,9,3,1,Liverpool,2018-04-21,7,12,0,13,6,1,0,0,West Brom,premier-league
+6,9,0,11,4,2,West Ham,2018-04-22,8,11,0,20,8,0,0,3,Arsenal,premier-league
+1,8,0,4,1,1,Swansea,2018-04-22,5,6,0,19,12,0,2,0,Man City,premier-league
+8,5,0,16,7,1,Burnley,2018-04-22,3,15,0,8,3,0,1,2,Stoke,premier-league
+6,11,0,9,2,1,Newcastle,2018-04-23,4,10,0,9,1,0,0,2,Everton,premier-league
+4,17,0,9,1,2,Brighton,2018-04-28,3,5,0,10,4,0,0,0,Burnley,premier-league
+2,9,1,6,1,1,Leicester,2018-04-28,8,11,0,15,9,0,2,1,Crystal Palace,premier-league
+3,8,0,7,5,0,Everton,2018-04-28,4,9,0,9,2,1,0,1,Huddersfield,premier-league
+2,14,0,5,1,2,Stoke,2018-04-28,9,7,0,20,2,0,0,1,Liverpool,premier-league
+1,13,0,9,2,3,West Brom,2018-04-28,5,8,0,17,2,1,0,1,Newcastle,premier-league
+8,11,0,14,7,1,Bournemouth,2018-04-28,5,12,0,14,6,1,1,5,Southampton,premier-league
+2,9,0,11,3,1,Chelsea,2018-04-28,1,13,0,10,3,1,0,1,Swansea,premier-league
+0,7,0,8,3,1,Arsenal,2018-04-29,9,12,0,17,3,0,1,0,Man United,premier-league
+7,11,0,19,7,1,Man City,2018-04-29,0,5,0,4,1,2,1,0,West Ham,premier-league
+0,10,0,13,5,0,Watford,2018-04-30,4,11,0,13,3,0,1,1,Tottenham,premier-league
+6,3,0,16,3,0,Man United,2018-05-04,5,5,0,11,4,0,0,2,Brighton,premier-league
+6,10,0,12,3,4,Swansea,2018-05-05,11,10,0,13,5,0,1,1,Bournemouth,premier-league
+4,12,1,11,5,4,Southampton,2018-05-05,3,14,0,9,3,0,0,2,Everton,premier-league
+3,9,0,13,3,2,West Ham,2018-05-05,8,8,0,13,2,1,0,1,Leicester,premier-league
+7,12,0,13,2,2,Crystal Palace,2018-05-05,1,18,0,7,2,0,1,5,Stoke,premier-league
+5,11,0,9,1,1,Newcastle,2018-05-05,2,9,0,11,8,0,2,2,Watford,premier-league
+9,12,0,18,5,1,Tottenham,2018-05-05,5,13,0,9,1,0,0,4,West Brom,premier-league
+5,7,0,6,2,1,Burnley,2018-05-06,4,6,0,16,8,0,2,0,Arsenal,premier-league
+1,9,0,10,5,2,Liverpool,2018-05-06,3,12,0,12,4,0,1,3,Chelsea,premier-league
+1,4,0,5,3,3,Huddersfield,2018-05-06,10,9,0,15,2,0,0,0,Man City,premier-league
+6,15,0,13,8,1,Southampton,2018-05-08,7,7,0,11,3,0,0,2,Swansea,premier-league
+0,10,0,3,2,1,Huddersfield,2018-05-09,9,7,0,22,5,0,0,0,Chelsea,premier-league
+6,12,1,14,7,2,Arsenal,2018-05-09,6,7,0,19,10,0,1,2,Leicester,premier-league
+3,7,0,6,3,1,Brighton,2018-05-09,4,5,0,19,7,1,2,0,Man City,premier-league
+4,8,0,14,3,3,Newcastle,2018-05-09,6,10,0,11,7,0,0,2,Tottenham,premier-league
+6,12,0,16,6,1,Man United,2018-05-10,1,12,0,9,2,0,0,1,West Ham,premier-league
+8,9,0,16,5,0,Bournemouth,2018-05-13,7,14,0,12,4,0,1,0,Burnley,premier-league
+2,11,0,7,1,3,West Brom,2018-05-13,4,10,0,11,5,0,0,2,Crystal Palace,premier-league
+4,7,0,9,4,0,Arsenal,2018-05-13,7,11,0,18,3,1,0,1,Huddersfield,premier-league
+3,6,0,2,1,0,Brighton,2018-05-13,7,3,0,22,11,0,2,0,Liverpool,premier-league
+5,11,0,7,3,0,Watford,2018-05-13,6,6,0,7,1,0,1,4,Man United,premier-league
+2,10,0,6,2,1,Chelsea,2018-05-13,4,11,0,16,6,0,1,0,Newcastle,premier-league
+12,10,0,13,2,1,Man City,2018-05-13,1,8,0,8,3,0,0,3,Southampton,premier-league
+0,9,0,8,5,2,Stoke,2018-05-13,6,12,0,26,11,2,1,1,Swansea,premier-league
+4,13,0,16,9,2,Leicester,2018-05-13,4,9,0,14,6,2,1,1,Tottenham,premier-league
+6,13,0,14,7,1,Everton,2018-05-13,6,10,0,15,4,0,1,0,West Ham,premier-league
+1,11,0,5,2,0,Cagliari,2017-08-19,4,13,0,17,7,0,2,1,Juventus,serie-a
+6,9,1,22,12,2,Napoli,2017-08-19,3,7,0,12,4,2,0,2,Verona,serie-a
+1,16,0,6,1,2,Roma,2017-08-20,4,14,0,14,6,1,0,1,Atalanta,serie-a
+8,10,0,9,3,1,Torino,2017-08-20,0,18,0,13,3,1,1,2,Bologna,serie-a
+9,14,0,19,10,3,Milan,2017-08-20,2,9,1,6,2,3,0,1,Crotone,serie-a
+7,13,0,15,3,1,Fiorentina,2017-08-20,9,7,0,16,6,0,2,0,Inter,serie-a
+5,4,0,9,2,2,Spal,2017-08-20,9,20,0,23,13,0,0,2,Lazio,serie-a
+7,10,0,18,7,2,Benevento,2017-08-20,6,10,0,16,6,1,1,1,Sampdoria,serie-a
+5,28,0,12,4,3,Genoa,2017-08-20,2,16,0,14,3,0,0,2,Sassuolo,serie-a
+4,10,0,10,3,2,Chievo,2017-08-20,5,11,0,18,5,1,1,2,Udinese,serie-a
+2,13,0,14,4,3,Bologna,2017-08-26,6,10,0,15,5,0,0,1,Benevento,serie-a
+4,8,0,17,7,3,Juventus,2017-08-26,1,13,0,9,3,2,2,4,Genoa,serie-a
+6,8,0,14,8,1,Inter,2017-08-26,12,12,0,18,3,0,1,1,Roma,serie-a
+6,8,0,13,3,1,Lazio,2017-08-27,9,8,0,13,5,1,1,1,Chievo,serie-a
+3,11,0,5,0,3,Verona,2017-08-27,1,13,0,13,4,0,0,1,Crotone,serie-a
+7,11,0,12,5,4,Sampdoria,2017-08-27,14,20,0,25,10,2,0,3,Fiorentina,serie-a
+6,17,0,14,4,1,Cagliari,2017-08-27,2,20,0,15,5,0,1,2,Milan,serie-a
+6,9,0,14,2,2,Atalanta,2017-08-27,9,15,0,10,4,1,0,1,Napoli,serie-a
+7,14,0,11,3,1,Udinese,2017-08-27,0,9,0,10,4,0,1,3,Spal,serie-a
+11,16,0,19,2,1,Sassuolo,2017-08-27,5,13,0,14,5,0,1,1,Torino,serie-a
+6,7,0,15,2,1,Chievo,2017-09-09,10,10,0,15,4,0,1,2,Juventus,serie-a
+7,18,0,16,3,1,Sassuolo,2017-09-10,3,13,0,9,3,1,1,0,Atalanta,serie-a
+10,22,0,16,6,2,Torino,2017-09-10,2,13,0,15,5,0,0,2,Benevento,serie-a
+7,16,0,17,7,1,Napoli,2017-09-10,5,10,0,5,2,0,0,5,Bologna,serie-a
+4,16,0,9,2,1,Crotone,2017-09-10,6,16,0,13,4,0,1,2,Cagliari,serie-a
+5,13,0,9,1,2,Spal,2017-09-10,8,14,0,19,7,0,1,2,Inter,serie-a
+5,12,0,18,6,1,Milan,2017-09-10,3,14,0,12,7,0,2,1,Lazio,serie-a
+8,17,1,12,2,0,Genoa,2017-09-10,1,12,1,14,5,0,1,4,Udinese,serie-a
+6,11,0,20,10,1,Fiorentina,2017-09-10,8,12,0,14,2,3,0,2,Verona,serie-a
+6,6,0,7,3,2,Inter,2017-09-16,8,10,0,12,4,0,0,1,Crotone,serie-a
+3,8,0,6,2,3,Bologna,2017-09-16,7,16,0,14,4,0,0,1,Fiorentina,serie-a
+1,12,1,8,1,1,Verona,2017-09-16,8,7,0,30,10,0,2,1,Roma,serie-a
+5,11,0,10,6,0,Atalanta,2017-09-17,6,13,0,15,4,0,0,2,Chievo,serie-a
+1,12,0,18,6,2,Lazio,2017-09-17,2,10,0,5,4,1,0,1,Genoa,serie-a
+3,10,0,4,2,2,Udinese,2017-09-17,10,13,0,21,7,1,2,1,Milan,serie-a
+1,7,0,6,0,1,Benevento,2017-09-17,8,6,0,27,14,0,4,0,Napoli,serie-a
+4,13,0,14,6,2,Juventus,2017-09-17,3,15,0,13,4,1,0,1,Sassuolo,serie-a
+4,21,0,11,3,3,Cagliari,2017-09-17,7,12,0,12,3,1,0,1,Spal,serie-a
+6,15,0,11,5,1,Sampdoria,2017-09-17,3,14,0,13,3,2,2,2,Torino,serie-a
+11,18,0,11,3,3,Inter,2017-09-19,4,12,0,14,3,0,1,4,Bologna,serie-a
+3,19,0,7,5,1,Crotone,2017-09-20,3,5,0,14,11,0,3,0,Atalanta,serie-a
+9,8,0,21,7,0,Roma,2017-09-20,2,10,0,16,5,2,0,2,Benevento,serie-a
+2,10,0,14,6,3,Sassuolo,2017-09-20,5,21,0,17,3,0,0,3,Cagliari,serie-a
+2,7,0,16,7,2,Chievo,2017-09-20,6,19,0,11,2,0,0,1,Genoa,serie-a
+1,23,1,9,0,2,Fiorentina,2017-09-20,3,10,0,12,5,0,0,1,Juventus,serie-a
+2,13,0,17,11,3,Napoli,2017-09-20,3,9,0,4,2,0,1,2,Lazio,serie-a
+8,15,0,6,0,2,Spal,2017-09-20,9,19,0,20,7,0,1,1,Milan,serie-a
+1,13,0,13,8,5,Torino,2017-09-20,12,17,0,16,6,2,0,1,Udinese,serie-a
+7,6,0,17,5,1,Sampdoria,2017-09-20,4,17,0,14,6,0,0,3,Verona,serie-a
+3,12,1,6,1,4,Torino,2017-09-23,6,16,0,23,10,0,2,1,Juventus,serie-a
+8,10,0,14,5,1,Udinese,2017-09-23,5,9,0,18,8,0,3,0,Roma,serie-a
+6,11,0,21,12,1,Napoli,2017-09-23,4,9,0,6,2,1,1,3,Spal,serie-a
+2,16,0,16,4,2,Chievo,2017-09-24,6,25,1,15,3,0,0,2,Cagliari,serie-a
+7,12,0,16,2,0,Benevento,2017-09-24,2,12,0,17,4,0,1,0,Crotone,serie-a
+8,11,0,16,5,5,Atalanta,2017-09-24,3,22,0,10,2,0,1,2,Fiorentina,serie-a
+4,14,2,9,3,2,Genoa,2017-09-24,8,10,0,14,7,0,0,0,Inter,serie-a
+4,17,0,6,0,2,Milan,2017-09-24,7,13,0,12,4,0,0,0,Sampdoria,serie-a
+6,15,0,8,4,4,Bologna,2017-09-24,3,11,1,8,3,0,0,3,Sassuolo,serie-a
+4,13,0,12,5,2,Lazio,2017-09-24,3,8,0,9,2,2,0,2,Verona,serie-a
+3,9,0,8,4,2,Bologna,2017-09-30,10,15,0,18,7,0,0,4,Genoa,serie-a
+4,10,1,13,2,2,Sampdoria,2017-09-30,3,12,0,15,7,0,1,4,Udinese,serie-a
+3,11,0,16,8,1,Juventus,2017-10-01,0,22,0,7,3,2,1,3,Atalanta,serie-a
+11,10,0,22,7,3,Inter,2017-10-01,1,13,0,11,2,2,1,2,Benevento,serie-a
+7,10,0,22,4,1,Fiorentina,2017-10-01,3,10,0,13,6,1,1,2,Chievo,serie-a
+4,8,0,8,6,3,Sassuolo,2017-10-01,5,13,0,22,13,1,1,2,Lazio,serie-a
+5,8,0,11,6,1,Roma,2017-10-01,5,15,1,17,3,0,0,3,Milan,serie-a
+2,10,0,4,0,0,Cagliari,2017-10-01,7,6,0,25,6,0,2,0,Napoli,serie-a
+6,17,0,13,4,1,Crotone,2017-10-01,12,12,0,17,5,0,1,2,Spal,serie-a
+5,15,1,20,7,4,Verona,2017-10-01,6,11,0,12,5,0,2,1,Torino,serie-a
+2,14,0,10,5,1,Lazio,2017-10-14,4,10,0,18,6,0,1,2,Juventus,serie-a
+2,9,0,16,6,2,Napoli,2017-10-14,5,12,0,10,2,1,0,2,Roma,serie-a
+5,14,0,7,2,2,Spal,2017-10-15,2,20,0,14,2,0,1,2,Bologna,serie-a
+7,14,0,18,11,0,Genoa,2017-10-15,6,13,0,12,7,2,0,2,Cagliari,serie-a
+8,7,0,21,9,0,Torino,2017-10-15,3,15,0,9,3,0,1,1,Crotone,serie-a
+4,14,0,8,2,1,Udinese,2017-10-15,4,11,0,13,6,0,1,1,Fiorentina,serie-a
+7,12,0,21,6,2,Milan,2017-10-15,2,17,0,15,6,0,1,6,Inter,serie-a
+6,14,0,21,11,3,Atalanta,2017-10-15,4,10,0,11,7,1,0,3,Sampdoria,serie-a
+8,15,0,9,2,0,Chievo,2017-10-15,6,8,0,18,4,0,0,2,Sassuolo,serie-a
+3,12,1,8,1,3,Benevento,2017-10-16,5,15,0,13,3,0,0,4,Verona,serie-a
+7,9,0,11,2,1,Inter,2017-10-21,5,9,0,12,3,0,0,1,Napoli,serie-a
+0,20,0,8,2,3,Crotone,2017-10-21,4,11,0,6,5,0,3,1,Sampdoria,serie-a
+3,15,1,6,0,4,Bologna,2017-10-22,10,12,0,20,2,0,0,3,Atalanta,serie-a
+5,18,0,14,7,1,Fiorentina,2017-10-22,3,16,0,9,1,1,0,2,Benevento,serie-a
+4,11,1,11,3,3,Verona,2017-10-22,5,8,0,22,8,1,2,2,Chievo,serie-a
+5,15,0,12,5,4,Cagliari,2017-10-22,4,12,0,10,3,0,2,1,Lazio,serie-a
+3,21,0,12,2,2,Genoa,2017-10-22,5,14,1,18,7,0,0,0,Milan,serie-a
+3,15,1,12,2,3,Sassuolo,2017-10-22,10,18,0,13,2,1,0,3,Spal,serie-a
+5,14,0,16,5,1,Roma,2017-10-22,0,26,0,5,0,0,0,1,Torino,serie-a
+6,9,1,13,5,3,Juventus,2017-10-22,1,19,0,11,4,2,1,6,Udinese,serie-a
+4,11,0,12,2,2,Sampdoria,2017-10-24,8,12,0,24,8,0,2,2,Inter,serie-a
+5,14,0,11,4,0,Verona,2017-10-25,5,7,0,23,7,0,0,0,Atalanta,serie-a
+4,9,0,14,3,2,Lazio,2017-10-25,10,12,0,7,3,2,0,2,Bologna,serie-a
+2,15,0,9,3,1,Benevento,2017-10-25,5,26,0,13,5,0,1,5,Cagliari,serie-a
+1,10,0,17,4,3,Milan,2017-10-25,1,12,0,9,3,2,0,2,Chievo,serie-a
+6,22,1,5,0,3,Torino,2017-10-25,5,22,0,15,7,0,1,1,Fiorentina,serie-a
+4,5,0,19,6,1,Napoli,2017-10-25,1,8,0,7,4,2,1,1,Genoa,serie-a
+2,13,0,6,2,0,Spal,2017-10-25,5,16,0,16,6,1,2,1,Juventus,serie-a
+1,9,0,3,2,1,Crotone,2017-10-25,10,8,0,20,4,0,1,0,Roma,serie-a
+3,19,0,8,2,3,Udinese,2017-10-25,6,15,0,11,3,1,0,2,Sassuolo,serie-a
+6,10,0,9,4,0,Juventus,2017-10-28,5,21,0,11,4,1,0,2,Milan,serie-a
+5,13,0,10,2,4,Bologna,2017-10-28,7,10,0,15,3,0,1,1,Roma,serie-a
+6,10,0,12,9,1,Lazio,2017-10-29,2,12,0,19,6,3,0,1,Benevento,serie-a
+5,17,0,17,3,3,Fiorentina,2017-10-29,3,19,0,11,5,1,2,3,Crotone,serie-a
+5,13,0,8,1,2,Sassuolo,2017-10-29,6,14,0,26,9,1,2,2,Napoli,serie-a
+6,11,0,13,6,3,Chievo,2017-10-29,8,9,0,15,7,1,3,2,Sampdoria,serie-a
+5,24,0,13,2,3,Genoa,2017-10-29,4,14,0,7,3,0,0,4,Spal,serie-a
+6,19,0,7,3,3,Cagliari,2017-10-29,7,9,0,19,6,1,1,4,Torino,serie-a
+7,15,0,7,2,2,Atalanta,2017-10-29,5,15,0,7,4,1,1,0,Udinese,serie-a
+7,9,0,17,4,2,Inter,2017-10-30,4,12,0,10,2,1,0,4,Verona,serie-a
+2,14,0,10,6,3,Crotone,2017-11-04,5,14,0,15,5,1,2,2,Bologna,serie-a
+2,8,0,11,5,2,Sampdoria,2017-11-04,5,22,0,14,2,1,0,4,Genoa,serie-a
+3,13,0,11,3,2,Spal,2017-11-05,3,14,1,9,3,0,1,0,Atalanta,serie-a
+2,15,0,9,2,4,Verona,2017-11-05,8,11,0,22,9,1,1,2,Cagliari,serie-a
+11,7,0,19,5,3,Napoli,2017-11-05,2,7,0,3,1,0,0,1,Chievo,serie-a
+9,10,0,21,10,1,Roma,2017-11-05,6,15,0,20,6,2,2,1,Fiorentina,serie-a
+3,12,0,7,3,5,Torino,2017-11-05,8,19,0,20,5,0,0,3,Inter,serie-a
+2,13,0,3,1,3,Benevento,2017-11-05,8,15,0,27,8,1,0,3,Juventus,serie-a
+10,15,0,14,10,3,Milan,2017-11-05,7,20,0,6,1,1,0,2,Sassuolo,serie-a
+1,7,0,13,3,1,Milan,2017-11-18,3,17,0,16,10,0,1,2,Napoli,serie-a
+7,17,0,12,2,4,Lazio,2017-11-18,6,11,0,16,7,0,0,2,Roma,serie-a
+5,11,0,15,5,1,Sassuolo,2017-11-19,6,26,1,13,6,0,0,4,Benevento,serie-a
+2,15,0,10,7,3,Genoa,2017-11-19,5,17,0,11,5,1,0,1,Crotone,serie-a
+2,13,0,8,1,2,Atalanta,2017-11-19,1,10,0,8,4,0,0,0,Inter,serie-a
+4,15,0,19,4,3,Juventus,2017-11-19,3,12,0,9,5,0,0,4,Sampdoria,serie-a
+8,17,0,20,5,3,Fiorentina,2017-11-19,1,10,1,7,1,0,1,4,Spal,serie-a
+1,15,1,12,4,1,Chievo,2017-11-19,5,9,0,19,5,1,1,1,Torino,serie-a
+4,11,0,12,4,0,Cagliari,2017-11-19,6,9,1,14,5,0,0,1,Udinese,serie-a
+4,11,0,12,5,1,Bologna,2017-11-20,6,11,0,17,5,1,2,2,Verona,serie-a
+12,13,0,20,7,2,Sampdoria,2017-11-25,5,5,1,11,6,0,2,2,Bologna,serie-a
+5,15,0,10,4,2,Inter,2017-11-25,7,12,0,15,4,1,0,2,Cagliari,serie-a
+8,24,0,14,5,1,Spal,2017-11-25,2,23,0,12,3,1,0,0,Chievo,serie-a
+6,15,1,9,6,3,Verona,2017-11-25,10,10,0,20,3,2,0,0,Sassuolo,serie-a
+4,16,1,14,4,3,Roma,2017-11-26,1,15,0,9,4,0,0,1,Genoa,serie-a
+0,9,0,4,1,2,Crotone,2017-11-26,7,8,0,25,10,0,0,2,Juventus,serie-a
+5,8,0,16,8,2,Fiorentina,2017-11-26,6,16,0,13,7,0,1,2,Lazio,serie-a
+4,20,0,8,2,2,Torino,2017-11-26,5,15,0,17,6,0,0,0,Milan,serie-a
+7,7,0,9,4,1,Napoli,2017-11-26,3,14,0,10,2,1,0,5,Udinese,serie-a
+3,16,0,6,2,2,Benevento,2017-11-27,9,11,0,14,4,0,0,1,Atalanta,serie-a
+3,5,0,7,4,1,Juventus,2017-12-01,10,9,0,21,6,1,0,2,Napoli,serie-a
+0,12,1,3,2,2,Spal,2017-12-01,10,10,0,37,15,0,2,1,Roma,serie-a
+7,13,0,14,6,2,Atalanta,2017-12-02,5,9,0,9,4,0,1,2,Torino,serie-a
+3,12,1,12,7,5,Milan,2017-12-03,4,16,0,17,6,1,0,3,Benevento,serie-a
+3,20,0,8,2,2,Cagliari,2017-12-03,5,15,0,13,3,1,0,6,Bologna,serie-a
+8,9,0,8,1,3,Sassuolo,2017-12-03,13,9,0,23,9,0,2,1,Fiorentina,serie-a
+2,4,0,7,4,0,Chievo,2017-12-03,18,11,0,37,13,0,2,1,Inter,serie-a
+6,12,0,14,3,1,Lazio,2017-12-03,5,10,0,16,3,0,0,0,Sampdoria,serie-a
+7,11,0,15,6,0,Udinese,2017-12-04,7,8,0,9,2,1,0,0,Crotone,serie-a
+3,19,0,9,1,4,Genoa,2017-12-04,2,17,0,15,3,1,0,2,Verona,serie-a
+4,11,0,16,9,0,Sampdoria,2017-12-09,6,15,0,14,6,2,0,3,Cagliari,serie-a
+4,21,0,6,1,5,Inter,2017-12-09,3,10,0,19,8,0,0,2,Juventus,serie-a
+13,8,0,24,8,2,Roma,2017-12-10,1,10,0,9,1,0,0,1,Chievo,serie-a
+7,7,0,10,2,0,Bologna,2017-12-10,12,9,0,21,7,1,1,0,Milan,serie-a
+2,6,0,6,3,3,Fiorentina,2017-12-10,4,10,0,10,4,0,0,3,Napoli,serie-a
+6,15,0,8,2,2,Crotone,2017-12-10,8,10,0,16,7,0,0,3,Sassuolo,serie-a
+6,15,0,16,8,2,Verona,2017-12-10,8,14,0,19,10,0,0,3,Spal,serie-a
+9,15,0,20,5,2,Benevento,2017-12-10,3,16,0,9,2,0,2,1,Udinese,serie-a
+2,16,0,18,6,1,Torino,2017-12-11,13,7,1,20,7,0,0,1,Lazio,serie-a
+5,20,0,13,7,2,Atalanta,2017-12-12,7,14,0,15,4,1,1,3,Genoa,serie-a
+3,16,0,8,5,4,Udinese,2017-12-16,15,9,0,26,8,1,1,1,Inter,serie-a
+1,15,0,3,0,3,Cagliari,2017-12-16,5,14,0,21,6,0,0,1,Roma,serie-a
+5,8,0,12,4,1,Napoli,2017-12-16,4,8,0,8,2,3,0,1,Torino,serie-a
+7,12,0,13,4,2,Lazio,2017-12-17,5,5,0,13,6,2,2,2,Atalanta,serie-a
+3,11,0,14,5,3,Spal,2017-12-17,6,14,0,16,4,0,0,2,Benevento,serie-a
+7,9,0,11,6,1,Juventus,2017-12-17,3,9,0,3,1,2,0,3,Bologna,serie-a
+4,13,0,15,4,4,Chievo,2017-12-17,6,17,0,15,6,0,1,4,Crotone,serie-a
+4,9,0,5,3,2,Genoa,2017-12-17,3,13,0,22,4,0,0,2,Fiorentina,serie-a
+5,16,0,15,7,6,Sassuolo,2017-12-17,7,15,0,13,2,0,0,1,Sampdoria,serie-a
+13,13,1,30,8,2,Milan,2017-12-17,4,12,0,6,4,0,1,3,Verona,serie-a
+10,13,0,26,7,2,Fiorentina,2017-12-22,7,14,1,8,1,0,0,2,Cagliari,serie-a
+5,13,1,9,5,2,Bologna,2017-12-22,7,13,0,21,8,1,1,2,Chievo,serie-a
+4,17,0,12,3,5,Benevento,2017-12-23,8,14,0,15,5,0,0,2,Genoa,serie-a
+5,13,0,13,3,3,Roma,2017-12-23,3,9,0,22,7,0,1,2,Juventus,serie-a
+3,7,0,8,2,2,Crotone,2017-12-23,10,12,0,19,6,0,0,1,Lazio,serie-a
+4,11,0,11,7,0,Atalanta,2017-12-23,7,17,0,23,5,1,0,2,Milan,serie-a
+2,15,0,6,2,5,Sampdoria,2017-12-23,2,17,1,14,9,2,3,4,Napoli,serie-a
+10,18,0,16,4,2,Inter,2017-12-23,1,14,0,9,4,0,1,1,Sassuolo,serie-a
+3,21,0,15,5,2,Torino,2017-12-23,9,12,0,15,4,2,1,4,Spal,serie-a
+1,15,0,3,0,3,Verona,2017-12-23,7,12,0,27,10,0,2,0,Udinese,serie-a
+15,6,0,23,7,2,Napoli,2017-12-29,2,10,0,5,2,1,0,1,Crotone,serie-a
+3,19,1,4,3,5,Cagliari,2017-12-30,5,6,0,25,6,2,0,0,Atalanta,serie-a
+1,17,0,9,3,2,Chievo,2017-12-30,7,14,0,18,9,0,0,1,Benevento,serie-a
+0,16,0,7,4,3,Udinese,2017-12-30,8,14,0,12,3,1,1,2,Bologna,serie-a
+5,12,0,8,4,1,Milan,2017-12-30,2,11,0,18,6,0,0,1,Fiorentina,serie-a
+8,9,0,12,4,1,Lazio,2017-12-30,10,13,0,10,3,0,0,2,Inter,serie-a
+4,12,0,15,5,2,Sassuolo,2017-12-30,7,13,0,21,4,0,1,1,Roma,serie-a
+3,15,0,9,2,4,Spal,2017-12-30,11,16,0,20,8,0,0,3,Sampdoria,serie-a
+3,23,0,3,1,3,Genoa,2017-12-30,8,25,0,17,6,0,0,1,Torino,serie-a
+6,4,0,18,8,0,Juventus,2017-12-30,6,22,0,3,1,1,0,2,Verona,serie-a
+5,20,0,9,1,1,Udinese,2018-01-05,5,6,0,11,6,1,1,0,Chievo,serie-a
+5,11,0,13,4,3,Inter,2018-01-05,7,9,0,23,4,0,0,2,Fiorentina,serie-a
+7,9,1,13,6,1,Sampdoria,2018-01-06,6,10,0,16,4,1,0,1,Benevento,serie-a
+3,13,0,16,2,2,Juventus,2018-01-06,5,17,0,9,2,0,0,1,Cagliari,serie-a
+5,16,0,10,1,1,Sassuolo,2018-01-06,5,17,0,7,3,0,0,3,Genoa,serie-a
+0,16,0,8,2,2,Crotone,2018-01-06,14,17,0,26,9,0,0,2,Milan,serie-a
+1,8,0,3,1,4,Verona,2018-01-06,5,9,0,24,9,0,0,0,Napoli,serie-a
+7,6,1,11,4,3,Atalanta,2018-01-06,12,12,0,18,5,2,0,1,Roma,serie-a
+4,14,0,15,7,3,Lazio,2018-01-06,9,8,0,13,4,4,2,2,Spal,serie-a
+5,12,0,6,1,2,Bologna,2018-01-06,4,13,0,19,6,0,1,1,Torino,serie-a
+7,13,0,12,3,2,Napoli,2018-01-21,8,10,0,9,3,0,0,0,Atalanta,serie-a
+3,15,0,4,1,2,Benevento,2018-01-21,5,11,0,8,6,0,1,4,Bologna,serie-a
+8,17,1,16,6,4,Milan,2018-01-21,5,23,1,12,3,2,1,5,Cagliari,serie-a
+5,13,0,7,1,0,Roma,2018-01-21,6,13,0,17,7,1,0,2,Inter,serie-a
+2,3,0,9,3,0,Chievo,2018-01-21,2,5,0,18,11,1,2,1,Lazio,serie-a
+4,16,0,12,5,2,Fiorentina,2018-01-21,7,5,0,14,10,0,1,1,Sampdoria,serie-a
+7,15,0,9,4,2,Torino,2018-01-21,6,16,0,18,6,1,0,4,Sassuolo,serie-a
+7,12,0,14,4,3,Spal,2018-01-21,5,23,0,6,1,0,1,2,Udinese,serie-a
+1,15,0,9,5,5,Crotone,2018-01-21,5,13,1,10,2,1,0,1,Verona,serie-a
+3,17,0,3,0,5,Genoa,2018-01-22,4,23,0,15,5,0,1,1,Juventus,serie-a
+6,5,0,12,4,2,Udinese,2018-01-24,3,8,0,11,7,0,1,0,Lazio,serie-a
+7,12,0,20,4,3,Roma,2018-01-24,6,10,0,13,3,0,1,1,Sampdoria,serie-a
+4,11,0,16,7,2,Juventus,2018-01-27,2,9,2,1,1,0,0,2,Chievo,serie-a
+7,11,0,17,10,0,Atalanta,2018-01-27,5,11,1,10,1,1,0,2,Sassuolo,serie-a
+4,15,1,6,3,2,Cagliari,2018-01-28,9,18,0,13,6,1,1,2,Crotone,serie-a
+3,16,0,8,5,4,Verona,2018-01-28,11,13,0,28,6,2,0,3,Fiorentina,serie-a
+3,17,1,6,1,0,Udinese,2018-01-28,10,11,0,19,2,0,0,2,Genoa,serie-a
+3,14,0,13,4,6,Lazio,2018-01-28,4,8,0,11,5,1,2,2,Milan,serie-a
+3,13,0,10,5,2,Bologna,2018-01-28,7,7,0,9,4,1,2,1,Napoli,serie-a
+10,7,0,15,10,2,Sampdoria,2018-01-28,10,8,0,19,8,0,0,2,Roma,serie-a
+6,26,0,10,6,0,Inter,2018-01-28,4,7,0,12,3,0,0,1,Spal,serie-a
+3,10,1,6,1,1,Benevento,2018-01-28,6,14,0,14,5,0,3,2,Torino,serie-a
+4,8,0,11,2,3,Crotone,2018-02-03,7,14,0,11,2,0,1,1,Inter,serie-a
+4,19,1,14,5,4,Torino,2018-02-03,6,15,0,9,3,1,1,3,Sampdoria,serie-a
+3,14,0,4,0,1,Chievo,2018-02-04,10,11,0,24,4,0,0,0,Atalanta,serie-a
+5,6,0,17,5,0,Napoli,2018-02-04,4,4,0,14,4,1,0,1,Benevento,serie-a
+4,12,0,11,6,1,Fiorentina,2018-02-04,4,11,0,8,4,1,1,2,Bologna,serie-a
+3,16,0,10,3,2,Spal,2018-02-04,6,26,0,10,4,0,1,5,Cagliari,serie-a
+1,8,0,5,1,2,Sassuolo,2018-02-04,5,8,0,17,10,0,4,0,Juventus,serie-a
+5,13,1,15,4,2,Milan,2018-02-04,5,18,0,13,3,1,0,2,Udinese,serie-a
+6,7,1,17,8,1,Roma,2018-02-04,4,17,0,9,1,1,0,3,Verona,serie-a
+1,9,0,6,4,1,Genoa,2018-02-05,8,7,0,22,5,0,0,0,Lazio,serie-a
+5,17,0,4,3,3,Juventus,2018-02-09,2,12,0,12,2,0,0,4,Fiorentina,serie-a
+9,13,0,13,4,2,Atalanta,2018-02-10,4,16,0,9,4,0,0,4,Crotone,serie-a
+2,10,0,5,1,3,Lazio,2018-02-10,2,5,0,17,7,1,1,0,Napoli,serie-a
+5,16,0,21,9,3,Milan,2018-02-10,3,17,0,8,0,1,0,3,Spal,serie-a
+7,17,0,10,3,1,Genoa,2018-02-11,3,16,0,6,1,0,0,1,Chievo,serie-a
+2,17,2,8,4,3,Bologna,2018-02-11,7,18,0,15,5,1,1,1,Inter,serie-a
+3,7,0,6,3,0,Benevento,2018-02-11,10,9,0,20,9,1,1,0,Roma,serie-a
+4,15,0,6,1,1,Verona,2018-02-11,8,10,0,22,10,0,0,1,Sampdoria,serie-a
+2,15,0,5,2,1,Cagliari,2018-02-11,4,12,0,15,1,0,0,0,Sassuolo,serie-a
+3,16,0,12,0,1,Udinese,2018-02-11,7,12,0,14,7,0,1,2,Torino,serie-a
+1,23,0,5,3,3,Cagliari,2018-02-17,7,10,0,9,5,0,0,2,Chievo,serie-a
+8,9,0,14,5,1,Inter,2018-02-17,10,11,0,9,2,0,1,0,Genoa,serie-a
+7,10,0,18,7,1,Roma,2018-02-17,2,11,0,8,3,0,0,3,Udinese,serie-a
+5,18,1,17,2,6,Fiorentina,2018-02-18,2,10,0,7,3,1,1,2,Atalanta,serie-a
+4,10,0,19,3,2,Crotone,2018-02-18,7,14,0,16,8,1,1,5,Benevento,serie-a
+9,19,1,19,6,4,Sassuolo,2018-02-18,2,12,0,10,6,1,1,1,Bologna,serie-a
+1,15,0,9,2,3,Sampdoria,2018-02-18,11,13,0,20,8,0,1,1,Milan,serie-a
+1,11,0,4,1,4,Spal,2018-02-18,10,10,0,19,5,0,1,1,Napoli,serie-a
+3,8,0,8,3,1,Juventus,2018-02-18,2,14,0,6,3,1,0,1,Torino,serie-a
+2,10,0,5,0,1,Verona,2018-02-19,11,7,0,33,10,0,0,0,Lazio,serie-a
+8,12,0,16,3,0,Genoa,2018-02-24,2,9,0,7,4,0,0,2,Bologna,serie-a
+2,14,1,10,1,3,Benevento,2018-02-24,6,15,0,9,4,0,0,2,Inter,serie-a
+4,13,0,10,6,4,Spal,2018-02-25,5,19,0,17,7,1,0,1,Crotone,serie-a
+10,17,0,5,2,1,Chievo,2018-02-25,9,16,0,14,5,0,1,1,Fiorentina,serie-a
+3,6,0,10,5,0,Milan,2018-02-25,9,11,0,18,3,0,0,0,Roma,serie-a
+4,16,0,16,4,2,Udinese,2018-02-25,5,11,0,14,3,0,1,2,Sampdoria,serie-a
+0,10,1,6,4,3,Lazio,2018-02-25,4,11,1,15,4,2,0,3,Sassuolo,serie-a
+7,19,0,12,2,1,Torino,2018-02-25,7,12,0,7,4,0,1,3,Verona,serie-a
+2,5,0,18,8,1,Napoli,2018-02-26,1,12,0,7,3,2,0,2,Cagliari,serie-a
+4,11,0,6,1,2,Juventus,2018-03-03,4,16,0,4,2,0,0,3,Lazio,serie-a
+2,8,0,11,5,2,Roma,2018-03-03,10,7,0,26,13,2,1,1,Napoli,serie-a
+4,15,1,6,0,3,Bologna,2018-03-03,4,12,1,11,1,0,0,5,Spal,serie-a
+6,21,0,10,3,2,Torino,2018-03-09,13,8,0,15,5,0,0,1,Roma,serie-a
+4,16,0,10,2,6,Chievo,2018-03-10,3,11,0,7,2,0,0,4,Verona,serie-a
+10,12,0,21,5,0,Atalanta,2018-03-11,5,11,0,10,1,0,0,3,Bologna,serie-a
+4,10,0,12,4,4,Lazio,2018-03-11,1,13,0,5,4,1,1,2,Cagliari,serie-a
+10,20,0,11,2,2,Sampdoria,2018-03-11,3,16,0,14,8,0,3,1,Crotone,serie-a
+9,8,0,11,3,3,Benevento,2018-03-11,8,11,0,14,5,0,1,2,Fiorentina,serie-a
+3,9,0,14,7,0,Milan,2018-03-11,3,5,0,9,2,0,0,1,Genoa,serie-a
+3,10,0,11,2,3,Napoli,2018-03-11,2,9,0,3,1,0,0,1,Inter,serie-a
+3,9,0,5,1,2,Udinese,2018-03-11,5,7,0,11,4,0,1,1,Juventus,serie-a
+3,14,0,6,2,3,Spal,2018-03-11,9,13,0,15,4,1,1,3,Sassuolo,serie-a
+8,23,1,8,0,5,Atalanta,2018-03-14,3,8,0,15,3,0,1,3,Juventus,serie-a
+7,16,0,12,3,2,Juventus,2018-03-17,3,15,0,3,0,0,0,5,Spal,serie-a
+7,15,0,12,3,2,Sassuolo,2018-03-17,4,14,0,11,3,1,1,1,Udinese,serie-a
+9,7,0,12,3,2,Cagliari,2018-03-18,5,11,0,15,4,0,0,2,Benevento,serie-a
+5,11,0,20,8,0,Roma,2018-03-18,4,10,0,8,3,1,0,0,Crotone,serie-a
+3,9,0,10,3,2,Bologna,2018-03-18,5,7,0,21,4,1,1,2,Lazio,serie-a
+1,18,0,6,2,5,Chievo,2018-03-18,10,13,0,18,6,2,1,3,Milan,serie-a
+3,11,0,12,3,2,Genoa,2018-03-18,8,7,0,16,4,0,0,1,Napoli,serie-a
+9,9,0,15,8,1,Inter,2018-03-18,7,6,0,10,2,4,0,2,Sampdoria,serie-a
+3,16,0,13,5,3,Fiorentina,2018-03-18,2,14,0,10,3,0,0,3,Torino,serie-a
+4,13,0,24,11,2,Atalanta,2018-03-18,4,11,0,6,0,2,0,3,Verona,serie-a
+6,10,0,9,2,2,Udinese,2018-03-31,10,9,0,23,7,0,0,1,Atalanta,serie-a
+11,7,0,17,5,1,Roma,2018-03-31,3,14,0,6,1,0,1,3,Bologna,serie-a
+7,16,0,13,6,1,Torino,2018-03-31,5,10,0,9,2,0,0,0,Cagliari,serie-a
+6,11,0,15,7,2,Sampdoria,2018-03-31,2,15,0,7,4,1,0,3,Chievo,serie-a
+3,10,1,6,2,5,Crotone,2018-03-31,6,21,0,15,6,0,1,4,Fiorentina,serie-a
+2,13,1,7,4,2,Spal,2018-03-31,7,26,0,15,2,0,1,4,Genoa,serie-a
+3,11,1,8,1,3,Verona,2018-03-31,5,7,0,23,4,0,2,1,Inter,serie-a
+3,17,0,10,5,3,Milan,2018-03-31,2,9,0,7,4,1,1,1,Juventus,serie-a
+2,11,1,6,3,4,Benevento,2018-03-31,8,14,0,27,14,1,1,0,Lazio,serie-a
+5,10,0,12,4,2,Napoli,2018-03-31,4,16,0,10,4,0,1,5,Sassuolo,serie-a
+7,11,0,10,3,3,Sampdoria,2018-04-03,10,13,0,16,1,1,0,2,Atalanta,serie-a
+3,17,0,9,4,4,Cagliari,2018-04-03,4,22,0,8,2,0,0,2,Genoa,serie-a
+6,15,0,15,4,4,Fiorentina,2018-04-03,5,11,0,13,4,1,0,2,Udinese,serie-a
+2,25,0,3,0,2,Verona,2018-04-04,9,13,0,22,15,0,1,2,Benevento,serie-a
+1,7,2,12,4,2,Sassuolo,2018-04-04,2,22,0,6,2,0,0,4,Chievo,serie-a
+4,13,0,14,2,4,Inter,2018-04-04,7,10,0,13,3,0,0,1,Milan,serie-a
+3,13,0,12,2,1,Crotone,2018-04-04,3,14,0,9,5,0,3,1,Torino,serie-a
+2,10,0,15,5,1,Juventus,2018-04-07,9,10,0,16,6,2,1,0,Benevento,serie-a
+1,9,0,4,3,2,Fiorentina,2018-04-07,9,8,0,25,9,2,0,4,Roma,serie-a
+1,13,0,7,2,2,Genoa,2018-04-07,5,10,0,18,4,0,0,1,Sampdoria,serie-a
+3,24,0,19,6,2,Atalanta,2018-04-07,3,10,0,8,4,0,1,3,Spal,serie-a
+5,20,0,11,1,4,Bologna,2018-04-08,1,16,0,6,5,0,1,2,Crotone,serie-a
+3,10,0,8,3,2,Sassuolo,2018-04-08,12,15,0,22,8,0,0,3,Milan,serie-a
+0,12,0,4,2,3,Chievo,2018-04-08,14,7,0,31,12,0,0,2,Napoli,serie-a
+16,16,0,15,8,3,Inter,2018-04-08,1,5,0,10,3,0,1,2,Torino,serie-a
+5,7,0,14,4,2,Lazio,2018-04-08,5,9,0,10,3,2,1,0,Udinese,serie-a
+9,13,0,10,3,1,Cagliari,2018-04-08,2,18,0,11,4,0,1,4,Verona,serie-a
+4,5,0,10,2,2,Inter,2018-04-14,8,14,0,16,4,0,0,4,Atalanta,serie-a
+3,12,0,7,1,3,Udinese,2018-04-14,7,11,0,12,3,1,1,2,Cagliari,serie-a
+4,11,0,12,3,0,Torino,2018-04-14,4,15,1,6,0,0,0,2,Chievo,serie-a
+4,15,0,10,1,3,Crotone,2018-04-14,5,21,0,17,5,0,1,2,Genoa,serie-a
+4,15,0,8,1,2,Verona,2018-04-15,3,17,0,14,6,0,1,3,Bologna,serie-a
+4,8,0,4,1,2,Spal,2018-04-15,8,14,0,24,6,0,0,2,Fiorentina,serie-a
+8,6,0,8,3,0,Sampdoria,2018-04-15,6,8,0,16,5,0,1,2,Juventus,serie-a
+2,13,0,10,1,2,Roma,2018-04-15,7,14,1,7,1,0,0,4,Lazio,serie-a
+8,6,0,15,4,2,Napoli,2018-04-15,11,10,0,13,2,0,0,2,Milan,serie-a
+1,23,0,10,2,2,Benevento,2018-04-15,7,12,0,15,3,1,1,3,Sassuolo,serie-a
+2,10,0,0,0,1,Cagliari,2018-04-17,10,7,0,20,9,0,1,1,Inter,serie-a
+1,21,0,12,8,2,Atalanta,2018-04-18,6,13,0,12,4,1,0,2,Benevento,serie-a
+7,12,0,13,4,2,Juventus,2018-04-18,2,9,0,9,3,1,0,1,Crotone,serie-a
+8,14,1,17,8,2,Lazio,2018-04-18,0,17,1,13,6,2,2,3,Fiorentina,serie-a
+7,12,0,19,5,2,Udinese,2018-04-18,8,7,0,18,9,1,1,1,Napoli,serie-a
+3,10,0,5,1,1,Genoa,2018-04-18,7,10,0,15,6,0,1,0,Roma,serie-a
+6,12,0,11,2,3,Bologna,2018-04-18,6,11,0,16,2,0,0,1,Sampdoria,serie-a
+2,24,0,6,0,2,Chievo,2018-04-18,6,12,0,9,1,0,0,1,Spal,serie-a
+6,13,0,9,5,3,Milan,2018-04-18,6,21,1,12,5,1,0,4,Torino,serie-a
+5,14,0,15,5,4,Sassuolo,2018-04-18,6,19,0,9,2,1,0,3,Verona,serie-a
+1,7,1,5,1,4,Benevento,2018-04-21,4,13,0,21,6,1,0,2,Milan,serie-a
+2,20,1,6,1,4,Fiorentina,2018-04-21,4,22,0,10,6,0,1,6,Sassuolo,serie-a
+3,11,0,14,7,1,Roma,2018-04-21,2,10,0,6,3,1,0,4,Spal,serie-a
+4,18,0,10,1,2,Torino,2018-04-22,11,19,0,22,8,0,0,2,Atalanta,serie-a
+1,13,0,5,2,5,Bologna,2018-04-22,7,15,0,13,2,0,0,3,Cagliari,serie-a
+10,9,0,11,5,1,Inter,2018-04-22,4,11,0,13,6,0,0,1,Chievo,serie-a
+3,17,0,12,4,1,Napoli,2018-04-22,3,10,0,4,0,0,0,3,Juventus,serie-a
+4,8,0,6,2,2,Sampdoria,2018-04-22,8,11,0,15,9,0,2,1,Lazio,serie-a
+5,7,0,11,2,0,Crotone,2018-04-22,6,21,0,15,6,1,1,2,Udinese,serie-a
+2,10,0,13,3,3,Verona,2018-04-23,8,13,0,18,8,0,1,2,Genoa,serie-a
+8,15,0,13,4,5,Juventus,2018-04-28,2,7,1,10,5,1,0,2,Inter,serie-a
+7,10,0,12,6,2,Chievo,2018-04-28,3,12,1,15,7,0,2,2,Roma,serie-a
+7,6,0,12,3,1,Genoa,2018-04-29,1,13,0,13,6,0,2,3,Atalanta,serie-a
+4,19,0,15,6,3,Udinese,2018-04-29,4,11,1,12,6,1,1,4,Benevento,serie-a
+1,12,0,9,4,1,Milan,2018-04-29,7,14,0,12,7,2,0,1,Bologna,serie-a
+6,8,0,14,6,1,Sassuolo,2018-04-29,4,15,0,11,7,1,3,3,Crotone,serie-a
+3,10,1,4,1,5,Napoli,2018-04-29,2,17,0,28,10,0,1,3,Fiorentina,serie-a
+2,15,1,6,2,7,Cagliari,2018-04-29,6,8,0,15,6,0,3,1,Sampdoria,serie-a
+6,14,0,16,6,3,Lazio,2018-04-29,3,13,0,8,2,0,0,2,Torino,serie-a
+8,14,0,17,6,3,Spal,2018-04-29,1,16,0,11,5,1,1,2,Verona,serie-a
+2,13,0,6,3,3,Bologna,2018-05-05,5,12,0,15,6,1,0,2,Juventus,serie-a
+4,10,0,8,2,0,Verona,2018-05-05,5,9,0,17,10,0,2,1,Milan,serie-a
+3,9,0,9,1,1,Roma,2018-05-06,9,20,0,12,3,1,0,4,Cagliari,serie-a
+4,14,0,13,3,1,Crotone,2018-05-06,8,15,0,11,3,0,1,5,Chievo,serie-a
+7,16,0,19,10,6,Fiorentina,2018-05-06,3,8,2,7,3,1,0,2,Genoa,serie-a
+9,8,0,20,6,2,Atalanta,2018-05-06,6,7,0,13,2,1,1,3,Lazio,serie-a
+2,20,0,5,2,4,Torino,2018-05-06,4,10,0,19,5,0,1,1,Napoli,serie-a
+6,21,0,2,0,1,Sampdoria,2018-05-06,9,7,0,18,7,0,0,1,Sassuolo,serie-a
+4,22,0,12,3,2,Benevento,2018-05-06,1,16,0,6,4,0,1,2,Spal,serie-a
+9,7,0,26,12,0,Inter,2018-05-06,5,13,1,9,2,3,0,1,Udinese,serie-a
+3,7,0,13,5,1,Genoa,2018-05-12,6,17,0,14,3,0,0,1,Benevento,serie-a
+2,5,0,13,5,2,Sassuolo,2018-05-12,16,9,0,16,8,1,0,1,Inter,serie-a
+8,10,1,5,2,6,Milan,2018-05-13,3,21,1,24,5,0,0,6,Atalanta,serie-a
+7,14,0,13,7,4,Chievo,2018-05-13,2,13,0,7,3,0,1,1,Bologna,serie-a
+9,15,0,18,7,3,Lazio,2018-05-13,2,12,0,6,3,1,1,1,Crotone,serie-a
+5,17,0,14,2,4,Cagliari,2018-05-13,11,15,1,14,0,1,0,3,Fiorentina,serie-a
+3,13,0,7,0,2,Juventus,2018-05-13,4,10,1,9,2,0,0,2,Roma,serie-a
+12,6,0,17,9,2,Napoli,2018-05-13,3,13,0,11,2,0,0,2,Sampdoria,serie-a
+6,14,0,10,4,5,Spal,2018-05-13,4,16,0,18,10,1,0,2,Torino,serie-a
+5,17,0,13,5,2,Udinese,2018-05-13,3,15,0,11,1,1,0,2,Verona,serie-a
+5,11,0,9,3,2,Verona,2018-05-19,11,13,0,26,13,0,0,0,Juventus,serie-a
+11,14,0,12,4,1,Atalanta,2018-05-20,5,17,0,6,4,0,0,3,Cagliari,serie-a
+4,9,0,12,1,0,Benevento,2018-05-20,2,13,0,8,5,0,0,1,Chievo,serie-a
+3,11,0,4,2,3,Torino,2018-05-20,7,10,0,12,2,1,0,1,Genoa,serie-a
+4,13,0,15,6,4,Inter,2018-05-20,10,12,2,14,4,1,2,5,Lazio,serie-a
+1,5,1,9,3,1,Fiorentina,2018-05-20,6,10,0,18,11,1,2,2,Milan,serie-a
+9,9,0,9,4,0,Crotone,2018-05-20,6,3,0,19,9,0,2,0,Napoli,serie-a
+9,8,0,15,6,1,Roma,2018-05-20,5,14,0,16,3,1,0,1,Sassuolo,serie-a
+3,11,0,9,3,4,Sampdoria,2018-05-20,5,10,0,16,6,0,1,1,Spal,serie-a
+2,11,0,8,5,2,Bologna,2018-05-20,10,9,0,20,5,0,1,0,Udinese,serie-a
