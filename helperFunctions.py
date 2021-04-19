@@ -1,5 +1,8 @@
 import os
+import numpy as np
 import pandas as pd
+import matplotlib.pyplot as plt
+from math import isnan
 
 
 def searchMatch(league, date, homeTeam, awayTeam):
@@ -21,7 +24,7 @@ def searchMatch(league, date, homeTeam, awayTeam):
     # search for the match for each season's CSV
     matchInfoDF = currSeasonDF[ 
                     (currSeasonDF["HomeTeam"] == homeTeam) & (currSeasonDF["AwayTeam"] == awayTeam) & \
-                    (currSeasonDF["Date"] == pd.to_datetime(date))    ]
+                    (currSeasonDF["Date"] == pd.to_datetime(date))    ].reset_index()
     
     if len(matchInfoDF) != 1:
         print(f"{league} match between {homeTeam} and {awayTeam} on {pd.to_datetime(date).strftime('%d %B %Y')} in \
@@ -147,3 +150,61 @@ def getBet365prediction(row):
     # least bettingOdds means that result is most predictable
     bet365prediction = results[odds.index(min(odds))]
     return bet365prediction
+
+
+def extractAverageBettingOddsIfMissing(row):
+    """
+    Return the average betting odds (over last 3 years) when these two teams meet at the HomeTeam's stadium.
+    """
+    homeWinOdds, drawOdds, awayWinOdds = row["B365H"], row["B365D"], row["B365A"]
+    # since we know only these kind of rows are present in train_df, we can specify this condition
+    if not isnan(homeWinOdds) and not isnan(drawOdds) and not isnan(awayWinOdds):
+        return homeWinOdds, drawOdds, awayWinOdds # just return what you read
+    
+    league, date, homeTeam, awayTeam = row["league"], row["Date"], row["HomeTeam"], row["AwayTeam"]
+    _, season = searchMatch(league, date, homeTeam, awayTeam) # we get the season we found this match in
+    seasonStart, seasonEnd = season[:2], season[2:]
+    
+    seasonsToCheck = [
+        str(int(seasonStart)-1).zfill(2) + str(int(seasonEnd)-1).zfill(2), # previous season
+        str(int(seasonStart)-2).zfill(2) + str(int(seasonEnd)-2).zfill(2), # 2 seasons ago
+        str(int(seasonStart)-3).zfill(2) + str(int(seasonEnd)-3).zfill(2), # 3 seasons ago
+    ]
+    
+    homeWinOddsPrevSeasons, drawOddsPrevSeasons, awayWinOddsPrevSeasons = [], [], []
+    for season in seasonsToCheck:
+        try:
+            prevSeasonDF = pd.read_csv(os.path.join("downloaded_data", f"{league}_{season}.csv")).dropna(how='all')
+            sameMatchPrevSeasonDF = prevSeasonDF[(prevSeasonDF["HomeTeam"] == homeTeam) & (prevSeasonDF["AwayTeam"] == awayTeam)].reset_index()
+            if len(sameMatchPrevSeasonDF) == 0:
+                continue # probably that match did not happen since one or both team were not in the league i.e. got relegated
+            if len(sameMatchPrevSeasonDF) > 1:
+                raise Exception("More than one match found!!")
+            
+            homeWinOdds = sameMatchPrevSeasonDF["B365H"].values[0]
+            drawOdds = sameMatchPrevSeasonDF["B365D"].values[0]
+            awayWinOdds = sameMatchPrevSeasonDF["B365A"].values[0]
+            
+            if not (homeWinOdds is None and drawOdds is None and awayWinOdds is None):
+                homeWinOddsPrevSeasons.append(homeWinOdds)
+                drawOddsPrevSeasons.append(drawOdds)
+                awayWinOddsPrevSeasons.append(awayWinOdds)
+        except FileNotFoundError as err:
+            break # no use searching an older season
+    
+    avgHomeOdds, avgDrawOdds, avgAwayOdds = 0.0, 0.0, 0.0
+    avgHomeOdds = np.average(homeWinOddsPrevSeasons) if len(homeWinOddsPrevSeasons) >= 1 else avgHomeOdds
+    avgDrawOdds = np.average(drawOddsPrevSeasons) if len(drawOddsPrevSeasons) >= 1 else avgDrawOdds
+    avgAwayOdds = np.average(awayWinOddsPrevSeasons)  if len(awayWinOddsPrevSeasons) >= 1 else avgAwayOdds
+    return avgHomeOdds, avgDrawOdds, avgAwayOdds
+
+
+def normalizeConfusionMatrix(cm):
+    ncm = cm.astype('float') / cm.sum(axis=1)[:, np.newaxis]
+    ncm = np.around(ncm, decimals=3)
+    ncm[np.isnan(ncm)] = 0
+    return ncm
+
+
+def calculate_accuracy(confmat): 
+    return f"Accuracy = {(round(np.trace(confmat)/np.sum(confmat), 3))*100}%"
