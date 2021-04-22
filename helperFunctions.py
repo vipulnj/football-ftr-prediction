@@ -1,8 +1,9 @@
-import os
+import os, math
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-from math import isnan
+from sklearn.metrics import roc_curve, auc
+from sklearn.metrics import precision_recall_curve, average_precision_score
 
 
 def searchMatch(league, date, homeTeam, awayTeam):
@@ -158,7 +159,7 @@ def extractAverageBettingOddsIfMissing(row):
     """
     homeWinOdds, drawOdds, awayWinOdds = row["B365H"], row["B365D"], row["B365A"]
     # since we know only these kind of rows are present in train_df, we can specify this condition
-    if not isnan(homeWinOdds) and not isnan(drawOdds) and not isnan(awayWinOdds):
+    if not math.isnan(homeWinOdds) and not math.isnan(drawOdds) and not math.isnan(awayWinOdds):
         return homeWinOdds, drawOdds, awayWinOdds # just return what you read
     
     league, date, homeTeam, awayTeam = row["league"], row["Date"], row["HomeTeam"], row["AwayTeam"]
@@ -199,6 +200,19 @@ def extractAverageBettingOddsIfMissing(row):
     return avgHomeOdds, avgDrawOdds, avgAwayOdds
 
 
+def maxDstDrw(row):
+    """
+    Returns max distance-from-drawn-match value based on betting odds captured by Bet365.
+    Positive values mean homeTeam has that much more than chances of winning instead of a draw.
+    Negative values means awayTeam has that much more than chances of winning instead of a draw. Negative value here does not less chances (the absolute value must be taken) but signals an awayTeam winning chances over a draw.
+    """
+    B365HDstDrw, B365ADstDrw = row['B365HDstDrw'], row['B365ADstDrw']
+    dstDrw = np.max([B365HDstDrw, B365ADstDrw])
+    dstDrwIx = np.argmax([B365HDstDrw, B365ADstDrw])
+    signDict = {0: 1, 1: -1}
+    return signDict[dstDrwIx]*dstDrw
+
+
 def normalizeConfusionMatrix(cm):
     ncm = cm.astype('float') / cm.sum(axis=1)[:, np.newaxis]
     ncm = np.around(ncm, decimals=3)
@@ -208,3 +222,96 @@ def normalizeConfusionMatrix(cm):
 
 def calculate_accuracy(confmat): 
     return f"Accuracy = {(round(np.trace(confmat)/np.sum(confmat), 3))*100}%"
+
+
+def plotROCcurve(yTrue_scores, yPred_scores, classesInOrder, classNumToName, title=None):
+    """
+    https://scikit-learn.org/stable/auto_examples/model_selection/plot_roc.html
+    """
+    title = "ROC curve" if title is None else title
+    
+    if pd.api.types.is_object_dtype(classesInOrder):
+        classDict = {'A': -1, 'D': 0, 'H': 1} 
+        classNumToName = {classDict[classStr]:classNumToName[classStr] for classStr in classesInOrder}
+        classesInOrder = [classDict[classStr] for classStr in classesInOrder]
+    
+    fpr, tpr, roc_auc = {}, {}, {}
+    for classLabel in classesInOrder:
+        fpr[classLabel], tpr[classLabel], _ = roc_curve(yTrue_scores[:, classLabel+1], yPred_scores[:, classLabel+1])
+        roc_auc[classLabel] = auc(fpr[classLabel], tpr[classLabel])
+    
+    fpr["micro"], tpr["micro"], _ = roc_curve(yTrue_scores.ravel(), yPred_scores.ravel())
+    roc_auc["micro"] = auc(fpr["micro"], tpr["micro"])
+    
+    # Plot all ROC curves
+    plt.figure(figsize=(6, 6), dpi=100)
+    plt.plot(fpr["micro"], tpr["micro"], label='micro-average ROC curve (area = {0:0.2f})'.format(roc_auc["micro"]), color='gold', linestyle=':', linewidth=4)
+    
+    # plot the ROC curves for each class with colors specified
+    for classLabel, color in zip(classesInOrder, ['red', 'green', 'blue']): # these are colors represeting AwayWin, Draw, HomeWin
+        plt.plot(fpr[classLabel], tpr[classLabel], color=color, label=f"{classNumToName[classLabel]} AUC = {str(np.round(roc_auc[classLabel], 3))[:4]}")
+    
+    plt.plot([0, 1], [0, 1], 'k--')
+    plt.xlim([0.0, 1.0])
+    plt.ylim([0.0, 1.05])
+    plt.xlabel('False Positive Rate')
+    plt.ylabel('True Positive Rate ')
+    plt.title(title)
+    plt.legend(loc="lower right")
+    plt.show()
+
+
+def plotPRcurve(yTrue_scores, yPred_scores, classesInOrder, classNumToName, title=None):
+    """
+    Taken from https://scikit-learn.org/stable/auto_examples/model_selection/plot_precision_recall.html
+    """
+    
+    title = "PR curve" if title is None else title
+    
+    
+    if pd.api.types.is_object_dtype(classesInOrder):
+        classDict = {'A': -1, 'D': 0, 'H': 1} 
+        classNumToName = {classDict[classStr]:classNumToName[classStr] for classStr in classesInOrder}
+        classesInOrder = [classDict[classStr] for classStr in classesInOrder]
+    
+    precision, recall, average_precision = {}, {}, {}
+    
+    for classLabel in classesInOrder:
+        precision[classLabel], recall[classLabel], _ = precision_recall_curve(yTrue_scores[:, classLabel+1], yPred_scores[:, classLabel+1])
+        average_precision[classLabel] = average_precision_score(yTrue_scores[:, classLabel+1], yPred_scores[:, classLabel+1], average="micro")
+    
+    # A "micro-average": quantifying score on all classes jointly
+    precision["micro"], recall["micro"], _ = precision_recall_curve(yTrue_scores.ravel(), yPred_scores.ravel())
+    average_precision["micro"] = average_precision_score(yTrue_scores, yPred_scores, average="micro")
+    print('Average precision score, micro-averaged over all classes: {0:0.2f}'.format(average_precision["micro"]))
+    
+    plt.figure(figsize=(6, 10), dpi=100)
+    f_scores = np.linspace(0.2, 0.8, num=4)
+    lines = []
+    labels = []
+    for f_score in f_scores:
+        x = np.linspace(0.01, 1)
+        y = f_score * x / (2 * x - f_score)
+        l, = plt.plot(x[y >= 0], y[y >= 0], color='gray', alpha=0.2)
+        plt.annotate('f1={0:0.1f}'.format(f_score), xy=(0.9, y[45] + 0.02))
+    
+    lines.append(l)
+    labels.append('iso-f1 curves')
+    l, = plt.plot(recall["micro"], precision["micro"], color='gold', linewidth=4, linestyle=':', )
+    """plt.plot(fpr["micro"], tpr["micro"], label='micro-average ROC curve (area = {0:0.2f})'.format(roc_auc["micro"]), color='gold', linestyle=':', linewidth=4)"""
+    lines.append(l)
+    labels.append('Overall AUC i.e. micro AP for all classes = {0:0.2f})'.format(average_precision["micro"]))
+    
+    for classLabel, color in zip(classesInOrder, ['red', 'green', 'blue']):
+        l, = plt.plot(recall[classLabel], precision[classLabel], color=color, lw=2)
+        lines.append(l)
+        labels.append('{0} (AUC i.e. micro AP for = {1:0.2f})'.format(classNumToName[classLabel], average_precision[classLabel]))
+    
+    fig = plt.gcf()
+    fig.subplots_adjust(bottom=0.25)
+    plt.xlim([0.0, 1.0])
+    plt.ylim([0.0, 1.05])
+    plt.xlabel('Recall')
+    plt.ylabel('Precision')
+    plt.title(title)
+    plt.legend(lines, labels, loc=(0, -.38), prop=dict(size=14))
